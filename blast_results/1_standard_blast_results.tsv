@@ -1,0 +1,13 @@
+Query_ID	Top_Hit	E_Value	Identity_(%)
+mORF_01	ref|WP_009287914.1| MULTISPECIES: molecular chaperone DnaK [...	0.0	100.0
+mORF_02	ref|WP_009288143.1| MULTISPECIES: elongation factor Tu [Halo...	0.0	100.0
+mORF_03	ref|WP_009287922.1| MULTISPECIES: ATP-dependent zinc metallo...	0.0	100.0
+mORF_04	ref|WP_009286362.1| MULTISPECIES: DNA topoisomerase (ATP-hyd...	0.0	100.0
+mORF_05	gb|ELY21083.1| Amidase [Vreelandella titanicae BH1]...	0.0	100.0
+mORF_06	gb|ELY21290.1| Tryptophanyl-tRNA synthetase, class Ib [Vreel...	0.0	100.0
+mORF_07	ref|WP_009287804.1| MULTISPECIES: glycine betaine ABC transp...	0.0	100.0
+mORF_08	ref|WP_009287296.1| MULTISPECIES: succinate dehydrogenase ir...	9.41194e-175	100.0
+mORF_09	ref|WP_009288403.1| MULTISPECIES: outer membrane protein ass...	0.0	100.0
+mORF_10	gb|ELY22254.1| hypothetical protein HALTITAN_0825 [Vreelande...	0.0	100.0
+mORF_11	ref|WP_009286036.1| hypothetical protein [Vreelandella titan...	1.56776e-146	100.0
+mORF_12	ref|WP_009286699.1| MULTISPECIES: hypothetical protein [Halo...	0.0	100.0

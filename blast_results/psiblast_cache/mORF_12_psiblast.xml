@@ -1,0 +1,2842 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_6552961</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>273</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_6552961</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>273</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_009286699.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|NAO97143.1| hypothetical protein [Halomonas sp. MG34] &gt;gb|ELY22390.1| hypothetical protein HALTITAN_0976 [Vreelandella titanicae BH1] &gt;gb|KIN15079.1| hypothetical protein RO22_13015 [Halomonas sp. KHS3] &gt;gb|MCE7517243.1| hypothetical protein [Vreelandella titanicae] &gt;gb|MFJ5537040.1| hypothetical protein [Vreelandella titanicae]</Hit_def>
+  <Hit_accession>WP_009286699</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.542</Hsp_bit-score>
+      <Hsp_score>1072</Hsp_score>
+      <Hsp_evalue>1.52521e-144</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>273</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_022523478.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|MFS8149462.1| hypothetical protein [Vreelandella titanicae] &gt;gb|MGQ7254852.1| hypothetical protein [Vreelandella titanicae] &gt;gb|MHN9203473.1| hypothetical protein [Vreelandella titanicae] &gt;gb|QKS23479.1| hypothetical protein FX987_01238 [Vreelandella titanicae] &gt;gb|QNU61437.1| hypothetical protein HZS52_16925 [Vreelandella titanicae]</Hit_def>
+  <Hit_accession>WP_022523478</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>417.157</Hsp_bit-score>
+      <Hsp_score>1071</Hsp_score>
+      <Hsp_evalue>2.26263e-144</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLRQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLL+QLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_474191915.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella titanicae]</Hit_def>
+  <Hit_accession>WP_474191915</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>416.387</Hsp_bit-score>
+      <Hsp_score>1069</Hsp_score>
+      <Hsp_evalue>4.97938e-144</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>272</Hsp_identity>
+      <Hsp_positive>273</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTNVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDT+VQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_159176787.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|MCD1587851.1| hypothetical protein [Halomonas sp. IOP_14] &gt;emb|CAD5258635.1| conserved hypothetical protein [Halomonas sp. 156] &gt;emb|CAD5290330.1| conserved hypothetical protein [Halomonas sp. 113] &gt;emb|CAD5291855.1| conserved hypothetical protein [Halomonas sp. 59] &gt;emb|CAD5295595.1| conserved hypothetical protein [Halomonas sp. I3]</Hit_def>
+  <Hit_accession>WP_159176787</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>410.994</Hsp_bit-score>
+      <Hsp_score>1055</Hsp_score>
+      <Hsp_evalue>5.8441e-142</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>271</Hsp_identity>
+      <Hsp_positive>272</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLSELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFDELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARF+ELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_273190476.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella neptunia] &gt;gb|MBL1267379.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_273190476</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.208</Hsp_bit-score>
+      <Hsp_score>1027</Hsp_score>
+      <Hsp_evalue>1.37502e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAVGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSMSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLKEQAELRDSQLLAMRESLDALEQTGSSGRQNLVEEVSHLEQLTERRIDSLDSQLNSVSSAWEEQLSAQRAAFEERFDELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAA GLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SLAATREELYGFLTSSEDTVSSDSINTLLQQLSQL+EQAELRDSQL+A+RESLDALEQTGSSGRQNLVEEVSHLEQLTERRI+ LDSQLNSVSSAWEEQLSAQRAAFE RF+ELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_133732511.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella neptunia] &gt;gb|MBF57100.1| hypothetical protein [Halomonas sp.] &gt;gb|MDN3561970.1| hypothetical protein [Vreelandella neptunia] &gt;gb|TDV94805.1| hypothetical protein BDK62_11270 [Vreelandella neptunia] &gt;gb|WQH14919.1| hypothetical protein SR894_10370 [Vreelandella neptunia]</Hit_def>
+  <Hit_accession>WP_133732511</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>400.208</Hsp_bit-score>
+      <Hsp_score>1027</Hsp_score>
+      <Hsp_evalue>1.40547e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSMSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLKEQAELRDSQLLAMRESLDALEQTGSSGRQNLVEEVSHLEQLTERRIDSLDSQLNSVSSAWEEQLSAQRAAFEERFDELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SLAATREELYGFLTSSEDTVSSDSINTLLQQLSQL+EQAELRDSQL+A+RESLDALEQTGSSGRQNLVEEVSHLEQLTERRI+ LDSQLNSVSSAWEEQLSAQRAAFE RF+ELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_280106810.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella neptunia] &gt;gb|WGI27244.1| hypothetical protein QEN58_09320 [Vreelandella neptunia]</Hit_def>
+  <Hit_accession>WP_280106810</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>399.053</Hsp_bit-score>
+      <Hsp_score>1024</Hsp_score>
+      <Hsp_evalue>3.61411e-137</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>262</Hsp_identity>
+      <Hsp_positive>268</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLAAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDTLTFVQAQMSTLFQEQEQLSKSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLKEQAELRDSQLMAVRESLDALEQTGASGRQNLVEEVSHLEQLTQRRIDGLASQLNSVSSVWEEQLSAQRAAFEARFDELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSL AQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDT+TFVQAQMSTLFQEQEQLS SLAATREELYGFLTSSEDTVSSDSINTLLQQLSQL+EQAELRDSQLMAVRESLDALEQTG+SGRQNLVEEVSHLEQLT+RRI+GL SQLNSVSS WEEQLSAQRAAFEARF+ELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_180092973.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella sedimenti] &gt;gb|NYT73449.1| hypothetical protein [Vreelandella sedimenti]</Hit_def>
+  <Hit_accession>WP_180092973</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.897</Hsp_bit-score>
+      <Hsp_score>1021</Hsp_score>
+      <Hsp_evalue>1.0085e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>267</Hsp_identity>
+      <Hsp_positive>270</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELET----SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSMSLAETREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRIDGLDSQLNSASSAWEEQLSAQRAAFEARFDELETSVAESVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SLA TREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRI+GLDSQLNS SSAWEEQLSAQRAAFEARF+ELET    SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_227405201.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|UBR50099.1| hypothetical protein KF947_00850 [Halomonas sp. FeN2]</Hit_def>
+  <Hit_accession>WP_227405201</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>397.897</Hsp_bit-score>
+      <Hsp_score>1021</Hsp_score>
+      <Hsp_evalue>1.1509e-136</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>263</Hsp_identity>
+      <Hsp_positive>269</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLSMSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLKEQAELRDSQLLAMRESLDALEQTGSSGRQNLVEEVSHLEQLTERRIDSLDSQLNSVSSAWEEQLSAQRAAFEERFDELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQLS+SLAATREELYGFLTSSEDTVSSDSINTLLQQLSQL+EQAELRDSQL+A+RESLDALEQTGSSGRQNLVEEVSHLEQLTERRI+ LDSQLNSVSSAWEEQLSAQRAAFE RF+ELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_308335081.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp. SpR1] &gt;gb|MDQ7731249.1| hypothetical protein [Halomonas sp. SpR1]</Hit_def>
+  <Hit_accession>WP_308335081</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>385.185</Hsp_bit-score>
+      <Hsp_score>988</Hsp_score>
+      <Hsp_evalue>1.10904e-131</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>260</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTIWPLWLCMLLIIALLGAAAVGLWYERERLLDEIHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLATSLAATREELYGFLTTSEDTVSSDSINTLMQQLSQLREQAELRDSQLMAVRESLDALEQTGASGRQNLVAEVSHLEQLTGQRIEELDSQLNSVTSAWEEQLSAHRAAIEDRFDELETSVAALEAPVDQAALEELEQQWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPT+WPLWLC+LLIIAL+GAAA GLWYERERLL E+HRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQL+ SLAATREELYGFLT+SEDTVSSDSINTL+QQLSQLREQAELRDSQLMAVRESLDALEQTG+SGRQNLV EVSHLEQLT +RI  LDSQLNSV+SAWEEQLSA RAA E RF+ELETSVA +EAP DQAALE LEQ+WSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|WP_226249939.1|</Hit_id>
+  <Hit_def>MULTISPECIES: GumC domain-containing protein [unclassified Halomonas] &gt;gb|MCA8865240.1| hypothetical protein [Halomonas sp. SBBP1] &gt;gb|UZH12200.1| hypothetical protein OM794_10895 [Halomonas sp. BDJS001]</Hit_def>
+  <Hit_accession>WP_226249939</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>352.829</Hsp_bit-score>
+      <Hsp_score>904</Hsp_score>
+      <Hsp_evalue>6.01244e-119</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>249</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTIWPLWLCLLLIIALLGAAAVGLWYERERLLDEIHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLATSLAATREELYGFLTTSEDTVSSDSINTLMQQLSQLREQAELRDSQLMAVRESLDALEQTGASGRQNLVAEVSHLEQLTEQRIGELDSQLNSVTTAWEEQLSAQRAAIEDRFDELETSVAAVEAPADQAALEELEQQWTQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPT+WPLWLCLLLIIAL+GAAA GLWYERERLL E+HRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQL+ SLAATREELYGFLT+SEDTVSSDSINTL+QQLSQLREQAELRDSQLMAVRESLDALEQTG+SGRQNLV EVSHLEQLTE+RI  LDSQLNSV++AWEEQLSAQRAA E RF+ELETSVA +EAPADQAALE LEQ+W+QRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|WP_088701459.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas campaniensis] &gt;gb|OWV28157.1| hypothetical protein JI62_17610 [Halomonas campaniensis]</Hit_def>
+  <Hit_accession>WP_088701459</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>350.132</Hsp_bit-score>
+      <Hsp_score>897</Hsp_score>
+      <Hsp_evalue>8.03694e-118</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>249</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTIWPLWLCLLLIIALLGAAAVGLWYERERLLDEIHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLATSLAATREELYGFLTTSEDTVSSDSINTLMQQLSQLREQAELRDSQLMAVRESLDALEQTGASGRQNLVAEVSHLEQLTEQRIEELDSQLNSVTTAWEEQLSAQRAAIEDRFDELETSVAAVEAPADQAALEELEQQWTQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPT+WPLWLCLLLIIAL+GAAA GLWYERERLL E+HRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQL+ SLAATREELYGFLT+SEDTVSSDSINTL+QQLSQLREQAELRDSQLMAVRESLDALEQTG+SGRQNLV EVSHLEQLTE+RI  LDSQLNSV++AWEEQLSAQRAA E RF+ELETSVA +EAPADQAALE LEQ+W+QRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|WP_211594325.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Vreelandella] &gt;gb|MBS3667938.1| hypothetical protein [Vreelandella boliviensis] &gt;gb|XHN39776.1| hypothetical protein ACFIOZ_10610 [Vreelandella sp. F11]</Hit_def>
+  <Hit_accession>WP_211594325</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>348.591</Hsp_bit-score>
+      <Hsp_score>893</Hsp_score>
+      <Hsp_evalue>2.67729e-117</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>247</Hsp_identity>
+      <Hsp_positive>262</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTIWPLWLCLLLIIALLGAAAVGLWYERERLLDEIHRVSGEVSNVHARLDSDDTDVQDTITFVQAQLSTLFQEQEQLATSLAATREELYGFLTTSEDTVSSDSINTLMQQLAQFREQAELRDSQLMAVRESLDALEQTGTSGRQNLVEEVSHLEQLTEQRIEALDSQLNSVTSAWEEQLSAQRATIEDRFDELETSVAALEAPADQSALEELEQQWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPT+WPLWLCLLLIIAL+GAAA GLWYERERLL E+HRVSGEVSNVHARLDSDDTDVQDTITFVQAQ+STLFQEQEQL+ SLAATREELYGFLT+SEDTVSSDSINTL+QQL+Q REQAELRDSQLMAVRESLDALEQTG+SGRQNLVEEVSHLEQLTE+RI  LDSQLNSV+SAWEEQLSAQRA  E RF+ELETSVA +EAPADQ+ALE LEQ+WSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|WP_071693223.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas sp. QHL1] &gt;gb|OJA04507.1| hypothetical protein QHL1GM_03385 [Halomonas sp. QHL1]</Hit_def>
+  <Hit_accession>WP_071693223</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>343.969</Hsp_bit-score>
+      <Hsp_score>881</Hsp_score>
+      <Hsp_evalue>2.22285e-115</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>257</Hsp_identity>
+      <Hsp_positive>265</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAHHLRHRKGPTLWPLWLSLLLIIALMGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTGVQDTITFVQAQMSTLFQEQEQLSMSLAATREELYGFLTSSEDTVSSDSINTLVQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVQEVSHLEQLTDQRIEGLDSQLNSISSAWEEQLAAQRTAIEARFDELETSVAEIEAPVDQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTA HLRHRKGPTLWPLWL LLLIIALMGAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDT VQDTITFVQAQMSTLFQEQEQLS+SLAATREELYGFLTSSEDTVSSDSINTL+QQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLV+EVSHLEQLT++RI GLDSQLNS+SSAWEEQL+AQR A EARF+ELETSVAEIEAP DQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|WP_317506424.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halovibrio sp. HP20-59] &gt;gb|MEA2117473.1| hypothetical protein [Halovibrio sp. HP20-59]</Hit_def>
+  <Hit_accession>WP_317506424</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>341.273</Hsp_bit-score>
+      <Hsp_score>874</Hsp_score>
+      <Hsp_evalue>2.09607e-114</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>274</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>218</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQA-ALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVEQSLTAQHLRHRKGPTLWPLWLCLLFIIVLLGVAAAGLWYERERLLNEIHRVSGEVSNVHARLDADDSDVQDTITFVQAQMATLFQEQEQLSMSLAETREELYSLLTMNEDMASSDSINTLLQQLTQLREQAASRDSQLTAMRESLDALEQVGMSGRQNLVEEVAHLEQLTDQRLSAMESQIDTVSRRWEEELAAQREAMDSRFNELETAVAEAQAPAEQKEALATLEQQWTQRLNAIESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDV+QSLTAQHLRHRKGPTLWPLWLCLL II L+G AAAGLWYERERLL E+HRVSGEVSNVHARLD+DD+DVQDTITFVQAQM+TLFQEQEQLS+SLA TREELY  LT +ED  SSDSINTLLQQL+QLREQA  RDSQL A+RESLDALEQ G SGRQNLVEEV+HLEQLT++R++ ++SQ+++VS  WEE+L+AQR A ++RFNELET+VAE +APA+Q  AL  LEQ+W+QRLN++ESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|WP_035579273.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|MBR9902916.1| hypothetical protein [Gammaproteobacteria bacterium] &gt;gb|TVU89337.1| hypothetical protein FQP89_15195 [Vreelandella titanicae] &gt;emb|CEP36182.1| Putative uncharacterized protein [Halomonas sp. R57-5]</Hit_def>
+  <Hit_accession>WP_035579273</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>330.102</Hsp_bit-score>
+      <Hsp_score>845</Hsp_score>
+      <Hsp_evalue>7.8794e-110</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>242</Hsp_identity>
+      <Hsp_positive>259</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELET----SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGASAAGLWYERERLLAELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSMSLATTREELYSLLTTNEDMVSSDSINTLMQQLTQLREQAESRDGQLMAMRESLDALEQTGTSGRQNLVEEVSHLEQLTEQRLSVLDSQINDVSSDWEEQLSAQRTAIEARFDELETSFSASLAEVEAPADQEALEALEQEWAQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GA+AAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SLA TREELY  LT++ED VSSDSINTL+QQL+QLREQAE RD QLMA+RESLDALEQTG+SGRQNLVEEVSHLEQLTE+R++ LDSQ+N VSS WEEQLSAQR A EARF+ELET    S+AE+EAPADQ ALEALEQEW+QRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|WP_447044198.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella sp. H-I2]</Hit_def>
+  <Hit_accession>WP_447044198</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.561</Hsp_bit-score>
+      <Hsp_score>841</Hsp_score>
+      <Hsp_evalue>2.66518e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKRTKLWPIWLCLLFIIALLGAAAAGLWYERERLLSEIHRVSGEVSNVHARLDSGDSGVQDAITFVQAQMATLFQEQEQLSISLANTREELYSLLTMNEDMASSDSINTLLQQLEQLSEQAELRDSQLMAMRESLDALEQTGTSGRQNLIEEVTHLEQLTEQRLAVLDNQINNVSSAWEEQLAEQREAIETRIEELESSIAETDTPAEQEALEALEQEWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRK   LWP+WLCLL IIAL+GAAAAGLWYERERLL E+HRVSGEVSNVHARLDS D+ VQD ITFVQAQM+TLFQEQEQLS+SLA TREELY  LT +ED  SSDSINTLLQQL QL EQAELRDSQLMA+RESLDALEQTG+SGRQNL+EEV+HLEQLTE+R+  LD+Q+N+VSSAWEEQL+ QR A E R  ELE+S+AE + PA+Q ALEALEQEWSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|MDN7132421.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp. MC140]</Hit_def>
+  <Hit_accession>MDN7132421</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>328.176</Hsp_bit-score>
+      <Hsp_score>840</Hsp_score>
+      <Hsp_evalue>3.61965e-109</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQTLTTQPIRHRKGPALWPLWLFIFLIMGLLIAAAAGLWYERERLLDEVRVVSGELSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLINTREELYGLLTTDDDRASSDSINSLAQQIKQFQEQAALRDSQLMAIRESLNTLEQTGISGRQNLVEEVAHLEQLTGQRLEELDSQINSASGSWEGQLATQKDEFAARFDSFEATLVESEDPVDQEALQALEQQWSQRLGTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQ+LT Q +RHRKGP LWPLWL + LI+ L+ AAAAGLWYERERLL E+  VSGE+SNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+ +D  SSDSIN+L QQ+ Q +EQA LRDSQLMA+RESL+ LEQTG SGRQNLVEEV+HLEQLT +R+  LDSQ+NS S +WE QL+ Q+  F ARF+  E ++ E E P DQ AL+ALEQ+WSQRL +LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|WP_215093170.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. ISL-56] &gt;gb|MBT2774157.1| hypothetical protein [Halomonas sp. ISL-60] &gt;gb|MBT2802274.1| hypothetical protein [Halomonas sp. ISL-56]</Hit_def>
+  <Hit_accession>WP_215093170</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>1.9599e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>237</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELET----SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGTAAVGLWYERERLLDELHRVSGEVSNVHARLDTDDTDVQDAITFVQARMSTLFQEQEQLSMSLADTREELYGLLTMNEDMVSTDSVNSLLQQLAQLREQAELRDQQLMAVRESLDALEQTGTSGRQNLVEEVAHLEQLSEQRLSALDSQINRVSSAWEEQLAAQRAAIEARFDELETSFAESVADREAPAGQEALETLEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+G AA GLWYERERLL ELHRVSGEVSNVHARLD+DDTDVQD ITFVQA+MSTLFQEQEQLS+SLA TREELYG LT +ED VS+DS+N+LLQQL+QLREQAELRD QLMAVRESLDALEQTG+SGRQNLVEEV+HLEQL+E+R++ LDSQ+N VSSAWEEQL+AQRAA EARF+ELET    SVA+ EAPA Q ALE LEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_064232811.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [unclassified Halomonas] &gt;gb|MBT2787926.1| hypothetical protein [Halomonas sp. ISL-106] &gt;gb|MBT2795675.1| hypothetical protein [Halomonas sp. ISL-104] &gt;gb|OAL60975.1| hypothetical protein A6R74_15285 [Halomonas sp. ALS9]</Hit_def>
+  <Hit_accession>WP_064232811</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>326.25</Hsp_bit-score>
+      <Hsp_score>835</Hsp_score>
+      <Hsp_evalue>2.11574e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>236</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELET----SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGTAAVGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDAITFVQARMSTLFQEQEQLSMSLADTREELYGLLTMNEDMVSTDSVNSLLQQLAQLREQAELRDQQLMAVRESLDALEQTGTSGRQNLVEEVAHLEQLSEQRLSALDSQINRVSSAWEEQLAAQKAAIEARFDELETSFAESVADREAPVGQEALETLEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+G AA GLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQA+MSTLFQEQEQLS+SLA TREELYG LT +ED VS+DS+N+LLQQL+QLREQAELRD QLMAVRESLDALEQTG+SGRQNLVEEV+HLEQL+E+R++ LDSQ+N VSSAWEEQL+AQ+AA EARF+ELET    SVA+ EAP  Q ALE LEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|WP_096280073.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonas] &gt;gb|MBE0400462.1| hypothetical protein [Halomonas casei] &gt;gb|MGP9572044.1| hypothetical protein [Halomonas sp. AOP5-CZ2-32] &gt;gb|MGP9579089.1| hypothetical protein [Halomonas sp. AOP42-E1-40] &gt;gb|MGO1871181.1| hypothetical protein [Halomonas sp.] &gt;gb|MGO2579501.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_096280073</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.479</Hsp_bit-score>
+      <Hsp_score>833</Hsp_score>
+      <Hsp_evalue>3.75544e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPIRHRKGPALWPLWLFIFLIMGVLIAAAAGLWYERERLLDELRVVSGEVSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVSGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLAAQRDEFATRFDSFEAAIADSEDPVDQEALQALEQQWSQRLGTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ ++ AAAAGLWYERERLL EL  VSGEVSNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG SGRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL+AQR  F  RF+  E ++A+ E P DQ AL+ALEQ+WSQRL +LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|WP_457508790.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella sulfidaeris] &gt;gb|MGY2462398.1| hypothetical protein [Vreelandella sulfidaeris Esulfide1]</Hit_def>
+  <Hit_accession>WP_457508790</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.479</Hsp_bit-score>
+      <Hsp_score>833</Hsp_score>
+      <Hsp_evalue>4.28183e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKRTKLWPIWLCLLFVIALLGAAAAGLWYERERLLSELHRVSGEVSNVHARLDSGDSGVQDAITFVQAQMATLFQEQEQLSISLANTREELYSLLTMNEDMASSDSINTLLQQLEQLSEQAELRDSQLMAMRESLDALEQTGTSGRQNLIEEVSHLEQLTEQRLAVLDNQISNVSSAWEEQLAEQREAIESRVDELESAIAEADTPAEQEALEALEQEWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRK   LWP+WLCLL +IAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDS D+ VQD ITFVQAQM+TLFQEQEQLS+SLA TREELY  LT +ED  SSDSINTLLQQL QL EQAELRDSQLMA+RESLDALEQTG+SGRQNL+EEVSHLEQLTE+R+  LD+Q+++VSSAWEEQL+ QR A E+R +ELE+++AE + PA+Q ALEALEQEWSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|WP_113267875.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella sulfidaeris] &gt;gb|RBI69220.1| hypothetical protein DQ400_00500 [Vreelandella sulfidaeris]</Hit_def>
+  <Hit_accession>WP_113267875</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.479</Hsp_bit-score>
+      <Hsp_score>833</Hsp_score>
+      <Hsp_evalue>4.57208e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>224</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKRTKLWPIWLCLLFVIALLGAAAAGLWYERERLLSELHRVSGEVSNVHARLDSGDSGVQDAITFVQAQMATLFQEQEQLSISLANTREELYSLLTMNEDMASSDSINTLLQQLEQLSEQAELRDSQLMAMRESLDALEQTGMSGRQNLIEEVSHLEQLTEQRLAVLDNQISNVSSAWEEQLAEQREAIESRVDELESSIAEADTPAEQEALEALEQEWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRK   LWP+WLCLL +IAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDS D+ VQD ITFVQAQM+TLFQEQEQLS+SLA TREELY  LT +ED  SSDSINTLLQQL QL EQAELRDSQLMA+RESLDALEQTG SGRQNL+EEVSHLEQLTE+R+  LD+Q+++VSSAWEEQL+ QR A E+R +ELE+S+AE + PA+Q ALEALEQEWSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|WP_235042275.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella profundi]</Hit_def>
+  <Hit_accession>WP_235042275</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>325.479</Hsp_bit-score>
+      <Hsp_score>833</Hsp_score>
+      <Hsp_evalue>4.62233e-108</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>199</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQTLTTQPIRHRKGPALWPLWLFIFLIMGLLIAAAAGLWYERERLLDEVRVVSGELSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLINTREELYGLLTTDDDRASSDSINSLAQQIKQFQEQAALRDSQLMAIRESLNTLEQTGISGRQNLVEEVAHLEQITGQRLEELDSQINSASRSWEGQLATQKDEFAARFDSFEATLVDSEDPVDQEALQALEQQWSQRLSTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQ+LT Q +RHRKGP LWPLWL + LI+ L+ AAAAGLWYERERLL E+  VSGE+SNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+ +D  SSDSIN+L QQ+ Q +EQA LRDSQLMA+RESL+ LEQTG SGRQNLVEEV+HLEQ+T +R+  LDSQ+NS S +WE QL+ Q+  F ARF+  E ++ + E P DQ AL+ALEQ+WSQRL++LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|WP_444672256.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp. AOP25-F1-15] &gt;gb|MGP9686462.1| hypothetical protein [Halomonas sp. AOP25-F1-15]</Hit_def>
+  <Hit_accession>WP_444672256</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>324.324</Hsp_bit-score>
+      <Hsp_score>830</Hsp_score>
+      <Hsp_evalue>1.04932e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPIRHRKGPALWPLWLFIFLIMGVLIAAAAGLWYERERLLDELRVVSGEVSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVSGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLAAQRDEFATRFDSFEAAIADSEDPVNQEALQALEQQWSQRLGTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ ++ AAAAGLWYERERLL EL  VSGEVSNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG SGRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL+AQR  F  RF+  E ++A+ E P +Q AL+ALEQ+WSQRL +LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|WP_483393615.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp. AOP5-B2-8] &gt;gb|MGP9567426.1| hypothetical protein [Halomonas sp. AOP5-B2-8]</Hit_def>
+  <Hit_accession>WP_483393615</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.939</Hsp_bit-score>
+      <Hsp_score>829</Hsp_score>
+      <Hsp_evalue>1.36409e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>231</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPIRHRKGPALWPLWLFIFLIMGVLIAAAAGLWYERERLLDELRVVSGEVSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVSGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLAAQRDEFATRFDSFEAAIDDSEDPVDQEALQALEQQWSQRLGTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ ++ AAAAGLWYERERLL EL  VSGEVSNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG SGRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL+AQR  F  RF+  E ++ + E P DQ AL+ALEQ+WSQRL +LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|MCL5424133.1|</Hit_id>
+  <Hit_def>hypothetical protein [Gammaproteobacteria bacterium] &gt;gb|MHK4663991.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|MHK4701875.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|MHK4868387.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|MHK5423619.1| hypothetical protein [Pseudomonadota bacterium]</Hit_def>
+  <Hit_accession>MCL5424133</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.939</Hsp_bit-score>
+      <Hsp_score>829</Hsp_score>
+      <Hsp_evalue>1.85252e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>202</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTAPSRIVPDVDQSLTAQHLRYRKGPSLWPLWLFMLLIVGVLIAAAAGLWYERERLLNELQRVSGEVSNVHARLDSGDTDVQDTITFVQAQMSTLFQEQEQLAISLLDAREELYGAITTNEEAATSDSMNALLDQLAQFREQAESRDSQLAALRDSLDSLEQAGTSGRLNLMEEVDHLEQLTDQRLASLDSQVANLSNAWEQQLAAQQEAMAERLDTLEASLAEVEAPLDQAALDAFEQTWTQRLNTLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TA SRIVPDVDQSLTAQHLR+RKGP+LWPLWL +LLI+ ++ AAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDTITFVQAQMSTLFQEQEQL++SL   REELYG +T++E+  +SDS+N LL QL+Q REQAE RDSQL A+R+SLD+LEQ G+SGR NL+EEV HLEQLT++R+  LDSQ+ ++S+AWE+QL+AQ+ A   R + LE S+AE+EAP DQAAL+A EQ W+QRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|WP_427386740.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp. NPDC076908] &gt;gb|MGE6605363.1| hypothetical protein [Halomonas sp. NPDC076908]</Hit_def>
+  <Hit_accession>WP_427386740</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.553</Hsp_bit-score>
+      <Hsp_score>828</Hsp_score>
+      <Hsp_evalue>2.08921e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>203</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTAPSRIVPDVDQSLTAQHLRYRKGPSLWPLWLFMLLIVGVLIAAAAGLWYERERLLNELQRVSGEVSNVHARLDSGDTDVQDTITFVQAQMSTLFQEQEQLAISLLDAREELYGALTTNEEAATSDSMNALLDQLAQFREQAESRDSQLAALRDSLDSLEQAGTSGRLNLMEEVDHLEQLTDQRLASLDSQVANLSNAWEQQLAAQQEAMAERLDTLEASLAEVEAPLDQAALDAFEQTWTQRLNTLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TA SRIVPDVDQSLTAQHLR+RKGP+LWPLWL +LLI+ ++ AAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDTITFVQAQMSTLFQEQEQL++SL   REELYG LT++E+  +SDS+N LL QL+Q REQAE RDSQL A+R+SLD+LEQ G+SGR NL+EEV HLEQLT++R+  LDSQ+ ++S+AWE+QL+AQ+ A   R + LE S+AE+EAP DQAAL+A EQ W+QRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|WP_441683685.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.] &gt;gb|MGO2390501.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_441683685</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>323.553</Hsp_bit-score>
+      <Hsp_score>828</Hsp_score>
+      <Hsp_evalue>2.51584e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPIRHRKGPALWPLWLFIFLIMGVLIAAAAGLWYERERLLDELRVVSGEVSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVSGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLAAQRDEFATRFDSFEAAIADSEDPVDQEALQALEQQWSQRLGTLESELRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ ++ AAAAGLWYERERLL EL  VSGEVSNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG SGRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL+AQR  F  RF+  E ++A+ E P DQ AL+ALEQ+WSQRL +LES++RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|WP_444625454.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [unclassified Halomonas] &gt;gb|MGP9809167.1| hypothetical protein [Halomonas sp. AOP12-B1-6] &gt;gb|MGP9848811.1| hypothetical protein [Halomonas sp. AOP12-C2-37]</Hit_def>
+  <Hit_accession>WP_444625454</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>322.398</Hsp_bit-score>
+      <Hsp_score>825</Hsp_score>
+      <Hsp_evalue>5.71094e-107</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>230</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPIRHRKGPALWPLWLFIFLIMGLLIVSAAGLWYERERLLDELRVVSGEVSNVHARLDSGDGDVQDTITFVQAQMSTLFQEQEQLSVSLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVSGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLEAQRDEFATRFDSFEAALADSEDPVDQEALQALEQQWSQRLGTLESDLRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ L+  +AAGLWYERERLL EL  VSGEVSNVHARLDS D DVQDTITFVQAQMSTLFQEQEQLSVSL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG SGRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL AQR  F  RF+  E ++A+ E P DQ AL+ALEQ+WSQRL +LESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_007114233.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella boliviensis] &gt;gb|EHJ91744.1| hypothetical protein KUC_3301 [Vreelandella boliviensis LC1] &gt;gb|OZT74951.1| hypothetical protein CE457_07410 [Vreelandella boliviensis LC1]</Hit_def>
+  <Hit_accession>WP_007114233</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>320.472</Hsp_bit-score>
+      <Hsp_score>820</Hsp_score>
+      <Hsp_evalue>4.1503e-106</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>244</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELET----SVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAVGLWYERERLLDELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSMSLADTREELYSLLTMNEDMVSSDSINTLLQQLAQLREQAELRDSQLMAVRESLNALEQTGTSGRQNLVEEVVHQEQLTGQRLSALDSQINSVRSAWEEQLSEQRAAIEARFDELETSFAESVAEIESPAGQEALETLEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAA GLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SLA TREELY  LT +ED VSSDSINTLLQQL+QLREQAELRDSQLMAVRESL+ALEQTG+SGRQNLVEEV H EQLT +R++ LDSQ+NSV SAWEEQLS QRAA EARF+ELET    SVAEIE+PA Q ALE LEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gb|MHK9471854.1|</Hit_id>
+  <Hit_def>hypothetical protein [Pseudomonadota bacterium]</Hit_def>
+  <Hit_accession>MHK9471854</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>318.161</Hsp_bit-score>
+      <Hsp_score>814</Hsp_score>
+      <Hsp_evalue>2.46624e-105</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>269</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>198</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>269</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQL</Hsp_qseq>
+      <Hsp_hseq>MPDSTAPSRIVPDVDQSLTAQHLRYRKGPSLWPLWLFMLLIVGVLIAAAAGLWYERERLLNELQRVSGEVSNVHARLDSGDTDVQDTITFVQAQMSTLFQEQEQLAISLLDAREELYGAITTNEEAATSDSMNALLDQLAQFREQAESRDSQLAALRDSLDSLEQAGTSGRLNLMEEVDHLEQLTDQRLASLDSQVANLSNAWEQQLAAQQEAMAERLDTLEASLAEVEAPLDQAALDAFEQTWTQRLNTLESDVRQVRQAQLAFSAQL</Hsp_hseq>
+      <Hsp_midline>MPD+TA SRIVPDVDQSLTAQHLR+RKGP+LWPLWL +LLI+ ++ AAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDTITFVQAQMSTLFQEQEQL++SL   REELYG +T++E+  +SDS+N LL QL+Q REQAE RDSQL A+R+SLD+LEQ G+SGR NL+EEV HLEQLT++R+  LDSQ+ ++S+AWE+QL+AQ+ A   R + LE S+AE+EAP DQAAL+A EQ W+QRLN+LESDVRQVRQAQLAFSAQL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|WP_427031320.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [unclassified Halomonas] &gt;gb|MGO1395491.1| hypothetical protein [Halomonas sp.] &gt;gb|MGO1760978.1| hypothetical protein [Halomonadaceae bacterium] &gt;gb|MGO1425791.1| hypothetical protein [Halomonas sp.] &gt;gb|MGO1430493.1| hypothetical protein [Halomonas sp.] &gt;gb|MGO1533909.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_427031320</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>317.005</Hsp_bit-score>
+      <Hsp_score>811</Hsp_score>
+      <Hsp_evalue>8.56392e-105</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>225</Hsp_identity>
+      <Hsp_positive>247</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVA----EIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIVLLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSGDTDVQDVITFVQAQMSTLFQEQEQLSISLNDTRAELYSLLTMNEDMASSDSINTLLQQLAQFEEQAELRDSQLLAMRESLDALEQAGTSGRQNLIEEVAHLEQLNGQRLSALDNQVNNVSSEWEEQLAAQRDAIEARFDDLEASLAASMVDLDTPADQQALETLEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLII L+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDS DTDVQD ITFVQAQMSTLFQEQEQLS+SL  TR ELY  LT +ED  SSDSINTLLQQL+Q  EQAELRDSQL+A+RESLDALEQ G+SGRQNL+EEV+HLEQL  +R++ LD+Q+N+VSS WEEQL+AQR A EARF++LE S+A    +++ PADQ ALE LEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_441670207.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.] &gt;gb|MGO2241793.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_441670207</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>316.235</Hsp_bit-score>
+      <Hsp_score>809</Hsp_score>
+      <Hsp_evalue>1.97704e-104</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>196</Hsp_identity>
+      <Hsp_positive>229</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDASASSRIVPDVDQSLTTQPMRHRKGPALWPLWLFIFLIMGLLIVSAAGLWYEHERLLDELSVVSGEVSNVHARLDSGDGDVQDAITFVQAQMSTLFQEQEQLSISLIDTREELYGLLTNSDDMVSSDSINALAQQIKQFQERAALRDSQLMAIRESLNTLEQTGVAGRQSLVEEVAHLEQLTDQRLEEQDSQIDSASRSWEGQLAAQRDEFATRFDALEAALVDSEDPVDQEALQALEQQWSQRLGTLESELRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDA+ASSRIVPDVDQSLT Q +RHRKGP LWPLWL + LI+ L+  +AAGLWYE ERLL EL  VSGEVSNVHARLDS D DVQD ITFVQAQMSTLFQEQEQLS+SL  TREELYG LT+S+D VSSDSIN L QQ+ Q +E+A LRDSQLMA+RESL+ LEQTG +GRQ+LVEEV+HLEQLT++R+   DSQ++S S +WE QL+AQR  F  RF+ LE ++ + E P DQ AL+ALEQ+WSQRL +LES++RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gb|TVP48015.1|</Hit_id>
+  <Hit_def>MAG: hypothetical protein EA345_09775 [Halomonas sp.]</Hit_def>
+  <Hit_accession>TVP48015</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>312.383</Hsp_bit-score>
+      <Hsp_score>799</Hsp_score>
+      <Hsp_evalue>4.96513e-103</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>201</Hsp_identity>
+      <Hsp_positive>238</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTASSRIVPDVEHSLTAQHLRHRKGPTLWPLWVLMLLIIATLMAAAAGLWYERERLLSELQRVSGEVSNVHARLDSGDTDVQDTVALVQAQIGTLFQEQEQLSIALGDTRQELYNLLTNNEEAATSDSIDRLLQQLAQSQEQAQLRDSQLAALNQSLDALEQAGTAGRRNIIEEVDHLEQLTGQRLSALEEQISSVNVAWEEQLSAQREAIASRFEELETSLAESDASVDQEALDALEQTWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TASSRIVPDV+ SLTAQHLRHRKGPTLWPLW+ +LLIIA + AAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDT+  VQAQ+ TLFQEQEQLS++L  TR+ELY  LT++E+  +SDSI+ LLQQL+Q +EQA+LRDSQL A+ +SLDALEQ G++GR+N++EEV HLEQLT +R++ L+ Q++SV+ AWEEQLSAQR A  +RF ELETS+AE +A  DQ AL+ALEQ WSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|WP_445532880.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella sp. V005] &gt;gb|MGQ7263086.1| hypothetical protein [Vreelandella sp. V005]</Hit_def>
+  <Hit_accession>WP_445532880</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>311.612</Hsp_bit-score>
+      <Hsp_score>797</Hsp_score>
+      <Hsp_evalue>1.10235e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>239</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPILWPLWLCLLLIIALLGAAAAGLWYERERLLDELHRVSGEVSNVHARLDSDDTGVQDTITFVQAQMSTLFQEQEQLSIALNDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLMAMRESLDALEQTGTSGRQNLIEEVSHLEQLTEQRLSVLDSQLNSMGSDWEEQLSAQRNAIEARFDELESSVAEVEAPADQQALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGP LWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDT VQDTITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQLMA+RESLDALEQTG+SGRQNL+EEVSHLEQLTE+R++ LDSQLNS+ S WEEQLSAQR A EARF+ELE+SVAE+EAPADQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|WP_146873050.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halovibrio variabilis] &gt;dbj|GEN26954.1| hypothetical protein HVA01_06000 [Halovibrio variabilis]</Hit_def>
+  <Hit_accession>WP_146873050</Hit_accession>
+  <Hit_len>274</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>309.301</Hsp_bit-score>
+      <Hsp_score>791</Hsp_score>
+      <Hsp_evalue>9.08909e-102</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>274</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>274</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQ-AALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVEQSLTAQHLRHRKGPTLWPLWLCLLLIIAVLGVAAAGLWYERERLLDEIHRVSGEVSNVHARLDSDDSDVQDTITFVQAQMATLFQEQEQLSMSLAETREELYSLLTMNEDMASSDSINTLLQQLAQLREQAASRDSQLTAMRESLDALEQVGMSGRQNLVEEVAHLEQLTDQRLSAMESQIDTVSRRWEEQLAAQREAMDTRFTELETAVAEAQAPTEQEEALETLEQEWTQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDV+QSLTAQHLRHRKGPTLWPLWLCLLLIIA++G AAAGLWYERERLL E+HRVSGEVSNVHARLDSDD+DVQDTITFVQAQM+TLFQEQEQLS+SLA TREELY  LT +ED  SSDSINTLLQQL+QLREQA  RDSQL A+RESLDALEQ G SGRQNLVEEV+HLEQLT++R++ ++SQ+++VS  WEEQL+AQR A + RF ELET+VAE +AP +Q  ALE LEQEW+QRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|WP_101147273.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas sp. MES3-P3E] &gt;gb|PKG49087.1| hypothetical protein CXF87_15800 [Halomonas sp. MES3-P3E]</Hit_def>
+  <Hit_accession>WP_101147273</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>308.145</Hsp_bit-score>
+      <Hsp_score>788</Hsp_score>
+      <Hsp_evalue>2.37449e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>257</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALSDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRRNLIEEVSHLEQLTEQRLSELDSQVSNISSDWEEQLSAQRSAIESRFDELEASVAEIEASPDQEALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L+ TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGR+NL+EEVSHLEQLTE+R++ LDSQ++++SS WEEQLSAQR+A E+RF+ELE SVAEIEA  DQ ALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|WP_336273080.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella indica]</Hit_def>
+  <Hit_accession>WP_336273080</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>308.145</Hsp_bit-score>
+      <Hsp_score>788</Hsp_score>
+      <Hsp_evalue>3.01958e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWDEQLSAQRSAIESRFDELETSVAEVETSPDQDALAALEQQWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS W+EQLSAQR+A E+RF+ELETSVAE+E   DQ AL ALEQ+WSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_336268997.1|</Hit_id>
+  <Hit_def>MULTISPECIES: GumC domain-containing protein [Vreelandella] &gt;gb|MHI8995318.1| hypothetical protein [Vreelandella sp. DA03-1M]</Hit_def>
+  <Hit_accession>WP_336268997</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>308.145</Hsp_bit-score>
+      <Hsp_score>788</Hsp_score>
+      <Hsp_evalue>3.12018e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWEEQLSAQRSAIESRFDELEASIAEVEASPDQDALTALEQEWSERLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS WEEQLSAQR+A E+RF+ELE S+AE+EA  DQ AL ALEQEWS+RLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|WP_339885882.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella maris]</Hit_def>
+  <Hit_accession>WP_339885882</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.76</Hsp_bit-score>
+      <Hsp_score>787</Hsp_score>
+      <Hsp_evalue>3.29534e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>255</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWEEQLSAQRSAIESRFDELEASIAEVEASPDKDALTALEQEWSERLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS WEEQLSAQR+A E+RF+ELE S+AE+EA  D+ AL ALEQEWS+RLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|WP_035558219.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas sp. KO116] &gt;gb|AJY50725.1| hypothetical protein KO116_02250 [Halomonas sp. KO116]</Hit_def>
+  <Hit_accession>WP_035558219</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.375</Hsp_bit-score>
+      <Hsp_score>786</Hsp_score>
+      <Hsp_evalue>5.10116e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>251</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLFLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLTIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWDEQLSAQRNAIESRFDELEASVAEVEVSPDQDALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWL LLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQL+++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS W+EQLSAQR A E+RF+ELE SVAE+E   DQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|WP_339934458.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella glaciei]</Hit_def>
+  <Hit_accession>WP_339934458</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.375</Hsp_bit-score>
+      <Hsp_score>786</Hsp_score>
+      <Hsp_evalue>5.10116e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLTIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWDEQLSAQRNAIESRFDELEASVAEVEVSPDQDALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQL+++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS W+EQLSAQR A E+RF+ELE SVAE+E   DQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|WP_335598308.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella glaciei] &gt;gb|MEH6643556.1| hypothetical protein [Vreelandella glaciei]</Hit_def>
+  <Hit_accession>WP_335598308</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.375</Hsp_bit-score>
+      <Hsp_score>786</Hsp_score>
+      <Hsp_evalue>5.329e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRKSLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWDEQLSAQRNAIESRFDELEASVAEVEVSPDQDALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+R+SL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS W+EQLSAQR A E+RF+ELE SVAE+E   DQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|WP_008957970.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas sp. HAL1] &gt;gb|EHA15654.1| hypothetical protein HAL1_10357 [Halomonas sp. HAL1] &gt;gb|WKV94837.1| hypothetical protein Q3Y66_09530 [Halomonas sp. HAL1]</Hit_def>
+  <Hit_accession>WP_008957970</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.99</Hsp_bit-score>
+      <Hsp_score>785</Hsp_score>
+      <Hsp_evalue>9.0025e-101</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALSDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRRNLIEEVSHLEQLTEQRLSELDSQVSNISSDWEEQLSAQRSAIESRFDELEASVAEIEASPDQEALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L+ TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGR+NL+EEVSHLEQLTE+R++ LDSQ++++SS WEEQLSAQR+A E+RF+ELE SVAEIEA  DQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|WP_176302120.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella maris] &gt;gb|NVF12894.1| hypothetical protein [Vreelandella maris]</Hit_def>
+  <Hit_accession>WP_176302120</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.22</Hsp_bit-score>
+      <Hsp_score>783</Hsp_score>
+      <Hsp_evalue>1.5544e-100</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>253</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWEEQLSAQRSAIESRFFALEASIAEVEASPDQDALTALEQEWSERLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS WEEQLSAQR+A E+RF  LE S+AE+EA  DQ AL ALEQEWS+RLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|WP_485873439.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. NYA30]</Hit_def>
+  <Hit_accession>WP_485873439</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>305.449</Hsp_bit-score>
+      <Hsp_score>781</Hsp_score>
+      <Hsp_evalue>2.86562e-100</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>227</Hsp_identity>
+      <Hsp_positive>254</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLSIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTDQRLSVLDSQISNISSDWEEQLSAQRSAIESRFDELEASIAEVEASPDQDAMTALEQEWSERLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQLS++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLT++R++ LDSQ++++SS WEEQLSAQR+A E+RF+ELE S+AE+EA  DQ A+ ALEQEWS+RLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|WP_179915117.1|</Hit_id>
+  <Hit_def>MULTISPECIES: GumC domain-containing protein [Halomonadaceae] &gt;gb|NYS76664.1| hypothetical protein [Vreelandella glaciei] &gt;gb|XBY60911.1| hypothetical protein V8F66_10730 [Vreelandella sp. SM1641]</Hit_def>
+  <Hit_accession>WP_179915117</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>305.449</Hsp_bit-score>
+      <Hsp_score>781</Hsp_score>
+      <Hsp_evalue>3.56529e-100</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>252</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATASSRIVPDVDQSLSAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSDDTDVQDAITFVQAQMSTLFQEQEQLTIALTDTREELYSLLTMNEDMASSDSINSLLQQLNQLNEQAELRDSQLLAMRESLNALEQAGTSGRQNLIEEVSHLEQLTEQRLSVLDSQISNISSDWDEQLSAQRNAIESRFDELEASVAEVEVSPDQDALAALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDATASSRIVPDVDQSL+AQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDSDDTDVQD ITFVQAQMSTLFQEQEQL+++L  TREELY  LT +ED  SSDSIN+LLQQL+QL EQAELRDSQL+A+RESL+ALEQ G+SGRQNL+EEVSHLEQLTE+R++ LDSQ++++SS W+EQLSAQR A E+RF+ELE SVAE+E   DQ AL ALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|WP_308323033.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. SpR8] &gt;gb|MDQ7730144.1| hypothetical protein [Halomonas sp. SpR8]</Hit_def>
+  <Hit_accession>WP_308323033</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.523</Hsp_bit-score>
+      <Hsp_score>776</Hsp_score>
+      <Hsp_evalue>1.72482e-99</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>223</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE----TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLITALLVAAAAGLWYERERLISELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSISLTDTREELYSLLTMNEDMASSDSINSLLQQLDQLEEQAELRDSQLLAMRESLDALEQVGTSGRRNLVEEIAHLEQLNDQRLSALNNQINNVSSEWEEQLAAQRDAIGARFDDLEASFAASMANLEAPADQQALKTLEQQWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLI AL+ AAAAGLWYERERL+ ELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLS+SL  TREELY  LT +ED  SSDSIN+LLQQL QL EQAELRDSQL+A+RESLDALEQ G+SGR+NLVEE++HLEQL ++R++ L++Q+N+VSS WEEQL+AQR A  ARF++LE     S+A +EAPADQ AL+ LEQ+WSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>tpg|HDZ46795.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.] &gt;tpg|HEB03747.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>HDZ46795</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>301.212</Hsp_bit-score>
+      <Hsp_score>770</Hsp_score>
+      <Hsp_evalue>1.59504e-98</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTASSRIVPDVDQSLTAQHLRYRKGPKLWPLWLFMMLIIGLLAAAAAGLWYERERLLDELQRVSGEVSNVHARLDSGDTDVQDTITFVQAQMATLFQEQEQLAISLLDTREELYGALSTNEEAATSDSMNALLRQLAQLREQAESRDRQLAALRESLDSLEQAGTSGRRNLMEEVDHLEQLTDQRLASLESQIASVSSTWEEQLAAQREAMAERLETLEVSLTEAEAPLDQAALDALEQTWTQRLNTLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TASSRIVPDVDQSLTAQHLR+RKGP LWPLWL ++LII L+ AAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDTITFVQAQM+TLFQEQEQL++SL  TREELYG L+++E+  +SDS+N LL+QL+QLREQAE RD QL A+RESLD+LEQ G+SGR+NL+EEV HLEQLT++R+  L+SQ+ SVSS WEEQL+AQR A   R   LE S+ E EAP DQAAL+ALEQ W+QRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>ref|WP_240719479.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella neptunia] &gt;gb|MCH4813199.1| hypothetical protein [Vreelandella neptunia]</Hit_def>
+  <Hit_accession>WP_240719479</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>301.212</Hsp_bit-score>
+      <Hsp_score>770</Hsp_score>
+      <Hsp_evalue>1.60047e-98</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>256</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE----TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLDELRRVSGEVSNVHARLDSGDTDVQDTITFVQAQMSTLFQEQEQLSISLTDTRDELYSLLTMNEDMASSDSINSLLQQLAQLREQAELRDSQLLAMRESLNALEQTGASGRRNLVEEVSHLERLTEQRLSALDSQINNASSDWEEQLSAQRSAIDSRFNELQASFDASVAELQAPADQEALEALEQEWAQRLTSLESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL EL RVSGEVSNVHARLDS DTDVQDTITFVQAQMSTLFQEQEQLS+SL  TR+ELY  LT +ED  SSDSIN+LLQQL+QLREQAELRDSQL+A+RESL+ALEQTG+SGR+NLVEEVSHLE+LTE+R++ LDSQ+N+ SS WEEQLSAQR+A ++RFNEL+     SVAE++APADQ ALEALEQEW+QRL SLESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>ref|WP_386040512.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella sulfidaeris] &gt;gb|MFB9867896.1| hypothetical protein [Vreelandella sulfidaeris] &gt;gb|MFB9872416.1| hypothetical protein [Vreelandella sulfidaeris]</Hit_def>
+  <Hit_accession>WP_386040512</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>299.671</Hsp_bit-score>
+      <Hsp_score>766</Hsp_score>
+      <Hsp_evalue>6.8164e-98</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>215</Hsp_identity>
+      <Hsp_positive>246</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGTAAAGLWYERERLLSELHRVSGEVSNVHARLDSGDTDVQDRLTFVQAQIATLFQEQEQLAVTLSDTREELYSLLNMNEELASSDSINSLLQQLAQLREQAELRDSQLMALRESLEALEQTGTSGRQNLVQEVAHLERLTEQRLSVLDNQVSNISSRWEEQLAAQRQDLEDRLADLEASVASIDASVDEEALDNLAQEWSQRLNALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+G AAAGLWYERERLL ELHRVSGEVSNVHARLDS DTDVQD +TFVQAQ++TLFQEQEQL+V+L+ TREELY  L  +E+  SSDSIN+LLQQL+QLREQAELRDSQLMA+RESL+ALEQTG+SGRQNLV+EV+HLE+LTE+R++ LD+Q++++SS WEEQL+AQR   E R  +LE SVA I+A  D+ AL+ L QEWSQRLN+LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>tpg|HSP32543.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>HSP32543</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>298.516</Hsp_bit-score>
+      <Hsp_score>763</Hsp_score>
+      <Hsp_evalue>1.88192e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>249</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALLGAAAAGLWYERERLLNELHRVSGEVSNVHARLDSGDTDVQDTIAFVQAQMSTLFQEQEQLSTSLNDTREELYSLLTMNEDMASSDSINTLLQQLAQLSEQAELRDSQLLAMRESIDALEQTGTSGRQNLVEEVTHLEELTGQRLSALDSQINRINGSWEEQLADQREAMESRFDQLEASRAEVESPVDQEALASLEQEWTQRLSALESDVRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+TASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIAL+GAAAAGLWYERERLL ELHRVSGEVSNVHARLDS DTDVQDTI FVQAQMSTLFQEQEQLS SL  TREELY  LT +ED  SSDSINTLLQQL+QL EQAELRDSQL+A+RES+DALEQTG+SGRQNLVEEV+HLE+LT +R++ LDSQ+N ++ +WEEQL+ QR A E+RF++LE S AE+E+P DQ AL +LEQEW+QRL++LESDVRQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>dbj|BBI51240.1|</Hit_id>
+  <Hit_def>hypothetical protein HORIV_36610 [Vreelandella olivaria]</Hit_def>
+  <Hit_accession>BBI51240</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>286.189</Hsp_bit-score>
+      <Hsp_score>731</Hsp_score>
+      <Hsp_evalue>5.76385e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>250</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>197</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>250</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNS</Hsp_qseq>
+      <Hsp_hseq>MPDATGSSRIVPDVDQSLTAQHLRHRKGPTIWPLWLCLLLIIALLGAAAVGLWYERERLLDEIHRVSGEVSNVHARLDSDDTDVQDAITFVQAQLSTLFQEQEQLATSLAATREELYGFLTTSEDTVSSDSINTLMQQLSQLREQAELRDSQLMAVRESLDALEQTGASGRQNLVAEVSHLEQLTEQRIEELDSQLNSVTTAWEEQLSAQKLP-------LRIALMNWKHPLQRSKHRQIRQPWKNWSNS</Hsp_hseq>
+      <Hsp_midline>MPDAT SSRIVPDVDQSLTAQHLRHRKGPT+WPLWLCLLLIIAL+GAAA GLWYERERLL E+HRVSGEVSNVHARLDSDDTDVQD ITFVQAQ+STLFQEQEQL+ SLAATREELYGFLT+SEDTVSSDSINTL+QQLSQLREQAELRDSQLMAVRESLDALEQTG+SGRQNLV EVSHLEQLTE+RI  LDSQLNSV++AWEEQLSAQ+         L  ++   + P  ++    + Q W    NS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>ref|WP_263068805.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. 7T] &gt;gb|UXZ55571.1| hypothetical protein LOS15_05980 [Halomonas sp. 7T]</Hit_def>
+  <Hit_accession>WP_263068805</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>1.74976e-89</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>177</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>277</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI----EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTSSQRIVPDVDQSLTAQHLRYRKGPRLWPLWLVMTAIVMALGAAAVGLWYERERLLNDLHRVSGEVSNIHARLDSDDTDAQDAITFVQAQMATLFQEQEQLAMAVTNTRQELYGLLTANEELVSNDAVSSLSQSLEQLREQASLRDGQLAAIRSSLEALEQSGTSGRQNLLEEVSHLEQDTAQRLAVLERQLAAESDELETEFTRWREAVDQRLSTLSSTVETLNTTESSAASQASLDALEQQWAQKINTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T+S RIVPDVDQSLTAQHLR+RKGP LWPLWL +  I+  +GAAA GLWYERERLL +LHRVSGEVSN+HARLDSDDTD QD ITFVQAQM+TLFQEQEQL++++  TR+ELYG LT++E+ VS+D++++L Q L QLREQA LRD QL A+R SL+ALEQ+G+SGRQNL+EEVSHLEQ T +R+  L+ QL + S   E + +  R A + R + L ++V  +     + A QA+L+ALEQ+W+Q++N+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>gb|MGP8289072.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella zhanjiangensis]</Hit_def>
+  <Hit_accession>MGP8289072</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>271.166</Hsp_bit-score>
+      <Hsp_score>692</Hsp_score>
+      <Hsp_evalue>1.10126e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIE---APADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTPSQRIVPDVDQSLTVQHLRHRKGPAVWPLWLGIFLLFALLAAASVGLWLERERLLSELHRVSGEVSNVHARLESGDTDVQDTITFVQAQMTTLFQEQEQLSIALINTREELYGVLTDNEDRPSSETIATFSQQLSQYQEQAALRDSQLAALSSSLDALEQAGRTGRQNLVEEVNYLEQTTTQQLTSIEEQSNQLSQTLDERLDAQNEAINERFNMLETELNTLHLESASANNEEMAAFEQQWSQRLAALESDIRQIRQAQLAFSAQIEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T S RIVPDVDQSLT QHLRHRKGP +WPLWL + L+ AL+ AA+ GLW ERERLL ELHRVSGEVSNVHARL+S DTDVQDTITFVQAQM+TLFQEQEQLS++L  TREELYG LT +ED  SS++I T  QQLSQ +EQA LRDSQL A+  SLDALEQ G +GRQNLVEEV++LEQ T +++  ++ Q N +S   +E+L AQ  A   RFN LET +  +    A A+   + A EQ+WSQRL +LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gb|KUJ88862.1|</Hit_id>
+  <Hit_def>MAG: hypothetical protein XD36_0630 [Halomonas sp. 54_146] &gt;tpg|HAA46838.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>KUJ88862</Hit_accession>
+  <Hit_len>273</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.011</Hsp_bit-score>
+      <Hsp_score>689</Hsp_score>
+      <Hsp_evalue>2.87412e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>273</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>213</Hsp_identity>
+      <Hsp_positive>239</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>273</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPDSTTSSRIVPDVDQSLTAQHLRHRKGPKLWPLWLCLLLIIALLATAAAGLWYERERLLDELRRVSGEVSNVHARLDSGGSDVQDAITFVQAQMATLFQEQEQLSISLTNTREELYSLLTMNEDLASNDSINTLLQQLSQLQEQAVLRDSQLMAIRESLDALEQTGTSGRQNLIAEVAHLEQLTGQRLAALDNQLDSVSRSWEEQLAAQTEAMASRIDEFEASRAEVETSVDQAALEALEREWNQRLEAMESDMRQVRQAQLAFSAQLEMLR</Hsp_hseq>
+      <Hsp_midline>MPD+T SSRIVPDVDQSLTAQHLRHRKGP LWPLWLCLLLIIAL+  AAAGLWYERERLL EL RVSGEVSNVHARLDS  +DVQD ITFVQAQM+TLFQEQEQLS+SL  TREELY  LT +ED  S+DSINTLLQQLSQL+EQA LRDSQLMA+RESLDALEQTG+SGRQNL+ EV+HLEQLT +R+  LD+QL+SVS +WEEQL+AQ  A  +R +E E S AE+E   DQAALEALE+EW+QRL ++ESD+RQVRQAQLAFSAQLEMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>ref|WP_188638711.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella lutescens] &gt;dbj|GGC84486.1| hypothetical protein GCM10011382_13300 [Vreelandella lutescens]</Hit_def>
+  <Hit_accession>WP_188638711</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>269.24</Hsp_bit-score>
+      <Hsp_score>687</Hsp_score>
+      <Hsp_evalue>5.83857e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPTLWPIWLILILVLLLLGASAAGLWYERERLLDEVHRVSGEVSNLHARLDSGDTDAQDAITFVQAQMETLFQEQEQLAVALTNAREELYGLLTNNEELVSDEALETLSQQISQFQEQAALRDRQLTAIRTSLDALEQAGTSGRQNLVEEVSHLEGIMTQRLDTMERQVASDRTALEEQFRAWQEDVEQQLSQLSSAVADVNTQEEPASQAALTALETQWTQRLNTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GPTLWP+WL L+L++ L+GA+AAGLWYERERLL E+HRVSGEVSN+HARLDS DTD QD ITFVQAQM TLFQEQEQL+V+L   REELYG LT++E+ VS +++ TL QQ+SQ +EQA LRD QL A+R SLDALEQ G+SGRQNLVEEVSHLE +  +R++ ++ Q+ S  +A EEQ  A +   E + ++L ++VA++   E PA QAAL ALE +W+QRLN+LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>ref|WP_018916124.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella zhanjiangensis]</Hit_def>
+  <Hit_accession>WP_018916124</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>269.24</Hsp_bit-score>
+      <Hsp_score>687</Hsp_score>
+      <Hsp_evalue>6.44056e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIE---APADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTPSQRIVPDVDQSLTVQHLRHRKGPAVWPLWLGIFLLFALLAAASVGLWLERERLLSELHRVSGEVSNVHARLESGDTDVQDTITFVQAQMTTLFQEQEQLSIALINTREELYGVLTDNEDRPSSETMATFSQQLSQYQEQAALRDSQLAALSSSLDALEQAGTTGRQNLVEEVNYLEQTTTQQLTSIEEQSNQLSQTLDERLDAQNEAINERFNMLETELNTLQLESASANNEEMAAFEQQWSQRLAALESDIRQIRQAQLAFSAQIEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T S RIVPDVDQSLT QHLRHRKGP +WPLWL + L+ AL+ AA+ GLW ERERLL ELHRVSGEVSNVHARL+S DTDVQDTITFVQAQM+TLFQEQEQLS++L  TREELYG LT +ED  SS+++ T  QQLSQ +EQA LRDSQL A+  SLDALEQ G++GRQNLVEEV++LEQ T +++  ++ Q N +S   +E+L AQ  A   RFN LET +  ++   A A+   + A EQ+WSQRL +LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>ref|WP_475334525.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_475334525</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.855</Hsp_bit-score>
+      <Hsp_score>686</Hsp_score>
+      <Hsp_evalue>8.27569e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEVQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEFNTQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+VQD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>gb|MEH6602072.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>MEH6602072</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.855</Hsp_bit-score>
+      <Hsp_score>686</Hsp_score>
+      <Hsp_evalue>9.7458e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEFKPQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>ref|WP_287147953.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|NQY76477.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_287147953</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.7</Hsp_bit-score>
+      <Hsp_score>683</Hsp_score>
+      <Hsp_evalue>2.77513e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>ref|WP_288102230.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|MED5458496.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|MEE3267937.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|PHR04525.1| MAG: hypothetical protein COB32_01895 [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_288102230</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.7</Hsp_bit-score>
+      <Hsp_score>683</Hsp_score>
+      <Hsp_evalue>2.93057e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>ref|WP_483053027.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella sp. L-25]</Hit_def>
+  <Hit_accession>WP_483053027</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>3.19759e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>tpg|HBQ08010.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>HBQ08010</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>3.45111e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>182</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQISSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  ++ ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>ref|WP_089674449.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;emb|SEN03739.1| hypothetical protein SAMN04490369_100161 [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_089674449</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>4.02005e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>ref|WP_213261995.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|MBV65163.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_213261995</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>4.06411e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>ref|WP_253027603.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonadaceae] &gt;gb|MCO7242194.1| hypothetical protein [Halomonas sp. Ps84H-12] &gt;gb|MCP1303741.1| hypothetical protein [Halomonas sp. R1t8] &gt;gb|MCP1329655.1| hypothetical protein [Halomonas sp. R1t4] &gt;tpg|HBK37272.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_253027603</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>4.15368e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>ref|WP_044630061.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonadaceae] &gt;gb|KTG25785.1| hypothetical protein AUR68_20555 [Idiomarina sp. H105] &gt;gb|MEC9021772.1| hypothetical protein [Pseudomonadota bacterium] &gt;gb|OAE95619.1| hypothetical protein AWR38_20585 [Idiomarina sp. WRN-38] &gt;tpg|HAV45648.1| hypothetical protein [Halomonas sp.] &gt;gb|KJD18632.1| hypothetical protein VE30_12040 [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_044630061</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>5.69782e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>gb|MAD21776.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>MAD21776</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>7.24181e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>182</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>ref|WP_441676097.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp.] &gt;gb|MGO3057906.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_441676097</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>7.64818e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIE---APADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTPSQRIVPDVDQSLTAQHLRHRKGPAVWPLWLGIFLLFALLAAASVGLWLERERLQSELHRVSGEVSNVHARLESGDTDVQDTITFVQAQMSTLFQEQEQLSIALTNTREELYGVLTDNEDQASSETMATFSQRLSQYQEQAALRDSQLAALSSSLDALEQAGTTGRQNLVEEVNYLEQTTTKQLTSIEEQSNQLSQTLDERLDAQNEAMNERFNMLETELNTLQLESASANNEEMAAFEQQWSQRLAALESDIRQIRQAQLAFSAQIEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T S RIVPDVDQSLTAQHLRHRKGP +WPLWL + L+ AL+ AA+ GLW ERERL  ELHRVSGEVSNVHARL+S DTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELYG LT +ED  SS+++ T  Q+LSQ +EQA LRDSQL A+  SLDALEQ G++GRQNLVEEV++LEQ T +++  ++ Q N +S   +E+L AQ  A   RFN LET +  ++   A A+   + A EQ+WSQRL +LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>ref|WP_284453470.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|MDK2751242.1| hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_284453470</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>8.6215e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>ref|WP_463004330.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_463004330</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.07214e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>182</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEFNTQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>ref|WP_193091964.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas colorata]</Hit_def>
+  <Hit_accession>WP_193091964</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>265.774</Hsp_bit-score>
+      <Hsp_score>678</Hsp_score>
+      <Hsp_evalue>1.42354e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>179</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIE---APADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTPSQRIVPDVDQSLTVQHLRHRKGPAVWPLWLGIFLLFALLAAASVGLWLERERLQSELHRVSGEVSNVHARLESGDTDVQDTITFVQAQMSTLFQEQEQLSIALTNTREELYGVLTDNEDQASSETMATFSQRLSQYQEQAALRDSQLAALSSSLDALEQAGTTGRQNLVEEVNYLEQITTQQLTSIEEQSNQLSQTLDERLDAQNEAMNERFNMLETELNTLQLESASANNEEMAAFEQQWSQRLAALESDIRQIRQAQLAFSAQIEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T S RIVPDVDQSLT QHLRHRKGP +WPLWL + L+ AL+ AA+ GLW ERERL  ELHRVSGEVSNVHARL+S DTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELYG LT +ED  SS+++ T  Q+LSQ +EQA LRDSQL A+  SLDALEQ G++GRQNLVEEV++LEQ+T +++  ++ Q N +S   +E+L AQ  A   RFN LET +  ++   A A+   + A EQ+WSQRL +LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>ref|WP_192539007.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonas] &gt;gb|MBE0464515.1| hypothetical protein [Halomonas colorata] &gt;gb|MGO2990771.1| hypothetical protein [Halomonadaceae bacterium] &gt;gb|MGP9632476.1| hypothetical protein [Halomonas sp. AOP43-A1-21] &gt;gb|MGP8286337.1| hypothetical protein [Halomonas sp. AOP7-C1-8] &gt;gb|MGP8293370.1| hypothetical protein [Halomonas sp. AOP7-B1-5]</Hit_def>
+  <Hit_accession>WP_192539007</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>265.003</Hsp_bit-score>
+      <Hsp_score>676</Hsp_score>
+      <Hsp_evalue>3.36745e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEIE---APADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSTPSQRIVPDVDQSLTAQHLRHRKGPAVWPLWLGIFLLFALLAAASVGLWLERERLQSELHRVSGEVSNVHARLESGDTDVQDTITFVQAQMSTLFQEQEQLSIALTNTREELYGVLTDNEDQASSETMATFSQRLSQYQEQAALRDSQLAALSSSLDALEQAGTTGRQNLVEEVNYLEQTTTQQLTSIEEQSNQLSQTLDERLDAQNEAMNERFNMLETELNTLQLESASANNEEMAAFEQQWSQRLAALESDIRQIRQAQLAFSAQIEMLR</Hsp_hseq>
+      <Hsp_midline>MP++T S RIVPDVDQSLTAQHLRHRKGP +WPLWL + L+ AL+ AA+ GLW ERERL  ELHRVSGEVSNVHARL+S DTDVQDTITFVQAQMSTLFQEQEQLS++L  TREELYG LT +ED  SS+++ T  Q+LSQ +EQA LRDSQL A+  SLDALEQ G++GRQNLVEEV++LEQ T +++  ++ Q N +S   +E+L AQ  A   RFN LET +  ++   A A+   + A EQ+WSQRL +LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>gb|MAG54292.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>MAG54292</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>263.077</Hsp_bit-score>
+      <Hsp_score>671</Hsp_score>
+      <Hsp_evalue>1.65277e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>182</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELXGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREEL G LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>ref|WP_083025889.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Halomonadaceae] &gt;gb|MCP1317167.1| hypothetical protein [Halomonas sp. 707B3]</Hit_def>
+  <Hit_accession>WP_083025889</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>262.692</Hsp_bit-score>
+      <Hsp_score>670</Hsp_score>
+      <Hsp_evalue>2.10051e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEVKDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEFNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+V+D ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>ref|WP_399841436.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella lionensis] &gt;gb|MFI8748622.1| hypothetical protein [Vreelandella lionensis]</Hit_def>
+  <Hit_accession>WP_399841436</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>262.692</Hsp_bit-score>
+      <Hsp_score>670</Hsp_score>
+      <Hsp_evalue>2.58368e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEVKDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+V+D ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>tpg|HAO00759.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>HAO00759</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>262.307</Hsp_bit-score>
+      <Hsp_score>669</Hsp_score>
+      <Hsp_evalue>3.35592e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>186</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEVQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+VQD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>ref|WP_475311684.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_475311684</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>261.922</Hsp_bit-score>
+      <Hsp_score>668</Hsp_score>
+      <Hsp_evalue>4.91519e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>275</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAA-GVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEFKPQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>ref|WP_062374467.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonadaceae] &gt;gb|MGE6579541.1| hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_062374467</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>261.151</Hsp_bit-score>
+      <Hsp_score>666</Hsp_score>
+      <Hsp_evalue>8.9473e-83</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQMSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEFKPQEEPASQAELTALEAQWTQRLNTLESDLRQIRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQMSTLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQ+RQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>ref|WP_253016362.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. CnH100-B] &gt;gb|MCO7228180.1| hypothetical protein [Halomonas sp. CnH100-B]</Hit_def>
+  <Hit_accession>WP_253016362</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>261.151</Hsp_bit-score>
+      <Hsp_score>666</Hsp_score>
+      <Hsp_evalue>1.00865e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDNEELISDEALEPLAQQLAQVQEQAELRDRQLASIRTSLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVAAVATAEEPATQAELSALETQWSQRLSTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT +E+ +S +++  L QQL+Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L   VA +   E PA QA L ALE +WSQRL++LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>ref|WP_311064149.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Halomonas sp. DWK9]</Hit_def>
+  <Hit_accession>WP_311064149</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>260.766</Hsp_bit-score>
+      <Hsp_score>665</Hsp_score>
+      <Hsp_evalue>1.4609e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSHRIVPDVDQSLTAHHLRHRRGPRLWPIWLILMLLILLLGAAAAGLWYEREKLLDEVHRVSGEVSNLHARLDSGDTDAQDAITFVQAQMTTLFQEQEQLAIALTNAREELYGVLTDNEELVSNEAIETLSQQMEQFQEQAALRDRQLAAIRTSLNALEQAGTSGRQNLVEEVSHLEDVLTQRIDTMERQLVSDRNALEEQFRTWQAEAEQQMTQLSAAVSEVSTQEAPASQAELTALETQWAQRLNTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GP LWP+WL L+L+I L+GAAAAGLWYERE+LL E+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQL+++L   REELYG LT +E+ VS+++I TL QQ+ Q +EQA LRD QL A+R SL+ALEQ G+SGRQNLVEEVSHLE +  +RI+ ++ QL S  +A EEQ    +A  E +  +L  +V+E+   EAPA QA L ALE +W+QRLN+LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>ref|WP_249975651.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella olivaria]</Hit_def>
+  <Hit_accession>WP_249975651</Hit_accession>
+  <Hit_len>276</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>260.766</Hsp_bit-score>
+      <Hsp_score>665</Hsp_score>
+      <Hsp_evalue>1.56003e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>178</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MPNSSPSQRIVPDVGQSMTAQHLRHRKGPRLWPLWLMIILIIIALGAAAVGLWYERERLLGEVYRVSGEASNLHARLDSGDTDTEDTLTLIQAQMSTLFQEQEQLAMTVTNTREELYGFLTANDDLVSSDALSSLSQTLEQLKEQAALRDGQLAAIRTSLDALEQTGTSGRQNLVEEISYLEQSTSQRLAALERQLESESGELEAQFVAWREEVDQRLTEITANIEESSTEDAFVSEESFNALEQEWAQRLNTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>MP+++ S RIVPDV QS+TAQHLRHRKGP LWPLWL ++LII  +GAAA GLWYERERLLGE++RVSGE SN+HARLDS DTD +DT+T +QAQMSTLFQEQEQL++++  TREELYGFLT+++D VSSD++++L Q L QL+EQA LRD QL A+R SLDALEQTG+SGRQNLVEE+S+LEQ T +R+  L+ QL S S   E Q  A R   + R  E+  ++ E    +A   + +  ALEQEW+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>ref|WP_422102052.1|</Hit_id>
+  <Hit_def>GumC domain-containing protein [Vreelandella sp.]</Hit_def>
+  <Hit_accession>WP_422102052</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>260.381</Hsp_bit-score>
+      <Hsp_score>664</Hsp_score>
+      <Hsp_evalue>1.6469e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSHRIVPDVDQSLTAHHLRHRRGPRLWPIWLILMLLILLLGAAAAGLWYEREKLLDEVHRVSGEVSNLHARLDSGDTDAQDAITFVQAQMTTLFQEQEQLAIALTNAREELYGVLTDNEELVSNEAIETLSQQMEQFQEHAALRDRQLAAIRTSLNALEQAGTSGRQNLVEEVSHLEDVLTQRIDTMERQLVSDRNALEEQFRTWQAEAEQQMTQLSAAVSEVSTQEAPASQAELTALETQWAQRLNTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GP LWP+WL L+L+I L+GAAAAGLWYERE+LL E+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQL+++L   REELYG LT +E+ VS+++I TL QQ+ Q +E A LRD QL A+R SL+ALEQ G+SGRQNLVEEVSHLE +  +RI+ ++ QL S  +A EEQ    +A  E +  +L  +V+E+   EAPA QA L ALE +W+QRLN+LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>ref|WP_339118875.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. BMC6] &gt;tpg|HBM28872.1| hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_339118875</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>260.381</Hsp_bit-score>
+      <Hsp_score>664</Hsp_score>
+      <Hsp_evalue>1.982e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDNEELISDEALEPLAQQLAQVQEQAELRDRQLASIRTSLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVSAVATAEEPATQAELSALETQWSQRLSTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT +E+ +S +++  L QQL+Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L    ++VA  E PA QA L ALE +WSQRL++LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>ref|WP_285263311.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Halomonas sp. LC1] &gt;gb|MDK9687253.1| hypothetical protein [Halomonas sp. LC1]</Hit_def>
+  <Hit_accession>WP_285263311</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.996</Hsp_bit-score>
+      <Hsp_score>663</Hsp_score>
+      <Hsp_evalue>2.41141e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDKEELISDEALEPLAQQLAQVQEQAELRDRQLASIRTSLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVSAVATAEEPATQAELSALETQWSQRLSTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT  E+ +S +++  L QQL+Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L    ++VA  E PA QA L ALE +WSQRL++LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>ref|WP_159342205.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|QHD49890.1| hypothetical protein CTT34_09415 [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_159342205</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.996</Hsp_bit-score>
+      <Hsp_score>663</Hsp_score>
+      <Hsp_evalue>2.80874e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIIPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDNEELISDEALEPLAQQLAQVQEQAELRDRQLASIRASLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVSAVATAEEPATQAELSALETQWSQRLSTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RI+PDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT +E+ +S +++  L QQL+Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L    ++VA  E PA QA L ALE +WSQRL++LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gb|MAM03064.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>MAM03064</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.996</Hsp_bit-score>
+      <Hsp_score>663</Hsp_score>
+      <Hsp_evalue>2.87061e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>ref|WP_474188766.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_474188766</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.61</Hsp_bit-score>
+      <Hsp_score>662</Hsp_score>
+      <Hsp_evalue>3.76928e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>ref|WP_228219124.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|MCC4286751.1| hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_228219124</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.05827e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>184</Hsp_identity>
+      <Hsp_positive>226</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAAGVWYERERLLAEVHRVSGEVSNLHARLDSDDTETQDAITFVQAQVSTLFQEQEQLAVALTNTREELYGLLTENEELVSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAAAG+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELYG LT +E+ VS++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>ref|WP_305947504.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|MDP4558040.1| hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_305947504</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>259.225</Hsp_bit-score>
+      <Hsp_score>661</Hsp_score>
+      <Hsp_evalue>5.82784e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDNEELISDEALEPLAQQLEQVQEQAELRDRQLASIRTSLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVSAVATAEEPATQAELSALETQWSQRLSTLESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT +E+ +S +++  L QQL Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L    ++VA  E PA QA L ALE +WSQRL++LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>gb|MAO61996.1|</Hit_id>
+  <Hit_def>hypothetical protein [Halomonas sp.]</Hit_def>
+  <Hit_accession>MAO61996</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>258.84</Hsp_bit-score>
+      <Hsp_score>660</Hsp_score>
+      <Hsp_evalue>8.72081e-82</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPTLWPIWFVLVLILLLLGAATAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDTQDAITFVQAQMTTLFQEQEQLSVALTNTREELYGLLTDNEELISDEALEPLAQQLAQVQEQAELRDRQLASIRTSLDALEQAGTSGRQNLVEEVTHLENVLGQRLSTMERQVSSDRESLEAQFQNWQAEVEQQLTQLSADVSAVATAEEPATQAELSALETQWSQRLSTXESDIRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GPTLWP+W  L+LI+ L+GAA AGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQLSV+L  TREELYG LT +E+ +S +++  L QQL+Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q++S   + E Q    +A  E +  +L    ++VA  E PA QA L ALE +WSQRL++ ESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>ref|WP_404466326.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina] &gt;gb|XKG57253.1| hypothetical protein LG331_08670 [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_404466326</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>255.373</Hsp_bit-score>
+      <Hsp_score>651</Hsp_score>
+      <Hsp_evalue>1.58072e-80</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>180</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSHRIVPDVDQSLTAQHLRHRRGPRLWPIWLILMLLVLLLGAAAAGLWYERERLLDEVHRVSGEVSNLHARLDSGDTDAQDAITFVQAQMTTLFQEQEQLAIALTNAREELYGVLTDNEELVSNEALETLSQQMAQFQEQAALRDRQLASIRTSLNALEQAGTSGRQNLVEEVSHLEGVLTQRIDTMERQVVSDRTAMEVQFREWQEEAEQQIAQLSSAVSEINTQEVPASQSELTALETQWAQRLNTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWP+WL L+L++ L+GAAAAGLWYERERLL E+HRVSGEVSN+HARLDS DTD QD ITFVQAQM+TLFQEQEQL+++L   REELYG LT +E+ VS++++ TL QQ++Q +EQA LRD QL ++R SL+ALEQ G+SGRQNLVEEVSHLE +  +RI+ ++ Q+ S  +A E Q    +   E +  +L ++V+EI   E PA Q+ L ALE +W+QRLN+LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>ref|WP_289111333.1|</Hit_id>
+  <Hit_def>coiled-coil domain-containing protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_289111333</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>250.366</Hsp_bit-score>
+      <Hsp_score>638</Hsp_score>
+      <Hsp_evalue>1.72598e-78</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>182</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYELLTENEELLSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQLSSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELY  LT +E+ +S++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>ref|WP_074210593.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Vreelandella] &gt;emb|SIN63899.1| hypothetical protein SAMN05878438_1375 [Vreelandella aquamarina] &gt;emb|SIN77369.1| hypothetical protein SAMN05878249_3592 [Vreelandella aquamarina] &gt;emb|SIO11518.1| hypothetical protein SAMN05878442_1012 [Vreelandella aquamarina] &gt;dbj|BCB70158.1| hypothetical protein HMEPL2_05090 [Vreelandella aquamarina] &gt;dbj|GED44282.1| hypothetical protein HME01_01340 [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_074210593</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.98</Hsp_bit-score>
+      <Hsp_score>637</Hsp_score>
+      <Hsp_evalue>2.29067e-78</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>225</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYELLTENEELLSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEGVINQRLDTMERQVASDRTATEEQLSIWRENIEQQLTQISSTVAEVNTQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELY  LT +E+ +S++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE +  +R++ ++ Q+ S  +A EEQLS  R   E +  ++ ++VAE+   E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>97</Hit_num>
+  <Hit_id>ref|WP_474354246.1|</Hit_id>
+  <Hit_def>hypothetical protein [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_474354246</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>249.595</Hsp_bit-score>
+      <Hsp_score>636</Hsp_score>
+      <Hsp_evalue>3.31671e-78</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>224</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELETSVAEI---EAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDVTSSQRIVPDVDQSLTAQHLRHRRGPRLWPLWLVLILLMLLLGAAAVGVWYERERLLAEVHRVSGEVSNLHARLDSDDTEAQDAITFVQAQISTLFQEQEQLAVALTNTREELYELLTENEELLSNEALETFSQRFEQFQEQAALRDSQLAAIRTSLDALEQAGTSGRQNLVEEVTHLEEVINQRLDTMERQVASDRTATEEQLSIWRENVEQQLTQLSSTVAEFKPQEEPASQAELTALEAQWTQRLNTLESDLRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M D T+S RIVPDVDQSLTAQHLRHR+GP LWPLWL L+L++ L+GAAA G+WYERERLL E+HRVSGEVSN+HARLDSDDT+ QD ITFVQAQ+STLFQEQEQL+V+L  TREELY  LT +E+ +S++++ T  Q+  Q +EQA LRDSQL A+R SLDALEQ G+SGRQNLVEEV+HLE++  +R++ ++ Q+ S  +A EEQLS  R   E +  +L ++VAE    E PA QA L ALE +W+QRLN+LESD+RQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>98</Hit_num>
+  <Hit_id>ref|WP_139527576.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonadaceae] &gt;gb|KAE8438328.1| hypothetical protein F1978_10305 [Vreelandella piezotolerans] &gt;gb|QJA24187.1| hypothetical protein GYM47_08730 [Vreelandella piezotolerans] &gt;gb|TNH15981.1| hypothetical protein FHJ80_12515 [Halomonas sp. BL6] &gt;dbj|BCB62345.1| hypothetical protein HaloA020_30460 [Halomonas sp. A020]</Hit_def>
+  <Hit_accession>WP_139527576</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>246.899</Hsp_bit-score>
+      <Hsp_score>629</Hsp_score>
+      <Hsp_evalue>4.28154e-77</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPKLWPLWLMLVLILLLLGAAAAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDAQDALTFVQAQMTTLFQEQEQLSIALTNTREELYGLLTDNEELVSDEALEPLALQLEQVQEQAELRDRQLASIRSSLDALEQAGTSGRQNLVEEVAHLENVLGQRLTSMERQVSSDREALEAQFQNWQAEVEQQLTQLSNDVTAVASVDESATQAELSALQEQWSQRLSTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GP LWPLWL L+LI+ L+GAAAAGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD +TFVQAQM+TLFQEQEQLS++L  TREELYG LT +E+ VS +++  L  QL Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R+  ++ Q++S   A E Q    +A  E +  +L    T+VA ++  A QA L AL+++WSQRL++LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>99</Hit_num>
+  <Hit_id>ref|WP_219863741.1|</Hit_id>
+  <Hit_def>MULTISPECIES: coiled-coil domain-containing protein [Halomonadaceae] &gt;gb|MCG7575281.1| hypothetical protein [Halomonas sp. MMH1-48] &gt;gb|MCG7591782.1| hypothetical protein [Halomonas sp. McD50-5] &gt;gb|MCG7602343.1| hypothetical protein [Halomonas sp. MM17-34] &gt;gb|MCG7611899.1| hypothetical protein [Halomonas sp. MM17-29] &gt;gb|MCG7614929.1| hypothetical protein [Halomonas sp. McD50-4]</Hit_def>
+  <Hit_accession>WP_219863741</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>244.973</Hsp_bit-score>
+      <Hsp_score>624</Hsp_score>
+      <Hsp_evalue>2.4159e-76</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPKLWPLWLMLVLILLLLGAAAAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDAQDALTFVQAQMTTLFQEQEQLSIALTNTREELYGLLTDNEELVSDEALEPLALQLEQVQEQAELRDRQLASIRSSLDALEQAGTSGRQNLVEEVAHLENVLGQRLTSMERQVSSDREALEAQFQNWQAEVEQQLTQLSNDVTAVASADESATQAELSALQEQWSQRLSTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GP LWPLWL L+LI+ L+GAAAAGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD +TFVQAQM+TLFQEQEQLS++L  TREELYG LT +E+ VS +++  L  QL Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R+  ++ Q++S   A E Q    +A  E +  +L    T+VA  +  A QA L AL+++WSQRL++LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>100</Hit_num>
+  <Hit_id>gb|KFC51471.1|</Hit_id>
+  <Hit_def>hypothetical protein DK37_17510 [Halomonas sp. SUBG004]</Hit_def>
+  <Hit_accession>KFC51471</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>244.588</Hsp_bit-score>
+      <Hsp_score>623</Hsp_score>
+      <Hsp_evalue>2.78301e-76</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>181</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>MPDATASSRIVPDVDQSLTAQHLRHRKGPTLWPLWLCLLLIIALMGAAAAGLWYERERLLGELHRVSGEVSNVHARLDSDDTDVQDTITFVQAQMSTLFQEQEQLSVSLAATREELYGFLTSSEDTVSSDSINTLLQQLSQLREQAELRDSQLMAVRESLDALEQTGSSGRQNLVEEVSHLEQLTERRINGLDSQLNSVSSAWEEQLSAQRAAFEARFNELE---TSVAEIEAPADQAALEALEQEWSQRLNSLESDVRQVRQAQLAFSAQLEMLR</Hsp_qseq>
+      <Hsp_hseq>MSDATSSQRIVPDVDQSLTAHHLRHRRGPKLWPLWLMLVLILLLLGAAAAGLWYERERLLGEVHRVSGEVSNLHARLDSGDTDAQDALTFVQAQMTTLFQEQEQLSIALTNTREELYGLLTDNEELVSDEALEPLALQLEQVQEQAELRDRQLASIRSSLDALEQAGTSGRQNLVEEVAHLENVLGQRLTSMERQVSSDREALEAQFQNWQAEVEQQLTQLSNDVTAVASANESATQAELSALQEQWSQRLSTLESDVRQVRQAQLAFSAQMEMLR</Hsp_hseq>
+      <Hsp_midline>M DAT+S RIVPDVDQSLTA HLRHR+GP LWPLWL L+LI+ L+GAAAAGLWYERERLLGE+HRVSGEVSN+HARLDS DTD QD +TFVQAQM+TLFQEQEQLS++L  TREELYG LT +E+ VS +++  L  QL Q++EQAELRD QL ++R SLDALEQ G+SGRQNLVEEV+HLE +  +R+  ++ Q++S   A E Q    +A  E +  +L    T+VA     A QA L AL+++WSQRL++LESDVRQVRQAQLAFSAQ+EMLR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1084644206</Statistics_db-num>
+      <Statistics_db-len>410813165676</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+  <Iteration_message>Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users. Please consider the BLAST+ binaries: https://www.ncbi.nlm.nih.gov/books/NBK279690/</Iteration_message>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

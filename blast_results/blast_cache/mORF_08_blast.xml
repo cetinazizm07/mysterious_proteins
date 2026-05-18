@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_6264923</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>236</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_6264923</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>236</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_009287296.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MBF59303.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MBT2773938.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. ISL-60] &gt;gb|NAO96621.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. MG34] &gt;dbj|BBI49450.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella olivaria] &gt;gb|ELY21644.1| Succinate dehydrogenase/fumarate reductase iron-sulfur prot [Vreelandella titanicae BH1]</Hit_def>
+  <Hit_accession>WP_009287296</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>491.115</Hsp_bit-score>
+      <Hsp_score>1263</Hsp_score>
+      <Hsp_evalue>9.41194e-175</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>236</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_071695726.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp. QHL1] &gt;gb|OJA07140.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. QHL1]</Hit_def>
+  <Hit_accession>WP_071695726</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>490.345</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>1.66528e-174</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_096281444.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonas] &gt;gb|MBE0400857.1| succinate dehydrogenase iron-sulfur subunit [Halomonas casei] &gt;gb|MGP9572663.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP5-CZ2-32] &gt;gb|MGP9577631.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP42-E1-40] &gt;gb|MGO2392414.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MGO2579329.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_096281444</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>489.574</Hsp_bit-score>
+      <Hsp_score>1259</Hsp_score>
+      <Hsp_evalue>3.3611e-174</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_290837036.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp. NPDC076908] &gt;gb|MCL5426897.1| succinate dehydrogenase iron-sulfur subunit [Gammaproteobacteria bacterium] &gt;gb|MHK4702709.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium] &gt;tpg|HDZ47223.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MGE6605185.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. NPDC076908] &gt;gb|MHK4868185.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium]</Hit_def>
+  <Hit_accession>WP_290837036</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.804</Hsp_bit-score>
+      <Hsp_score>1257</Hsp_score>
+      <Hsp_evalue>5.88197e-174</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|WP_088701076.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MBS3666754.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella boliviensis] &gt;gb|MCA8864074.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SBBP1] &gt;gb|NYT73153.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sedimenti] &gt;gb|OWV29070.1| succinate dehydrogenase [Halomonas campaniensis] &gt;gb|UZH11312.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. BDJS001]</Hit_def>
+  <Hit_accession>WP_088701076</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.419</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>9.22375e-174</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPPPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTP PAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_235041722.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella profundi] &gt;gb|MDN7131803.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. MC140]</Hit_def>
+  <Hit_accession>WP_235041722</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>488.034</Hsp_bit-score>
+      <Hsp_score>1255</Hsp_score>
+      <Hsp_evalue>1.56189e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>236</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEEREKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEER+KLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_240716121.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Vreelandella] &gt;gb|MCH4809803.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella neptunia] &gt;gb|MFB9867195.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sulfidaeris] &gt;gb|MFB9873910.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sulfidaeris]</Hit_def>
+  <Hit_accession>WP_240716121</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>487.263</Hsp_bit-score>
+      <Hsp_score>1253</Hsp_score>
+      <Hsp_evalue>3.08395e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATRERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|TVP48330.1|</Hit_id>
+  <Hit_def>MAG: succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>TVP48330</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>486.878</Hsp_bit-score>
+      <Hsp_score>1252</Hsp_score>
+      <Hsp_evalue>3.40405e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGDKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK +KLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_089708340.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella arcis] &gt;emb|SDO40546.1| succinate dehydrogenase subunit B [Vreelandella arcis]</Hit_def>
+  <Hit_accession>WP_089708340</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>486.878</Hsp_bit-score>
+      <Hsp_score>1252</Hsp_score>
+      <Hsp_evalue>3.63571e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEEDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPEPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKE+DSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTP PAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_427028484.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [unclassified Halomonas] &gt;gb|MGO1395686.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MGO1762853.1| succinate dehydrogenase iron-sulfur subunit [Halomonadaceae bacterium] &gt;gb|MGO1425174.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MGO1534305.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MGO1601989.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_427028484</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>486.878</Hsp_bit-score>
+      <Hsp_score>1252</Hsp_score>
+      <Hsp_evalue>3.92597e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLILRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gb|MBL1270680.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>MBL1270680</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>486.108</Hsp_bit-score>
+      <Hsp_score>1250</Hsp_score>
+      <Hsp_evalue>6.57539e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQLPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATGERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQ PEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|WP_008958564.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|AJY51638.1| succinate dehydrogenase and fumarate reductase iron-sulfur protein [Halomonas sp. KO116] &gt;gb|EHA15070.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. HAL1] &gt;gb|MHI8994375.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sp. DA03-1M] &gt;gb|NYS76924.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella glaciei] &gt;gb|WKV94086.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. HAL1]</Hit_def>
+  <Hit_accession>WP_008958564</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>486.108</Hsp_bit-score>
+      <Hsp_score>1250</Hsp_score>
+      <Hsp_evalue>7.10034e-173</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>234</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPPPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTP PAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|WP_308337589.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SpR1] &gt;gb|MDQ7733947.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SpR1]</Hit_def>
+  <Hit_accession>WP_308337589</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>484.952</Hsp_bit-score>
+      <Hsp_score>1247</Hsp_score>
+      <Hsp_evalue>2.08107e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLILRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATRERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|WP_113270366.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Vreelandella] &gt;gb|MGY2461478.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sulfidaeris Esulfide1] &gt;gb|RBI66490.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sulfidaeris] &gt;dbj|BBI60373.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sulfidaeris]</Hit_def>
+  <Hit_accession>WP_113270366</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>484.567</Hsp_bit-score>
+      <Hsp_score>1246</Hsp_score>
+      <Hsp_evalue>2.82954e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>233</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATRERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|WP_317507080.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halovibrio sp. HP20-59] &gt;gb|MEA2118135.1| succinate dehydrogenase iron-sulfur subunit [Halovibrio sp. HP20-59]</Hit_def>
+  <Hit_accession>WP_317507080</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>484.567</Hsp_bit-score>
+      <Hsp_score>1246</Hsp_score>
+      <Hsp_evalue>3.0221e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSALAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTACPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLAEAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDS LAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCST+CPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLA+AT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|WP_074395787.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [unclassified Halomonas] &gt;gb|KPQ24022.1| MAG: succinate dehydrogenase iron-sulfur subunit SdhB [Halomonas sp. HL-93] &gt;emb|SBR47426.1| succinate dehydrogenase subunit B [Halomonas sp. HL-93] &gt;emb|SNY99209.1| succinate dehydrogenase subunit B [Halomonas sp. hl-4]</Hit_def>
+  <Hit_accession>WP_074395787</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>484.182</Hsp_bit-score>
+      <Hsp_score>1245</Hsp_score>
+      <Hsp_evalue>4.8976e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|WP_101146064.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|NVF14867.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella maris] &gt;gb|PKG53817.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. MES3-P3E]</Hit_def>
+  <Hit_accession>WP_101146064</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.797</Hsp_bit-score>
+      <Hsp_score>1244</Hsp_score>
+      <Hsp_evalue>6.8819e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHIMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPPPAIERLQSPEERDKLDGLYECILCACCSTACPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTP PAIERLQSPEERDKLDGLYECILCACCST+CPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|WP_186253310.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SH5A2] &gt;gb|MCA1772996.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|QNI03580.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SH5A2]</Hit_def>
+  <Hit_accession>WP_186253310</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.411</Hsp_bit-score>
+      <Hsp_score>1243</Hsp_score>
+      <Hsp_evalue>8.11312e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gb|MGM0826492.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium] &gt;gb|MGM0855580.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium]</Hit_def>
+  <Hit_accession>MGM0826492</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.411</Hsp_bit-score>
+      <Hsp_score>1243</Hsp_score>
+      <Hsp_evalue>8.38463e-172</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTACPSFWWNPEKFVGPAGLLQSYRFLADSRDTATHERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCST+CPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_290696527.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Vreelandella] &gt;gb|MGQ7260540.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella sp. V005]</Hit_def>
+  <Hit_accession>WP_290696527</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.026</Hsp_bit-score>
+      <Hsp_score>1242</Hsp_score>
+      <Hsp_evalue>1.09107e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>232</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEDRDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATRERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPE+RDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|WP_146875140.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halovibrio variabilis] &gt;dbj|GEN28298.1| succinate dehydrogenase iron-sulfur subunit [Halovibrio variabilis]</Hit_def>
+  <Hit_accession>WP_146875140</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>483.026</Hsp_bit-score>
+      <Hsp_score>1242</Hsp_score>
+      <Hsp_evalue>1.20431e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSALAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLKNDTPAPAIERLQSPEERDKLDGLYECILCACCSTACPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLAEAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDS LAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYL+NDTPAPAIERLQSPEERDKLDGLYECILCACCST+CPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLA+AT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|WP_066317198.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MCW4153642.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. 18H] &gt;gb|MCO7246292.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. Mc5H-6] &gt;gb|MCZ0925638.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella janggokensis] &gt;gb|MDR5886854.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella janggokensis] &gt;gb|OAZ99780.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. G11]</Hit_def>
+  <Hit_accession>WP_066317198</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>482.256</Hsp_bit-score>
+      <Hsp_score>1240</Hsp_score>
+      <Hsp_evalue>2.27575e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSEVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLS+VVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|WP_078086852.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [unclassified Halomonas] &gt;gb|AQU81694.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. &apos;Soap Lake #7&apos;] &gt;gb|AVU08837.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. &apos;Soap Lake #6&apos;]</Hit_def>
+  <Hit_accession>WP_078086852</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.871</Hsp_bit-score>
+      <Hsp_score>1239</Hsp_score>
+      <Hsp_evalue>3.85352e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|WP_230446398.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MDR5875704.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella gomseomensis] &gt;gb|MEC4767904.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. CUBES01] &gt;gb|MGM0544679.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium]</Hit_def>
+  <Hit_accession>WP_230446398</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.871</Hsp_bit-score>
+      <Hsp_score>1239</Hsp_score>
+      <Hsp_evalue>3.93902e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|WP_308319539.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SpR8] &gt;gb|MDQ7727102.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. SpR8]</Hit_def>
+  <Hit_accession>WP_308319539</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.485</Hsp_bit-score>
+      <Hsp_score>1238</Hsp_score>
+      <Hsp_evalue>4.54293e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLVFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATRERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLSDAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGL FRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLL+DAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gb|KUJ89133.1|</Hit_id>
+  <Hit_def>MAG: succinate dehydrogenase, iron-sulfur subunit [Halomonas sp. 54_146] &gt;tpg|HAA45980.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>KUJ89133</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.485</Hsp_bit-score>
+      <Hsp_score>1238</Hsp_score>
+      <Hsp_evalue>5.23943e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>231</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKDNKLVLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLSDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERLS+LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|KPQ23176.1|</Hit_id>
+  <Hit_def>MAG: succinate dehydrogenase iron-sulfur subunit [Halomonas sp. HL-48]</Hit_def>
+  <Hit_accession>KPQ23176</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.485</Hsp_bit-score>
+      <Hsp_score>1238</Hsp_score>
+      <Hsp_evalue>5.35568e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>230</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|WP_009098832.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [unclassified Halomonas] &gt;gb|AVI62736.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. GFAJ-1] &gt;gb|EHK60949.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. GFAJ-1] &gt;gb|MDP3534874.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|WFE72642.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. M1]</Hit_def>
+  <Hit_accession>WP_009098832</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>481.485</Hsp_bit-score>
+      <Hsp_score>1238</Hsp_score>
+      <Hsp_evalue>5.59597e-171</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPERFVGPAGLLQSYRFLADTRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPE+FVGPAGLLQSYRFLAD+RDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|WP_016914530.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Gammaproteobacteria] &gt;gb|KTG28111.1| succinate dehydrogenase [Idiomarina sp. H105] &gt;gb|MAP35069.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MEC9295473.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium] &gt;gb|OAF07124.1| succinate dehydrogenase iron-sulfur subunit [Idiomarina sp. WRN-38] &gt;gb|KAE8440001.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella piezotolerans]</Hit_def>
+  <Hit_accession>WP_016914530</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>480.715</Hsp_bit-score>
+      <Hsp_score>1236</Hsp_score>
+      <Hsp_evalue>1.09283e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|WP_092827901.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella subterranea] &gt;emb|SES09800.1| succinate dehydrogenase subunit B [Vreelandella subterranea]</Hit_def>
+  <Hit_accession>WP_092827901</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>480.715</Hsp_bit-score>
+      <Hsp_score>1236</Hsp_score>
+      <Hsp_evalue>1.18008e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSIYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSEVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPVPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVS+YRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLS+VVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTP PAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_486996876.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella hamiltonii] &gt;gb|MHU3427840.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella hamiltonii]</Hit_def>
+  <Hit_accession>WP_486996876</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.945</Hsp_bit-score>
+      <Hsp_score>1234</Hsp_score>
+      <Hsp_evalue>1.79056e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACVTPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLAC+TPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gb|MCC5901039.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>MCC5901039</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.945</Hsp_bit-score>
+      <Hsp_score>1234</Hsp_score>
+      <Hsp_evalue>1.87089e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLVDAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLL DAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gb|MBR2515068.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>MBR2515068</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.945</Hsp_bit-score>
+      <Hsp_score>1234</Hsp_score>
+      <Hsp_evalue>2.27941e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKSNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPERFVGPAGLLQSYRFLADTRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPE+FVGPAGLLQSYRFLAD+RDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_224104422.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina] &gt;gb|MBZ5486291.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_224104422</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.945</Hsp_bit-score>
+      <Hsp_score>1234</Hsp_score>
+      <Hsp_evalue>2.38168e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGIFYKQYERIQPYLQNETPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMG+FYKQYERIQPYLQN+TPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|WP_263065665.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|UXZ53186.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. 7T] &gt;gb|XKG89418.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella venusta]</Hit_def>
+  <Hit_accession>WP_263065665</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.559</Hsp_bit-score>
+      <Hsp_score>1233</Hsp_score>
+      <Hsp_evalue>3.34659e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKSNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADTRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLAD+RDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|WP_309654842.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella vilamensis] &gt;gb|MDR5897923.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella vilamensis]</Hit_def>
+  <Hit_accession>WP_309654842</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>4.60037e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSALAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMALFYKQYERIQPYLQNDEPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDNATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDS LAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDM LFYKQYERIQPYLQND PAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRD ATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|WP_404345134.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella venusta] &gt;gb|XKF06325.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella venusta]</Hit_def>
+  <Hit_accession>WP_404345134</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>4.91341e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKSNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|WP_044627831.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MAM04286.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.] &gt;gb|MEC9020673.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium] &gt;gb|KJD20815.1| succinate dehydrogenase [Vreelandella aquamarina] &gt;gb|MCC4290410.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina] &gt;gb|MCD1650437.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_044627831</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>5.07784e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGTNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNG NGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|WP_311062953.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae]</Hit_def>
+  <Hit_accession>WP_311062953</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>479.174</Hsp_bit-score>
+      <Hsp_score>1232</Hsp_score>
+      <Hsp_evalue>5.07784e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNTLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNN LTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_250083040.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas llamarensis] &gt;gb|MCL7930965.1| succinate dehydrogenase iron-sulfur subunit [Halomonas llamarensis]</Hit_def>
+  <Hit_accession>WP_250083040</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.789</Hsp_bit-score>
+      <Hsp_score>1231</Hsp_score>
+      <Hsp_evalue>5.48321e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMALFYKQYERIQPYLQNDEPAPAIERLQSPEDRDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDM LFYKQYERIQPYLQND PAPAIERLQSPE+RDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|WP_083002038.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MHQ9252774.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella alkaliphila]</Hit_def>
+  <Hit_accession>WP_083002038</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.789</Hsp_bit-score>
+      <Hsp_score>1231</Hsp_score>
+      <Hsp_evalue>6.05231e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADTRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLAD+RDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|WP_096652590.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella nigrificans] &gt;gb|PCF95021.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella nigrificans]</Hit_def>
+  <Hit_accession>WP_096652590</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.789</Hsp_bit-score>
+      <Hsp_score>1231</Hsp_score>
+      <Hsp_evalue>7.21378e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLILRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|WP_126944067.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella andesensis] &gt;gb|RUR33454.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella andesensis]</Hit_def>
+  <Hit_accession>WP_126944067</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.404</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>8.05034e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKDRDLMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKSNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADTRDTATRERLTNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTK RD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLAD+RDTAT ERL+NLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|WP_188638012.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella lutescens] &gt;dbj|GGC78715.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella lutescens]</Hit_def>
+  <Hit_accession>WP_188638012</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.404</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>8.69301e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLAYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLA+RRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|WP_179928783.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella salicampi] &gt;gb|MGM0520949.1| succinate dehydrogenase iron-sulfur subunit [Pseudomonadota bacterium] &gt;gb|NYS59451.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella salicampi]</Hit_def>
+  <Hit_accession>WP_179928783</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.404</Hsp_bit-score>
+      <Hsp_score>1230</Hsp_score>
+      <Hsp_evalue>9.70111e-170</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>229</Hsp_identity>
+      <Hsp_positive>232</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMALFYKQYERIQPYLQNDEPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDNATSERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDM LFYKQYERIQPYLQND PAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRD ATSERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gb|MBP5978993.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>MBP5978993</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.019</Hsp_bit-score>
+      <Hsp_score>1229</Hsp_score>
+      <Hsp_evalue>1.30461e-169</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>227</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGIFYKQYERIQPYLQNETPAPAIERLQSPEDREKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMG+FYKQYERIQPYLQN+TPAPAIERLQSPE+R+KLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|WP_162218608.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Vreelandella] &gt;gb|MFC7368192.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella zhaodongensis] &gt;gb|NDL70725.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella alkaliphila] &gt;gb|NYS44822.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella zhaodongensis]</Hit_def>
+  <Hit_accession>WP_162218608</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>478.019</Hsp_bit-score>
+      <Hsp_score>1229</Hsp_score>
+      <Hsp_evalue>1.37818e-169</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>228</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSALAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKGNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDS LAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVK NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|WP_404465596.1|</Hit_id>
+  <Hit_def>succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina] &gt;gb|XKG56512.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella aquamarina]</Hit_def>
+  <Hit_accession>WP_404465596</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>477.248</Hsp_bit-score>
+      <Hsp_score>1227</Hsp_score>
+      <Hsp_evalue>2.23342e-169</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>227</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDLMVLDVLHLMKEQDSGLVYRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKSNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGL +RRSCREGVCGSDGMNMNGKNGLACITPLSDVVK+NKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|WP_018916611.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonadaceae] &gt;gb|MBE0462427.1| succinate dehydrogenase iron-sulfur subunit [Halomonas colorata] &gt;gb|MGO2991474.1| succinate dehydrogenase iron-sulfur subunit [Halomonadaceae bacterium] &gt;gb|MGP8289919.1| succinate dehydrogenase iron-sulfur subunit [Vreelandella zhanjiangensis] &gt;gb|MGP9633974.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP43-A1-21] &gt;gb|MGO3055472.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_018916611</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>477.248</Hsp_bit-score>
+      <Hsp_score>1227</Hsp_score>
+      <Hsp_evalue>2.23342e-169</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>226</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDIMVLDVLHLMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGIFYKQYERIQPYLQNETPAPAIERLQSPEDREKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTDLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRD+MVLDVLH+MKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMG+FYKQYERIQPYLQN+TPAPAIERLQSPE+R+KLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|WP_087106268.1|</Hit_id>
+  <Hit_def>MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Halomonas] &gt;gb|MBE0404242.1| succinate dehydrogenase iron-sulfur subunit [Halomonas citrativorans] &gt;gb|MGP9416826.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP7-E1-9] &gt;gb|MGP9522983.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP7-C1-21] &gt;gb|MGP9561730.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp. AOP7-B1-26] &gt;gb|MGO2147864.1| succinate dehydrogenase iron-sulfur subunit [Halomonas sp.]</Hit_def>
+  <Hit_accession>WP_087106268</Hit_accession>
+  <Hit_len>236</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>477.248</Hsp_bit-score>
+      <Hsp_score>1227</Hsp_score>
+      <Hsp_evalue>2.57582e-169</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>236</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>236</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>227</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>236</Hsp_align-len>
+      <Hsp_qseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLTLRPLPGLPVIRDMVVDMGLFYKQYERIQPYLQNDTPAPAIERLQSPEERDKLDGLYECILCACCSTSCPSFWWNPEKFVGPAGLLQSYRFLADSRDTATSERLSNLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_qseq>
+      <Hsp_hseq>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKLILRPLPGLPVIRDMVVDMGIFYKQYERIQPYLQNETPAPAIERLQSPEDREKLDGLYECILCACCSTSCPSFWWNPDKFVGPAGLLQSYRFLADSRDTATRERLTSLEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_hseq>
+      <Hsp_midline>MSNLQVSVYRYNPETDSAPYMQEFQVDTKGRDVMVLDVLHMMKEQDSGLAFRRSCREGVCGSDGMNMNGKNGLACITPLSDVVKNNKL LRPLPGLPVIRDMVVDMG+FYKQYERIQPYLQN+TPAPAIERLQSPE+R+KLDGLYECILCACCSTSCPSFWWNP+KFVGPAGLLQSYRFLADSRDTAT ERL++LEDPFSVFRCRGIMNCVAVCPKGLNPTRAIGKIREMLLADAT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>1084644206</Statistics_db-num>
+      <Statistics_db-len>410813165676</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
