@@ -1,0 +1,2071 @@
+{
+  "data": {
+    "matches": [
+      {
+        "score": 0.99941665,
+        "matchIndex": 10,
+        "contig": [
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209537",
+              "strand": "forward",
+              "start": 72175,
+              "end": 72681
+            },
+            "sequence": "MSMQTPKSSMPPSVAAQVAGLPELSMAEIRALWQQLVGGETPTHNRQFLERRIAYKLQEVAFRKVDANLLDRNRRRIASLVETGKVRKRDRDYRPAAGTVLVREYKGVEYRVITTADGQYDFQGRMFPSLSMIAREITGMRWSGPLFFGLRPPSNARTKASSKKRGGQ",
+            "annotation": null
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209538",
+              "strand": "forward",
+              "start": 72678,
+              "end": 74033
+            },
+            "sequence": "MSEVLKRRMRCAVYTRKSTDEGLDQEYNSIDAQRDAGHAYIASQRSEGWIPVADDYDDPAFSGGNMERPALKRMMADIEAGMIDVVVIYKIDRLTRSLTDFSKMVEVFERYGVSFVSVTQQFNTTTSMGRLMLNILLSFAQFEREVTGERIRDKIAASKRKGMWMGGIPPLGYDVANRRLVPNEREAKLIRHIFQRFVELGSTTLLVKELKLDGVTSKSWVTKEGRTREGRPIDKGHVYKILGNRTYLGELRHKDQWFQAEHLPIIDQELWDSARAILATNGRVRGNATRAKVPYLLKGIVFGNDGRALSPWHTTKKNGRRYRYYVPQRDAKEHAGASGLPRLPAAELESAVLDQLRAILRAPNLLGEMLPQAIQLDPTLDEAKVTVAMTRLDMIWDQLFPAEQSRIVKLLVEKVIVSPNDLEVRLRANGIERLVLELRPESVDQQQEAMA",
+            "annotation": {
+              "id": "P55368",
+              "description": "Uncharacterized protein y4bA/y4pH",
+              "score": 0.9474321603775024,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209539",
+              "strand": "forward",
+              "start": 74030,
+              "end": 74461
+            },
+            "sequence": "MSDIRIQKTGEPDIVEASDGRLTLSVPIQIKRRSGRKLVTLPNGETAPVRPWDVTPTSVQLALARGHRWLAMLESGEAKTLKEIAVREGIDNSYVSRMVNLTTLAPDIVAAILDDTLPNHVTLFDLAVDPPALWDEQRAKVGL",
+            "annotation": {
+              "id": "Q8YTI2",
+              "description": "Uncharacterized protein alr2735",
+              "score": 0.7580580711364746,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209541",
+              "strand": "reverse",
+              "start": 75235,
+              "end": 75714
+            },
+            "sequence": "MGKKKGQAPGSNLIAQNRKARHEYHIEETFEAGLALAGWEVKSLRAGKGQLTDTYILVKNGEAWLLGSHIAPLPTASTHNVPEPDRTRKLLLHKKEVARIFSRTQDKGHTCVPLRLYWKGHLVKCELALVVGKKLHDKRAAEKNRDWERQKGRIMRESR",
+            "annotation": {
+              "id": "Q1QSW3",
+              "description": "SsrA-binding protein",
+              "score": 0.993594765663147,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209542",
+              "strand": "forward",
+              "start": 75917,
+              "end": 76351
+            },
+            "sequence": "MPTVKRTALVRHSSRQMFDLVNDFESYPQFLPGCRAARLIERTDDYLIGEMTLAKGGIKQSVVTRNDLHAPERIDLSLVKGPFKSLDGYWRFEPLSDESCRVTLEMRFDFSNRLLGMAFGQLFGQVAGQLVDAFTRRADQVHGG",
+            "annotation": {
+              "id": "O68560",
+              "description": "Ribosome association toxin RatA",
+              "score": 0.9934584498405457,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209543",
+              "strand": "forward",
+              "start": 76341,
+              "end": 76643
+            },
+            "sequence": "MVAEENIRVEIALAAGGEQRLVSLSVAAGTTIRQAFVMAGRGGALGVADERWLAEAPLGVFGERIREPETETVSNGDRIEVYSPLKVDPKSARRARAKDR",
+            "annotation": {
+              "id": "Q0VSU3",
+              "description": "Protein RnfH",
+              "score": 0.9824933409690857,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209544",
+              "strand": "reverse",
+              "start": 76657,
+              "end": 77088
+            },
+            "sequence": "MQNSIRIVTLCCVISLIGGCGFFSVYKRDQPQGNLITPEMVQQVQQGMTREQVTYIMGAPLMDNPFDADQWDYVYQLHTADGQVYDKRVSLYFQDDRVSYIDTSGDIGTAPPAREQAPPASEATTTPLQPVSPIQSPTPSAGE",
+            "annotation": {
+              "id": "Q8EGW5",
+              "description": "Outer membrane protein assembly factor BamE",
+              "score": 0.9728831648826599,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209545",
+              "strand": "forward",
+              "start": 77163,
+              "end": 77618
+            },
+            "sequence": "MADRNQELRKAGLKVTLPRVKILQILEATREEDLHMSAEDVYRSLLEAGEDVGLATVYRVLTQFEAAGLVVRHNFDGGHAVFELSQEDHHDHMLCLETGEVIEFFDHDIERRQRELAEERGYELVDHALVLYVRPKGSKATRQDGVSRRGG",
+            "annotation": {
+              "id": "Q03456",
+              "description": "Ferric uptake regulation protein",
+              "score": 0.9819623231887817,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209546",
+              "strand": "reverse",
+              "start": 77751,
+              "end": 79430
+            },
+            "sequence": "MLTQLTIRDYAIVDRLELDFHRGMTAITGETGAGKSILLDALSLCLGERADAGSVRHGTERAELSARFDISRLPEAREWLEARELGSDDCLLRRVISSGGRTKAWINGSPCTIADLKALGERLIDIHAQHAHQSLLREQQHQRLLDEYAGITAEVDELRGMHRDWSLLRKRLRQAQESGDEIQARRQLLRYQVEELDTLGLGEGELERLEEEQTSLAHAEQSLSEAQLALRCCEDDEEGALARLLRARSGLAELPGSDRGALAAALSLLEEASIQIEEAGRELNRFVDATELDPARLAEVDSRLGDVHRIARKHHVMPDEVVELHRRLADELAQLEVGDDDLEALALKTRQLRDEWRTLAQRISDIRQRKACELGEQIQAQLAFLGMEKARFEVAVSPRDSAQPEGIDQVQFRISANPGQPPRALNKIASGGELSRISLAIQVVAARHSTIPTLVFDEVDVGISGATAEIVGQLLRGLGERDAQILCVTHLPQVAAQGHQHLHIEKQATDESTLTQMALLDESGRIRELARMLGGVHLSERTLAHAHEMLSAGQHAAQH",
+            "annotation": {
+              "id": "P05824",
+              "description": "DNA repair protein RecN",
+              "score": 0.993890643119812,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209547",
+              "strand": "forward",
+              "start": 79710,
+              "end": 80342
+            },
+            "sequence": "MARDPQNPQQVDEELARAERDAEPQPLEIDETLDPGLSVEDELSVEDQAVGGSDELDQLTARVEELEAELAGARDQALRAAAEAQNARRRADQEVDKARKFALEKFVGSLLPVVDSLDKALESLQDESVAEVHREGVRMTRDMQLDALRKAGVSVLDPQGEPFDPQYHEAMAMVPNPAVDPNTVIEVLQKGYLLNDRLVRPAMVVVSKAP",
+            "annotation": {
+              "id": "Q1QSW9",
+              "description": "Protein GrpE",
+              "score": 0.9918308854103088,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209548",
+              "strand": "forward",
+              "start": 80527,
+              "end": 82458
+            },
+            "sequence": "MGRIIGIDLGTTNSCVAVLDGDKTRVIENAEGGRTTPSIIAYTDDGETLVGQAAKRQAVTNPTNTLYAVKRLIGRKFSDDVVQKDIKMVPYKIVEADNGDAWVQVKDKKMAPPQISAEVLKKMKKTAEDYLGETVTEAVITVPAYFNDSQRQATKDAGRIAGLDVKRIINEPTAAALAYGMDKARGDKTIAVYDLGGGTFDISIIEVADVDGETQFEVLATNGDTFLGGEDFDIKLIDYLVSQFKADSGIDLSGDSLAMQRLKEAAEKAKIELSSAQQTDVNLPYITADQTGPKHLNVKVSRAKLESLVEDLVQRSLAPCKTALADAGLSASEIDDVILVGGQTRMPMVQQKVAEFFGKEARKDVNPDEAVAMGAAIQGGVLGGDVKDVLLLDVTPLTLGIETMGGVMTALIEKNTTIPTKKTQTFSTAEDNQTAVTIHVLQGERKQAAQNKSLGRFDLSDIPPAPRGMPQIEVAFDIDANGILNVSAKDKATNKEQSIVIKASGGLSEEEIDQMVRDAEAHQAEDKKFEELVQLRNQADGMIHATRKTLEEAGDKAEAGEKERIETAIKDLEEALKGDDKDAIQAKLDTLTEASGALAQKLYAEQAQQGGESAGTDQAQQGGKKEDDVVDAEYEEVKDDKKQ",
+            "annotation": {
+              "id": "A1U614",
+              "description": "Chaperone protein DnaK",
+              "score": 0.9991183876991272,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209549",
+              "strand": "forward",
+              "start": 82678,
+              "end": 83823
+            },
+            "sequence": "MSKRDYYEVLGVDRSTDQKEIKKAYRRLAQKYHPDRNPDDDSAAAKFREVSEAYEVLSDQEKRAAYDQFGHAGVDGQAGGFGAGGFGAGAGGFSDIFGDVFGDIFGAGGRGRGPNSAARGSDLRYNLEIELEEAVAGTSVDIRIPRLAECGHCHGDGAEPGTKKRSCPTCNGMGQVRMQQGFFAVQQTCPSCHGRGEVVETPCVQCHGEGRVRETRTLSVKIPAGVDSGDRIRLNGEGEGGVNGGPSGDLYVQIAIKPHPIFERDGRDLYCEVPINFVDATLGGELEVPTLEGRVKLKIPPETQTGKQFRLRGKGVKPVRGGVPGDLMCKVVLETPVNLNESQKELLRAFQESLDGTGTKHSPRKSGWFDGVKKFFEDMRP",
+            "annotation": {
+              "id": "Q1QSX1",
+              "description": "Chaperone protein DnaJ",
+              "score": 0.9988918304443359,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209550",
+              "strand": "reverse",
+              "start": 83940,
+              "end": 84110
+            },
+            "sequence": "MMKPLSLAFAALGFVVLAGCASQSESTIDDSPTSQTGNTPAQTTPSTVDSAETSSP",
+            "annotation": {
+              "id": "P44040",
+              "description": "Uncharacterized protein HI_0704",
+              "score": 0.845137894153595,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209551",
+              "strand": "reverse",
+              "start": 84211,
+              "end": 85173
+            },
+            "sequence": "MRALALYHLIVALGLAACAPTGPFMLGGPEGGGNAAGVGLCGTLKLPGRMPDGTALGGISALAYDATDDVLYMLADRARVFTARPVFDDARLVRLELLESFALLDAHGEQLRMPKSDSESMALSIAADGTKTLLVGFERDHRIQRFSLAPKRLGMPLDDPIRPEGARSARNNGSLEAMTIHPRLGVIAGLEFSPRDLPRGETRLFDLHGNEWRYRLAEAAGSGLTAMAPLDDGLLTLERAFKPFHPLVISLRKVTLEANGEAHVETLARFASDQGWRLDNFEGLTLIGDHRYLMASDNNYLPIQSSLLSCVEVPVASAQR",
+            "annotation": {
+              "id": "Q9I6G4",
+              "description": "Calcium-regulated beta-propeller protein CarP",
+              "score": 0.8680745959281921,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209552",
+              "strand": "forward",
+              "start": 85326,
+              "end": 86138
+            },
+            "sequence": "MTRIAIMGASGRMGRMLVQAVLEDELADLGGAVVRSGSSLVGVDIGELCGLGRAGITAVDGLDRIVDDFDVLIDFTTPATTLDSLAFCAEHGKGMVIGTTGLDAEQSNQLEAYAKRLPLVFAANMSTGVNLSLNLLATAAKALGDAGFDIEVIEAHHRHKVDAPSGTALMMGRAVADALGRELDQCGVFSRVGQCGPRRADEIGFATVRGGDIVGEHTVMFAAEGERIEITHKASSRMTFARGAVRAARWVAGRAPGHYDMQDVLGLKHG",
+            "annotation": {
+              "id": "Q84CP9",
+              "description": "4-hydroxy-tetrahydrodipicolinate reductase",
+              "score": 0.9973504543304443,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209553",
+              "strand": "forward",
+              "start": 86152,
+              "end": 86280
+            },
+            "sequence": "MRWMLHLLDAWVRLAPHLAHLALQAMHSSPLTSQAARMGEVS",
+            "annotation": {
+              "id": "P16796",
+              "description": "Uncharacterized protein UL90",
+              "score": 0.8596885204315186,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209554",
+              "strand": "forward",
+              "start": 86282,
+              "end": 86827
+            },
+            "sequence": "MSRLPRRIESPRLWLRQLEITDAESLHAELERSRAHLAPWLDWVRKGTSLGEREAFCRHARDLYACERSLTVGLWRKGDERLVGVMDARDIDWSIPSAEVGYWGAGESQGKGYLSEALRALASCLIEELRFERLWLSCDARNLASQRVAERSGFELEGRLRRHRRNADGKLGDTLLYARLH",
+            "annotation": {
+              "id": "Q9I2H6",
+              "description": "[Ribosomal protein uS5]-alanine N-acetyltransferase",
+              "score": 0.9788822531700134,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209555",
+              "strand": "forward",
+              "start": 86929,
+              "end": 87990
+            },
+            "sequence": "MSRFAPLSWLRLKGLACAYRYRGPRSDHFDGERFFNHPPLPERTREDFKRWRQERKNHLPRWDWQPGPEPPCRPVAEAGEDEIRVTLVNHSTFLIQLPGLNLLTDPIWSERASPFTFAGPKRFHPPGVALEALPRIDAVLLSHNHYDHCDVWTLRQLGRRFPNMKLFTGLGNRRLCRDAGVRVVEELDWWQQAELGGSRLTFVPARHWGARSLWDRRCALWGGFVLETSLGKIYFAGDTGFGDDFARLRQRFGPMAVSLLPIGAFRPQWFMRDFHMGPDEALEAHHQLGSKRSLACHFGCFSLADDGQFEPQQRLEAAREARGIDPEAFVVPKPGETLRYSRRSLSGEPELAL",
+            "annotation": {
+              "id": "P64760",
+              "description": "Uncharacterized protein Mb0930",
+              "score": 0.9801782965660095,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209556",
+              "strand": "forward",
+              "start": 88300,
+              "end": 89451
+            },
+            "sequence": "LIKPAILALADGSVFHGVSIGADGQTSGEVVFNTAMTGYQEILTDPSYLRQIVTLTYPHIGNTGVNEEDVESSRVCASGLVIRDLPRLVSSFRSQQALDEYLRAQGIVGIADIDTRRLTRILRDKGAQNGAILAGPAAEGSDAPARAIELAREFPGLKGMDLARVASTTERLEWHDGEWVLGKGYSDFEQRERPYHVVAYDYGTKYNIFRMLTERSCRLTIVPAETSAEEVLALAPDGVFLSNGPGDPEPCDYAIEAIAALCEAKVPVFGICLGHQLLALASGAKTVKMGHGHHGANHPVQDLDTGKVMITSQNHGFAADEASLPGNLRATHRSLFDGTLQGIERTDCPAFSFQGHPEASPGPHDVAPLFDRFIAMMAAHKGH",
+            "annotation": {
+              "id": "C5BQ30",
+              "description": "Carbamoyl phosphate synthase small chain",
+              "score": 0.9926859140396118,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209557",
+              "strand": "forward",
+              "start": 89546,
+              "end": 92779
+            },
+            "sequence": "MPKRTDIQSILIIGAGPIVIGQACEFDYSGAQACKALREEGIRVILVNSNPATIMTDPVMADATYIEPITWQVVERIIEKERPDALLPTMGGQTALNCALDLERHGVLDKYGVEMIGADADTIDKAEDRDRFDKAMRRIGLECPKAKIAHHMSEAWEIQAELGFPCIIRPSFTMGGSGGGVAYNREEFEEICHRGFELSPTKELLIDESLLGWKEYEMEVVRDKNDNCIIVCSIENFDPMGVHTGDSITVAPAQTLTDKEYQIMRNASLAVLREIGVETGGSNVQFGIHPETGRMVVIEMNPRVSRSSALASKATGFPIAKIAAKLAIGYTLDELQNDITGGATPASFEPSIDYVVTKIPRFTFEKFPQANDRLTTQMKSVGEVMAIGRTFQESLQKALRGLETGVDGLDPKLTRFDQAAMTLMQGELQRPGPDRIFYVADAFRAGLSIDEIYGFTNIDRWFLVQIEELVEAERRVVDAGLDGLDDKTLYRLKRAGFSDARLATLLGTKEGEVRARRHGFGIHPVYKRVDTCAAEFATSTAYMYSTYEEECEANPSDRPKIMVLGGGPNRIGQGIEFDYCCVHAALAMREDGYETIMVNCNPETVSTDYDISDRLYFEPVTLEDVLEIVEKERPQGVIVQFGGQTPLKLARALEAAGVPIIGTTPDAIDRAEDRERFQQMIDKLGLLQPPNATARSFDEAFDKAEKIGYPLVVRPSYVLGGRAMEIVYSAEELERYMTHAVKVSNDSPVLLDHFLSAAVEIDIDAVSDGKRVVIGGVMQHVEQAGVHSGDSACSLPPYSLPQSVQDEMRHQVKQMAVELGVVGLMNVQLAWQDEKIYIIEVNPRASRTVPFVSKCIGVSLAQIAARCMAGKSLEEQGFVEEIVPKFFSVKEAVFPFAKFPGVDPILSPEMKSTGEVMGSGNTFAEAFYKAQLGANEPIPKLGGDKPRVAFLSVRNPDKVGIIEVGRSLLTLGFDLIATQGTALALEAAGLPVKLVNKVSEGRPHIVDMLKNGEVDYIVNTTEGRQAISDSSEIRRTALANKVPYATTLAGARAVCLALEYGDQVKVRRLQDMHAGVM",
+            "annotation": {
+              "id": "Q8RSS3",
+              "description": "Carbamoyl phosphate synthase large chain",
+              "score": 0.9988054633140564,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921652",
+              "contigId": "Q376DRAFT_scaffold00016.16",
+              "elemType": "CDS",
+              "cdsShorthand": "2558209558",
+              "strand": "forward",
+              "start": 92779,
+              "end": 93255
+            },
+            "sequence": "MNKVPMTVEGEKRLRDELTQLKSVERPKVISDIAEAREHGDLKENAEYHAAREQQGFIEGRIKEIEGKLSNAQVIDVAKMPKNGKVIFGVTVTLLNLDTDETTRYRIVGEDEAEIKAGKISVTSPIARALIGKEEGDVVLVRTPGGDVEYEISEVEHI",
+            "annotation": {
+              "id": "Q6G2M7",
+              "description": "Transcription elongation factor GreA",
+              "score": 0.9983251094818115,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          }
+        ],
+        "matchTaxonomy": {
+          "domain": "Bacteria",
+          "phylum": "Pseudomonadota",
+          "class_": "Gammaproteobacteria",
+          "order": "Pseudomonadales",
+          "family": "Halomonadaceae",
+          "genus": "Halotalea",
+          "species": "Halotalea alkalilenta"
+        }
+      },
+      {
+        "score": 0.99928063,
+        "matchIndex": 10,
+        "contig": [
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280682",
+              "strand": "forward",
+              "start": 51931,
+              "end": 52611
+            },
+            "sequence": "MLKPLLVGLAAFGLSTLAVAAPVAGQDYTVLDTPVKTQVEEGQIEVTGVFWYGCPHCYNLEKPLEPWVAELPEDVTFNRLPATMGDTWVKHAFAYYAAEDLGIVDEVHNDFFDALHEQGKRLTDPNDIADFFSNYDVSEEDALAALNSFGVKSQVNKANARMRSMELMGVPALVVDGRYVISPSSAGSLDNMPLIAGSLIEQIRNERGTSASAASQAEATEESSQE",
+            "annotation": {
+              "id": "Q9XBV2",
+              "description": "Thiol:disulfide interchange protein DsbA",
+              "score": 0.9899004697799683,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280683",
+              "strand": "forward",
+              "start": 52608,
+              "end": 53456
+            },
+            "sequence": "MMTPPADSMPTLLNDGRLRLLTFNLQVGIQTSAYYHYLTRSWQHVLPHPKRQRRLELISNILRRYDIVGLQEADGGSFRSGSINQVDYLAQQAGFPHHYQQLNRNLGRLAQHSNGLLSRLTPAVVEEHRLPGTLPGRGAMHARYGSGPDALHIFVAHLALSQRGRDRQLDYLSEIIEPLNHIVVMGDLNCSFEQIENNRRFCEAMALRPIRLPPSYPSWQPSKALDHILLSDSLQEERVKVLNRLFSDHLPVSIDVRLPDVCLQQLAEHFRLLSAATSTPSD",
+            "annotation": {
+              "id": "P0AAW1",
+              "description": "Uncharacterized protein YbhP",
+              "score": 0.9633305668830872,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280684",
+              "strand": "forward",
+              "start": 53548,
+              "end": 54117
+            },
+            "sequence": "MPNSRELPSLAARLDTASEWLGRGLAWLVLVMMLIQFVIVVLRYALSINSIPMQESVMYLHATVFMLAAGYTLHQDGHVRVDIFYRTRSARGQALTNLLGSVFLLLPVMIFILWFSWGYVDKSWRILEGSSDAGGIPGVFLLKSLILVFASLMIMQGCVEVTRNLITLRKHKDSTPTHNSPTNARGDVL",
+            "annotation": {
+              "id": "Q9KR65",
+              "description": "Sialic acid TRAP transporter small permease protein SiaQ",
+              "score": 0.9448135495185852,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280685",
+              "strand": "forward",
+              "start": 54114,
+              "end": 55532
+            },
+            "sequence": "MILELIFKFMPLVLFLTICLVLMAGYPVALSLAGTALAFAGLGAGLEALGANVHFDAHFLSAFPNRLYGIMTNQTLLAVPLFVLMGVLLEKSKVAETLLDAMALLFGSLRGGLGISVTLVGMLLAASTGIVGATVVTMGLISLPTMLKRGYSIPLATGTICATGTLGQIIPPSIALVLLGDVLSTAYQQAQLEMGIFSPKTVSVGDLFMGALVPGLILVGLYILYIMFTAWLRPDAAPAVNRQALMKELGHERGLGLLLLKGLVPPIVLITAVLGSILGGFATPTEASAVGAFGAMLLALVYRRLSLNTLRDVLRTTTRVTSMVFMILIGAALFSLVFRAFGGEELVSGLFESMPGGVVGATIIVMLVIFLLGFILDFIEITFVVVPIVGPILLAMGLDPIWLGIMIAINLQTSFLTPPFGFALFYLRGVAPDSVPTSAIYRGVIPFILLQIGMLLALARFPEIATWLPNTF",
+            "annotation": {
+              "id": "Q9KQS1",
+              "description": "C4-dicarboxylate TRAP transporter large permease protein DctM",
+              "score": 0.9728074073791504,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280686",
+              "strand": "reverse",
+              "start": 55641,
+              "end": 56579
+            },
+            "sequence": "MSKKNITQSQALLPVSIWHAHLGMLGWVLLVGLSFPAVGLLSEGLPPLLLTAMRFTIAALALLPLLRSEDELWPGWAGLVMYALMGLCLAGFFGTMFWAAHRVTALTMATMFVSVPLLAYGLGRLVGVERRAGGLLALLTLGACGALALAWADAGGDVSRLNAGSAEALFFVGCIATALYPVLTKLGLAKGVLSARAGVRTLWSLALGAVLVAGLALLIESPGELKRLTRYDVFLIIYLGLFSSGLTFWLQQRATAVLSPAGVTAYGYLVPFVSMLVLFINFPQRISLIWLPGSLLVVLCIVLLLRRDVLMR",
+            "annotation": {
+              "id": "O30646",
+              "description": "Protein PagO",
+              "score": 0.9763310551643372,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280687",
+              "strand": "forward",
+              "start": 56844,
+              "end": 57863
+            },
+            "sequence": "MKFSLLLKSTLAISIAASIIVSQAVSAETVRLRFHTFYGTEMDDIGKQLRDSVKEASDGSLRIQYFRGGELVDSDQFVDAVSRGTIDIGYGVGSYWPGQVNIGNIEAGLPGAWISADEARDIFENQGLDDLVADAYAEKGVKLIGRGYGSNYDLLTREPITSLDDLKSMRIRATGQFAEILQSFDIPTVFLPAEELYVALSTGVIDGAVYGGPVEYEQLKLHEAANNYTFMNILNPGWIETAIINEDSWNNLSEEHQDILREGIAQYAQSVHEWLESGNQRLIEEGELFNFASLPEEDSKRLTEAAQSIWQEEAAKSERNAEAVDILIKNATEKGRLSE",
+            "annotation": {
+              "id": "Q315G1",
+              "description": "Solute-binding protein Dde_0634",
+              "score": 0.9913884401321411,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280688",
+              "strand": "forward",
+              "start": 57856,
+              "end": 58401
+            },
+            "sequence": "MSNVTRYLRVQDGLSDWVGMVISWLTLGMISVLLIEVVARYLLNSPTIWGHELATMFFGALSILAGSYTLRHHGHVRSDVIYGLLSPRVRAFCDLVVFGLGTVVLVVFFDMAVKFAYDSWLIGEFSNRSVWRPPLWPIKSTIAIAVGLLILQSLAEMVRAVLRLSGVTYKDPRDDNDDDAL",
+            "annotation": {
+              "id": "Q5LUA8",
+              "description": "Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB",
+              "score": 0.9613072872161865,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280689",
+              "strand": "forward",
+              "start": 58471,
+              "end": 59790
+            },
+            "sequence": "MANLEPLTITAIMFFSMLVLMSMGAPLAWALMISGMGSAYVMFGPGGLDLLLASAFGAMDNFLLVSLPLFIFMGLVLERSGITDNLFEMIHKLMGGLPGGLGVGTVLICALIAAMAGVSGAATVSLGIIALPAMLKRGYHKRLVTGTIMAGGALGFLIPPSVLMIVYAFLARESVGKLFAAGLMPGLMLASIYMVYILVRCRINPSLGPPAPEEERFTLKEKIASLRHLVAPGLLVFTVLGCIIGGITSPSEASAVGAGGALLIAAMRGKVNWPLLRYVMLNTTKITGMLLWITIAAVFFSKIYTGLGAGMILSEMIEDYSLSPYTVIIFMLASFFILGMFLDDFAILFITIPLYVPIVNELGFDTTWFAVLFILSMQSAYLTPPFGYNLFYMRSVAPKEITITDIYRSALPFVALQILGLALIVAFPAIALWLPETLF",
+            "annotation": {
+              "id": "O07838",
+              "description": "C4-dicarboxylate TRAP transporter large permease protein DctM",
+              "score": 0.9808865189552307,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280690",
+              "strand": "forward",
+              "start": 59983,
+              "end": 61374
+            },
+            "sequence": "MHNPSPTTTADTLLRRFHRNRRRKETRNTTLSVLLLAAVVGCIAGFIGVMFSRLVNWVTTLRTESVIELSLWASVPLMFLLSGGLAMLGYLLVQRLAPEAGGSGIPEIEGALQDIRPVRWWRVIPAKFIGGVGTLGAGMVLGREGPTVQMGANAGQMVHDIFRLNNKNSRHTLLATGAGAGLAAAFNAPLAGILLIIEEMRPEFRYNLVSIHAVTIGAIMSTMVYRFFDGQLPMLEIAQSLLAAPLETYWLYLVLGICFGVVGIMFNTLILKAQLAFQRFNSKSKLRFIITGGVIGGSLGAIGLLYPSISNDGFHLIERISVGHFSLALLASIFFLRLLTTVASFSSGAPGGIFAPVLALGTLFGTAFGMAAILIFPDYELQAGTFAVAGMGALFAATVRAPLTGTILVLEVTASYQLIMPMIITCLGATLVAQLLGGKPLYSQLLEHILERQKQAELDDAPR",
+            "annotation": {
+              "id": "A7MGR4",
+              "description": "H(+)/Cl(-) exchange transporter ClcA",
+              "score": 0.9991148114204407,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280691",
+              "strand": "reverse",
+              "start": 61516,
+              "end": 62652
+            },
+            "sequence": "MSKRDYYEVLGVDRGADQKEIKKAYRRLAQKHHPDRNPDDEKASELFREVTEAYEVLTDSEKRAAYDQFGHAGVDGQAGAGAGAGAGGFGDIFGDVFGDIFGGGGGGRRHPNAPQRGSDLRYNLEVDLEGAVSGTSVDIRVPRHVECERCDGEGAEPGSTKETCPTCQGMGQVRMQQGFFAVQQTCPTCHGSGQHIKVPCHKCNGEGRVRETRTLSVKIPAGVDTGDRIRLSGEGEAGVNGGPPGDLYVQVAIKPHAIFERDGRHLQCEVPINFVDAALGGELEVPTLNGRVKLKIPAETQTGKMFRLKGKGVKPVRGGPAGDLLCRVVVETPVKLNDEQKDLLRRFQDSMDGSNSHHSPKKTSFFDGVKKFFEDMKS",
+            "annotation": {
+              "id": "Q1QSX1",
+              "description": "Chaperone protein DnaJ",
+              "score": 0.9992637634277344,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280692",
+              "strand": "reverse",
+              "start": 62745,
+              "end": 64670
+            },
+            "sequence": "MGRIIGIDLGTTNSCVAVLDGDESKVIENAEGGRTTPSIIAYTEDGEILVGQSAKRQAVTNPENTIYAIKRLIGRRFDDDEVQKDIKMVPYTIAKADSGDAWVEVKGNKLAPPQVSAEILKKMKKTAEDYLGEAVTEAVITVPAYFNDSQRQATKDAGRIAGLDVKRIINEPTAAALAYGMDKSRGDKTVAVYDLGGGTFDISIIEVADVDGETQFEVLATNGDTFLGGEDFDMALINYLVEQFKADSGMDLSSDKLAMQRLKEAAEKAKIELSSAQQTDVNLPYITADNTGPKHLNVKVTRAKLESLVEELVARSLKPCQTALKDAGLSASDIDDVILVGGQTRMPLVQAKATEFFGKEPRRDVNPDEAVAVGAAIQGGVLGGDVKDVLLLDVTPLTLGIETMGGVMTALIEKNTTIPTKKTQTFSTADDNQTAVTIHVLQGERKQSSGNKSLGRFDLSDIPPAPRGMPQIEVAFDLDANGILNVSAKDKATGKEQSIVIKASSGLSDEEVDQMVRDAEAHADEDKKFEELVQLRNQADGMVHASRKTLEEAGDKASEEDKQAIEAAASELEEALKGDDKDEIQAKLDALTEASGNLAQKLYAETDAAQAEGAAQDSGTQKDEDVVDAEYEEVKDDGKKQ",
+            "annotation": {
+              "id": "Q1QSX0",
+              "description": "Chaperone protein DnaK",
+              "score": 0.9993487000465393,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280693",
+              "strand": "reverse",
+              "start": 64822,
+              "end": 65460
+            },
+            "sequence": "MAKDSQTPLDDELARQQQDGEPQAEPEDTTTDPQDVIDAAVEAEDESLVALDESDNPEADLLAARVEELQQEVDAAKDQALRAAAEAQNVRRRAEQEAAKARKFALEKFIKELLPVVDSLEKALETLQDGSQAHREGVAMTLKMQLDVLEKCGVEVLDPHGEPFTPEFHEAVAMVPNPELDPNSVMDVVQKGYVLNGRLVRPAMVVVSQAAG",
+            "annotation": {
+              "id": "Q1QSW9",
+              "description": "Protein GrpE",
+              "score": 0.9969573020935059,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280694",
+              "strand": "forward",
+              "start": 65672,
+              "end": 67354
+            },
+            "sequence": "MLTELAIRNFAIVDHLELELDNGMTAITGETGAGKSILLGALGLCLGERADTGNVRHGCERADISARFDISTLPRAQHWLTGRDLPSDDCLLRRVITRAGRSKAWINGQPATIADLKEIGEYLIEIHGQHAHQALLHEDNHLRLLDDFAGHGEAVTAMSNTFQEWQDLKRRLKRMANDSDEVRARRQLLHYQVEELDQLALSDGESHLLEEEQEALAHAEERLREAQFAITCCDGDENQHGGALSLLQQAISHLSTLPGSNRGNLAEALGMLSDACIHVEEASRELNHFTASVELDPERLAHIESRLGEVHRIARKHHVAAEELPTLHQRLAHELAELDGGSDALETLATQASELETLWHEQAKAISKQRLSAARRLGKDVQEQLTFLAMDKARFEVALEARTRPAPEGLDRARFLISANPGQPARPLAKVASGGELSRISLAIQVVAAQHSTIPSLIFDEVDVGISGATAEIVGQLLRRLGNHGQIMTVTHLPQVAAQAHQHLHISKQADDDDTLTQMALLDEAGRVGELARMLGGMTLTDQTLAHAREMLSASQRPHH",
+            "annotation": {
+              "id": "Q87BS5",
+              "description": "DNA repair protein RecN",
+              "score": 0.9967150092124939,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280695",
+              "strand": "reverse",
+              "start": 67442,
+              "end": 67888
+            },
+            "sequence": "MNDQNQELRNAGLKVTLPRVKILHILEEASGTRHLSAEDVYKTLLDAGDDVGLATVYRVLTQFEAAGLVTRHNFDGGHAIFELTREEHHDHIVCLDSGEIFEFYDELIEKRQQEIAEEHGFELVDHALVLYVRRKGSKTTRQDAPIRK",
+            "annotation": {
+              "id": "Q03456",
+              "description": "Ferric uptake regulation protein",
+              "score": 0.98764967918396,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280696",
+              "strand": "forward",
+              "start": 67960,
+              "end": 68388
+            },
+            "sequence": "MQKLIKIIALTAAVSLISGCSYFGVYKRDLAQGNLITNDMASQLQPGMTRQQVLNLMGTPLLKSSFDANEWDYMYRLDEAYGGIEQRSLTLTFNGNQLANIQRHGDFSEPPALLKERGIGPASGGNQQEGTVLDRLKSQDQN",
+            "annotation": {
+              "id": "F0KFM4",
+              "description": "Outer membrane protein assembly factor BamE",
+              "score": 0.9895285367965698,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280697",
+              "strand": "reverse",
+              "start": 68436,
+              "end": 68750
+            },
+            "sequence": "MADNDSKLAVEVAFALPERQCIVELQVVEGTTAREAVAMARLENYFPQLSSSSFTQASLGIFGKQLKQPEVHVVREGDRVEVYRPLNIDPKAARLARAKRHGHG",
+            "annotation": {
+              "id": "Q0VSU3",
+              "description": "Protein RnfH",
+              "score": 0.981460690498352,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280698",
+              "strand": "reverse",
+              "start": 68750,
+              "end": 69193
+            },
+            "sequence": "MATVNRSALVRHTPKQMFDLVNDFERYPEFLPGCRRSRLIEREATYLVGEMTLGGAGIEQSFTTRNELYESERIELSLVKGPFKRLKGRWLFTPMGDASCRVSLELEFDFANRLLGLAFGKLFKQVAGQLVEAFTQRADQIYGRSSG",
+            "annotation": {
+              "id": "O68560",
+              "description": "Ribosome association toxin RatA",
+              "score": 0.994234025478363,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280699",
+              "strand": "forward",
+              "start": 69342,
+              "end": 69827
+            },
+            "sequence": "MATKKSKGPGNNVIALNKKARFEYHIDEVFEAGLVLAGWEVKSMRAGKAQLTDTYILIKNGEAWLLGSHIIPLNTASTHEVADPTRTRKLLLHRKEIARIFSRTQDKGHTCVPLKLYWKGNRVKCELAVVTGKKLHDKRATEKDRDWQRQKGRIMRENAKA",
+            "annotation": {
+              "id": "Q1QSW3",
+              "description": "SsrA-binding protein",
+              "score": 0.9909377694129944,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280701",
+              "strand": "forward",
+              "start": 70445,
+              "end": 71671
+            },
+            "sequence": "MKRSQIKRRPLADTVLATLEPEAKAYRELDGSGLYFRVRPNGSKSWELRYKKPDGKWSWIGLGGYPETSGSLAREKADQLRADAAKGENPIVSKRTREAATLEAANSTFEALAREWHTNKRQNWTDGTATRVIGALQKHVFPKFGKRPFTDITPMEWLEFLRSLEKTGIVEQTSRIRAICREVYDLALVSGRIQYNPLESLHKHLTTRRAANYSHVSQDELPALLRAIGSYPHAEDVRLGLILLSRLAARPSELREARWEEFDLDKALWTIPAERMKRRREHTVPLPKQAIEALQNLHQLTGYQPLLFPGRSDKTAPRSNTVFIMALRRLGYEGRQTGHGFRHIASTILNEHGYNADHIEAQLSHVKDGVAGVYNKAQYIEQRRVMMQWYADHLDNLQRGNVVEMKRA",
+            "annotation": {
+              "id": "P76542",
+              "description": "Prophage integrase IntZ",
+              "score": 0.9955356121063232,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280702",
+              "strand": "forward",
+              "start": 71668,
+              "end": 72231
+            },
+            "sequence": "MSKGAWEAVYWELYKVQKWPGQASIIAAYVSEWEKTGNAFYIDAAIAALKEAGLPVTPTIQSEVAKAALKRLDDTGRGGGRKVVKNSVVLDAAFKLMMNLVYKKRMGIDAAASKAAMYVHQKYEGFGAKTYKASYLAKCYTEQIRPEREKQFFAYLDSYEPEHKERWDAVMHLFPDAPDELIGNRRD",
+            "annotation": {
+              "id": "P52123",
+              "description": "Uncharacterized protein YfjH",
+              "score": 0.8564334511756897,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2526164533",
+              "contigId": "H616DRAFT_scaffold00004.4",
+              "elemType": "CDS",
+              "cdsShorthand": "2526280703",
+              "strand": "forward",
+              "start": 72321,
+              "end": 72545
+            },
+            "sequence": "MNIEALPQDQKLITKPNLCRAMDMTRSGIDKLLKNDPSFPRPLKFSDSQQATCYFPIAEVNAWLEAKLAERGAA",
+            "annotation": {
+              "id": "P0DPM9",
+              "description": "Protein YkgV",
+              "score": 0.9790251851081848,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          }
+        ],
+        "matchTaxonomy": {
+          "domain": "Bacteria",
+          "phylum": "Pseudomonadota",
+          "class_": "Gammaproteobacteria",
+          "order": "Pseudomonadales",
+          "family": "Halomonadaceae",
+          "genus": "Halomonas",
+          "species": "Halomonas halocynthiae"
+        }
+      },
+      {
+        "score": 0.9992597,
+        "matchIndex": 10,
+        "contig": [
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883316",
+              "strand": "reverse",
+              "start": 415121,
+              "end": 415672
+            },
+            "sequence": "MLHRMRFSLLTAASTLLLAFTGVAAAGDDKTFGWVEKTTVEPWGVEVKAKLDSGALTSSMDARDIERFEKDGEEWVRFRIELEDEETGEVTSETLEKEVNRNLILRGAGGESRRPTVIMDICMGDTIYEEDFSLRDRSNMHYPILLGRRTIKHLGVLDVRETFTTDPECDEDSPVQPYEEDED",
+            "annotation": {
+              "id": "O29643",
+              "description": "Uncharacterized protein AF_0612",
+              "score": 0.8011171817779541,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883317",
+              "strand": "forward",
+              "start": 415841,
+              "end": 416809
+            },
+            "sequence": "MRRAVAVCACMILAVPGGAVPVQAEEDYPDRAIRLVIPFGPGGATDVLFRRVADWLETSLDTPIDPVNVSGDAAIRGASDVKEATPDGYTLLGSHQTLSLSYLYGKADFSYEAFAPVALLMRTINIPATRADHPVDAADGIAPYVAKHGDNVRFGMIEGSTDHFFWLHFFEEAGIDQDQVALVGYPDTASQIAALMTGEIDFSMLNLPSGGELFASGTLTPLGVADTQRLPTLPSVPTLQEQGIDMVNTTDRGLFAPLGTPIERRDVLVSALLQVLDDDMHRQRLEREFGTRIHVQSSGDYSRVLDEQFRRLEELAKAIDFD",
+            "annotation": {
+              "id": "O34439",
+              "description": "UPF0065 protein YflP",
+              "score": 0.9752948880195618,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883318",
+              "strand": "forward",
+              "start": 416918,
+              "end": 420526
+            },
+            "sequence": "MPFKTRDIALDTGLLMVAATFILMGVGGLLANSVETMSYSLRTLVVSDAALSTLLAGIALVATIQRKPWIRCMAGAALLAVMAYTLIHNVMVGGNVSGLSWISGEQRISSAAALQLLLVAGCLVMGVTHPWKRRLWSAMGVLLLGFGGILLIWLFLPSGETRWASVYASSPWVAVLYTLLFGVAMVAVGIRYPARDMHLGRMAIAVCVLGVTVSSLSWYLVTWQQQHSLHEQADYLLDNLQLNIEQVMEARLTRLQRMAERWEPGEHPQGNEGFLRDAENHLRDIPSLGAVAILDEAQQWVVGRARDAASRDWLSRQVAKRDIEAWMMAPFSQPRLMVPDESGGAVALLVAPIPGQNYQLVAMMDLPLLLENQLRAQLGPFEVTASRGNSVLLDMVAAGSSTVSEVPDLTTLEQRSVGMPGGPVLDLGVHLAPERNWLMAGGVSTGVIGVGLTMSYLLGFSLGLVRLVMMRSRALMVTQRSLEEQQHIQALIVREAPLERTLASVCRMLEKQLAGVHCAVMMSDAEGKTLRLASGQRLPLAYQQALARLPIDPCQEVSSAAAYHRRPIICHDTHRNSQPDINHDLTRQHGFRACCSYPVVATDGRLLGTFATYSDAPSSPSRDMLEAIRKAAGLVALAIERHQDRRSLWESEQRYRSLFVYNPDAVFSLDLEGRFVTANTTCMELTGRAADTLVGASCFSLATPGQQDILETHFRHAVAGNPCRYEIEITDQYGETHILDMTHLPIMVDGQVHGVYGIAKEITEHKAHQAQLAYHASHDFLTGLANRTFFEGQLNEAFRRARRQNDRLAVLFVDLDEFKPINDSLGHDVGDQLLVNVASRLTGAMRSTDILARLGGDEFVILMDGLTDEAEVSRLATRLLPLISSPYRIAGHELYLSCSIGIAVSDEKIVQPMELIQQADMAMYKAKSQGRNAYQWYTREITDKVNARVALRNELQEAIDNAHFVLHYQPLLDLDGRVVGVEALIRWPHPEKGFIPPDQFIPLAEETGQIIAINEWVLDRACRDVLQLREQELGELVVSVNLSPLQFRRSRFLDNLYQTLATTGLPARQLELELTEGILMDDAESAISILHELRRLGISVAIDDFGTGFSSLSYLKHLPIGKIKIDRTFIRDVESNRHDASIVQGIVSMSHHLGLTVVAEGVETEAQKACLMRFGCDILQGYLFARPMPLDALITYLSSQEA",
+            "annotation": {
+              "id": "P38097",
+              "description": "Probable diguanylate cyclase DgcE",
+              "score": 0.9043442010879517,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883320",
+              "strand": "reverse",
+              "start": 421108,
+              "end": 421593
+            },
+            "sequence": "MANKKGKRKGPGGNVIALNKKARFEYHIDETFEAGLSLSGWEVKSLRAGKAQLTDTYILVKNGEAWLLGSHITPLNTTSTHEVADPTRTRKLLLHRKEIAKIFSRTQDKGHTCVPLKLYWKKNLVKCELALVTGKKQHDKRATEKERDWNRQRARIMRESN",
+            "annotation": {
+              "id": "Q1QSW3",
+              "description": "SsrA-binding protein",
+              "score": 0.9965961575508118,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883321",
+              "strand": "forward",
+              "start": 421721,
+              "end": 422158
+            },
+            "sequence": "MPTVNRSALVRHTPQAMFDLVNDFERYPEFLPGCRDARLLERDEYHLVGELTLAKAGVEQSFTTRNDLYEPERIELSLVSGPFRRLRGRWLFTPMGEEACKVSLEMEFEFANRILGMAFGKLFKQVAGQLVDSFTRRADDIYGSY",
+            "annotation": {
+              "id": "O68560",
+              "description": "Ribosome association toxin RatA",
+              "score": 0.994062602519989,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883322",
+              "strand": "forward",
+              "start": 422145,
+              "end": 422498
+            },
+            "sequence": "MVPTERPDIENGEAFLSVEVAFALPERQKIVSLEVSPGTTARQAVVQADMPRHFPDLPESTFLKADLGIFGQALRDPESHVLRDGDRVEIYRPLLIDPKEARARRAAETRSAKRGQR",
+            "annotation": {
+              "id": "B2JIA4",
+              "description": "Protein RnfH",
+              "score": 0.978727400302887,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883323",
+              "strand": "reverse",
+              "start": 422495,
+              "end": 423073
+            },
+            "sequence": "MIDRIHDSEERAQMQKLITIITLSAALSLTSGCSYFGVYKRDLPQGNLVDQEMISQLQPGMTRNQVKSIMGTPLLEAPFDASQWDYVFYLDEAYGDVEKRRLTLTFQGDRLANIDAQGDMDSDIELPTDQEAGPAPEGADPQGAMPSNPDEPEPAPGPGTAPSGGETSSEDEPIGGSSGGDDSVESESSSGF",
+            "annotation": {
+              "id": "O68562",
+              "description": "Outer membrane protein assembly factor BamE",
+              "score": 0.9483461380004883,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883324",
+              "strand": "forward",
+              "start": 423107,
+              "end": 423550
+            },
+            "sequence": "MADQNHELRKAGLKVTLPRVKILQILENAPDQHHLSAEDVYKALLDAGEDVGLATVYRVLTQFETAGLVIRHNFDGGHAVFELSQEEHHDHMVCLDSGEIIEFFDEAIERRQQEIVEEHGYELVDHALVLYVRPKGSKVTRQETIKK",
+            "annotation": {
+              "id": "Q03456",
+              "description": "Ferric uptake regulation protein",
+              "score": 0.980996310710907,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883325",
+              "strand": "reverse",
+              "start": 423646,
+              "end": 425319
+            },
+            "sequence": "MLVQLAIRDYAIVDSLDLELQNGMTAITGETGAGKSILLGALGLCLGNRADAGSVRHGCERADLSARFDITALPGARGWLAERELAEDDCLLRRVITASGRSKAWINGQPAAIADLKALGEHLIDIHSQHAHQALLRDETHLRLIDEFAGHTAEVASLAALYRQWHERRQRLKQLSEDGEEIQARRQLVRYQVEELDQLALSEGELDTLEREQESLAHAEESLREAQFASDCCNSDEGGAMSLLHQALSRISSLPGSDRGPLADALSMLGDAKIQIEEASHELHRFIGATELDPERLAWVEERLSEVHRIARKHQVLPEELPELHKRLHDELASLEGSDHDLDALTEEVESLREQWREQARRVSEARRQAAARFGQEVQEQLAFLAMEKASFDVDVSARDKPGPEGLDHVRFLISANPGQPARLLNKVASGGELSRISLAIQVVAARHSTTPTMVFDEVDVGVSGATAEIVGQLLKRLGQHGQVMTVTHLPQVAAQAHQHLHIEKQAEEETTLTQIAHLDSGGRVRELARMLGGIKLSDRTLAHAREMLEASQNNPH",
+            "annotation": {
+              "id": "P05824",
+              "description": "DNA repair protein RecN",
+              "score": 0.9963297843933105,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883326",
+              "strand": "forward",
+              "start": 425525,
+              "end": 426172
+            },
+            "sequence": "MAKEPQSPLEDELAREESDAEPQATEGEPDDAAEAADTLEEGRDTEAETAAEPETEEDPDVLAAKVEELENSLAEAKDQAMRAAAEAQNVRRRAEQETEKARKFALEKFVQELLPVVDSLEKALESMQDGASEAHREGVSMTLKLQLDVLAKFGVEVVEPEGEPFDPQYHEAMAMVPNPDAEPNTVMEVIQKGYLLNGRLVRPAMVVVSQAADSE",
+            "annotation": {
+              "id": "Q1QSW9",
+              "description": "Protein GrpE",
+              "score": 0.9951635003089905,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883327",
+              "strand": "forward",
+              "start": 426319,
+              "end": 428250
+            },
+            "sequence": "MGRIIGIDLGTTNSCVAVLDGDNPKVIENAEGGRTTPSIIAYTDDGEILVGQAAKRQAVTNAQNTLYAIKRLIGRRFSDDVVQKDIKMVPYKITEADNGDAWVEVKDKKLAPPQVSAEVLKKMKKTAEDYLGEEVTEAVITVPAYFNDSQRQATKDAGRIAGLEVKRIINEPTAAALAYGMDKSRGDKTLAVYDLGGGTFDISIIEVADVDGETQFEVLATNGDTFLGGEDFDMQLINYLVDQFKSDSGIDLSGDNLAMQRLKEAAEKAKIELSSAQQTDVNLPYITADNTGPKHLNVKVTRAKLESLVEDLVQRSLGPCKTALADAGLSNSEIDDVILVGGQTRMPLVQKKVAEFFGKDARKDVNPDEAVAVGAAIQGGVLGGNVKDVLLLDVTPLTLGIETLGGVMTPLIEKNTTIPTKKTQTFSTADDNQTAVTIHVLQGERKQAGQNKSLGRFDLADIPPAPRGVPQIEVAFDLDANGILNVSAKDKATGKEQSIVIKASSGLSEEEIEQMVQDAEAHADEDKKFEELVQLRNQADGMVHAARKTLEEAGDKATDEEKQAIETAISELEEAAKGDDQEAIQSKLDALTEASGNLAQKMYAEQGEGAQAEGGQADDAGTKQEDDVVDAEYEEVNDDQKKQ",
+            "annotation": {
+              "id": "Q1QSX0",
+              "description": "Chaperone protein DnaK",
+              "score": 0.9997174739837646,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883328",
+              "strand": "forward",
+              "start": 428341,
+              "end": 429486
+            },
+            "sequence": "MSKRDYYEILGVERGADQKEIKKAYRRLAQKYHPDRNPDDSSAAEKFREVSEAYEVLTDDEKRAAYDQFGHAGVDGEAGGGFGAGGFGGAGAGGFSDIFGDVFGDIFGGGGRRHPNAPQRGSDLRYNLELDLEDAVAGTSVDIRVPRHVECGRCDGDGAEPGSTKETCPTCGGHGQVRMQQGFFAVQQTCPTCHGSGQHIKVPCHECHGEGRVRETRTLSVKIPAGVDTGDRIRLNGEGESGINGGPPGDLYVQASIKPHPIFQRDGRHLQCDVPINFVDAALGGELEVPTLDGRVKLKIPPETQTGKLFRLKGKGVKPVRGGAPGDLLCKVVVETPVKLNEEQKELLRKFQESLGENNSHSPKKSSFFDGVKKFFEDMKP",
+            "annotation": {
+              "id": "Q1QSX1",
+              "description": "Chaperone protein DnaJ",
+              "score": 0.9992637634277344,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883329",
+              "strand": "forward",
+              "start": 429629,
+              "end": 430885
+            },
+            "sequence": "MTHDTIVLGAGMVGTSVAYHLARRGRSVALVDRQLPGQATSFGNAGIIQREAVQPHPFPRDIGTLMRVLPNRRIDIRYRPKGMAASAGPLWQYWRHSAPARYAAIVNEYATLIRHCTREHEVMIEASGAESLVCKTGWLEGFRSPPVFDEVLANARTLERCFGVTHEVLDQRALGNAEPHLADELIGAVHWTNAWTVRDPGALVQSYARAFAGLGGAIEHTEAQRLDPTANGWRLMTRDGRLEACDVVIAAGPWSLQWLEPLGYRLPLFPKRGYHMHYALRKGARLYHWLMDFESGYLLAPMQNGVRLTTGAELSTLDAPIRTGQLEAAEAVARRLAPLGERLDAEPWRGDRPCMPDMKPVIGSAPRHGGLWFALGHGHQGFTLGPVTGRLLGEMMSGEPTLVDMTPFRPERFGGAGR",
+            "annotation": {
+              "id": "A0KJP1",
+              "description": "D-amino acid dehydrogenase",
+              "score": 0.9915311932563782,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883330",
+              "strand": "forward",
+              "start": 430967,
+              "end": 431248
+            },
+            "sequence": "MPISRANIMTDSGLVLMQRLCKHWGHKLDVEKDDKQARVVFDEGTCLMQADEDKLIVALEALDDASLDRLEQVVDEHLARMAGRGTLDIVWEN",
+            "annotation": {
+              "id": "A4VGW8",
+              "description": "Iron-sulfur cluster assembly protein CyaY",
+              "score": 0.7779659628868103,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883331",
+              "strand": "forward",
+              "start": 431326,
+              "end": 432201
+            },
+            "sequence": "MLCWSLLVGLSFPVVGWLSDSLPPLLLTSLRFVIASLALSLLVRRASDWRPHARAMGLYALMGLCLAGFFGAMFWAAHHATAVSMSTLFVSVPLLAFLMGCLAGVERIAWRLPLVLALGALGALGLAWAEARQSDGAGWRFGIGEGVFFLGCLSSALYPVLSKWGLRRGWLSASAAVRTFWSLAVGAVLIGLVGLGIEPVTALTEMTLSDALLLIYLGVGSSALTFWLQQRATAVLTPGAVTAYSYLVPFVSMILLFIRAPERIDWIWAPGAILVLGAVMLLIHGGSDAPR",
+            "annotation": {
+              "id": "P0ABT8",
+              "description": "Probable cystine transporter YijE",
+              "score": 0.9799613356590271,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883332",
+              "strand": "forward",
+              "start": 432258,
+              "end": 433073
+            },
+            "sequence": "MTRIAIVGVAGRMGRVLTAAAYQDSDATLAGGTVRPQSSLVGADIGELAGIGRLGVTAASSLTDIAEDIDVLIDFSTPELTLANLAFCAEHGKRIVIGTTGLSDAQLVELDSYRDRVPMVFAPNMSVGVNLTLNLLQTAATALGDEGYDIEVVEAHHRHKVDAPSGTALKMGETVAQALGRTLKEHGVFERVGQCGPRRDDEIGFATLRAGDIVGEHTVMFATEGERIEITHKASSRMTFAKGAVRAARWVAERPNGRYDMQDVLGLKAEG",
+            "annotation": {
+              "id": "Q1QSX7",
+              "description": "4-hydroxy-tetrahydrodipicolinate reductase",
+              "score": 0.9968354105949402,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883333",
+              "strand": "forward",
+              "start": 433357,
+              "end": 434502
+            },
+            "sequence": "LNRPAILALEDGSVFHGTAIGADGQTSGEVVFNTAMTGYQEILTDPSYTRQIVTLTYPHIGNTGVNHEDVESGAIAAAGLVIRDLPLLVSSFRSEQSLSDYLKSQNVLGIADIDTRRLTRLLREKGAQNGAILAGPEAGSDDAEARALEVARAFPGLKGMDLAQVASCQSPYEWHEGEWALGTGYADMASAERPFHVVAYDYGVKHNILRILASRGCRLTVVPARTPASEVLAMHPDGVFLANGPGDPEPCDYAIEAIQAILDTEIPVFGICLGHQLLALASGARTVKMKHGHHGANHPVQDLKSGQVMITSQNHGFTADEATLPSHLRATHRSLFDGTLQGIERTDRPAFSFQGHPEASPGPHDVMPLFDRFVGMMQARR",
+            "annotation": {
+              "id": "Q8RSS4",
+              "description": "Carbamoyl phosphate synthase small chain",
+              "score": 0.9947740435600281,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883334",
+              "strand": "forward",
+              "start": 434555,
+              "end": 437785
+            },
+            "sequence": "MPKRTDIKSILIIGAGPIVIGQACEFDYSGAQACKALREEGFRVILVNSNPATIMTDPVMADATYIEPITWEAVEKIIAKERPDALLPTMGGQTALNCALNLDKHGILAKYGVEMIGANADAINKAEDRDLFDKAMRNIGLECPKAKVAHSMDEAWTIQSEFGFPVIIRPSYTMGGSGGGVAYNKEEFEEICERGFDLSNNHELLIDESLLGWKEYEMEVVRDKHDNCIIVCAIENFDPMGVHTGDSITVAPSQTLTDKEYQRMRDASLAVLREIGVETGGSNVQFGVDPSTGRMVVIEMNPRVSRSSALASKATGFPIAKVAAKLAVGYSLDELSNDITGGVTPASFEPSIDYVVTKVPRFTFEKFPQSNDRLTTQMKSVGEVMAIGRTFQESLQKALRGLETGNDGLDPKLHQFDEEAMAVIKRELQTPGAERIFYIADAMRAGLSVDEVFALTNVDRWYLVQLEDLINTESEVSKRSLAEFSARDLFLLKRKGFSDARLASLLGVSEKELRKRRQKLGVRPVYKRVDTCAAEFASSTAYMYSTYEEECEADVSDRQKIMVLGGGPNRVGQGIEFDYCCVHAALAMRDDGFETIMVNCNPETVSTDYDTSDRLYFDPVTLEDVLEIADKEQPVGVIVQFGGQTPLKLARELEAAGVPIIGTTPDAIDRAEDRERFQQMIDKLGLKQPPNATARTFEEAFSKAEAIGYPLVVRPSYVLGGRAMEIVYTPSELEGYMTHAVKVSNDSPVLLDHFLNAAIEIDIDAVSDGQQVVIGGIMQHIEQAGVHSGDSACSLPPYSLPMEVQDRMREQVKRMAVELNVVGLMNVQLAWQDGEVHVIEVNPRASRTVPFVSKCIGVSLAQVAARCMAGKTLAEQGFEQEIIPGYYSVKEAVFPFNKFPGVDPILSPEMKSTGEVMGSGETFAEAFYKAQLGAGEAIPDLDGDRKAFLSVRDPDKKGVLEVAQSLLGLGFTLCATRGTAHALEAAGLPVETVNKVYEGRPHIVDLLKNDEVAYIVNTTEGRQAINDSAVIRRTALARKVPYATTLAGARAVCMALEYGKEISVRRLQELHAGANQ",
+            "annotation": {
+              "id": "Q8RSS3",
+              "description": "Carbamoyl phosphate synthase large chain",
+              "score": 0.9995273947715759,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883335",
+              "strand": "forward",
+              "start": 437782,
+              "end": 438258
+            },
+            "sequence": "MNKVPMTVAGEARLREELEKLKSVERPRVINAIAEAREHGDLKENAEYHAAREQQGFIEGRIQEIEGKLSSAQVIDVTKLPKTGKVIFGVTVELINLDTEEEVSYRIVGEDEADIKAGMISVTSPIARALIGKEEGDVVAVKTPKGEVEYEIGSVEHL",
+            "annotation": {
+              "id": "Q87WP5",
+              "description": "Transcription elongation factor GreA",
+              "score": 0.9974058270454407,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883336",
+              "strand": "reverse",
+              "start": 438379,
+              "end": 438705
+            },
+            "sequence": "MSLSQQQKKALRRIGHHLNPIVTVSEHGISEGLQAELERALDDHELIKVKIALSDREDRTAMVEQLVADSGAEAVQVIGKTALLYRTNPRADPKLSNIQRFENHHGRR",
+            "annotation": {
+              "id": "P95453",
+              "description": "Probable RNA-binding protein PA4753",
+              "score": 0.9929689168930054,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2693429859",
+              "contigId": "Ga0131201_103",
+              "elemType": "CDS",
+              "cdsShorthand": "2694883337",
+              "strand": "forward",
+              "start": 438842,
+              "end": 439510
+            },
+            "sequence": "VARSSQSSKAAKPGSGGKRRGGWLKEHFDDPYVQRSWQEGYRSRASYKLLEIDKRDALFKPGMTVVDLGAAPGGWSQIAAERVGEDGCVVASDILDMDAIPQVTFIQGDFTEEEVLEAILTGLDKRKVDLVISDMAPNMSGMAAIDQPHAMHLCELALDLAHQVLSPGGSFLTKVFQGEGFDDYLKTLRRDFDKVMTRKPQASRDRSKEVYLLAKGFRGWAS",
+            "annotation": {
+              "id": "Q87LZ4",
+              "description": "Ribosomal RNA large subunit methyltransferase E",
+              "score": 0.993017852306366,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          }
+        ],
+        "matchTaxonomy": {
+          "domain": "Bacteria",
+          "phylum": "Pseudomonadota",
+          "class_": "Gammaproteobacteria",
+          "order": "Pseudomonadales",
+          "family": "Halomonadaceae",
+          "genus": "Aidingimonas",
+          "species": "Aidingimonas halophila"
+        }
+      },
+      {
+        "score": 0.99916786,
+        "matchIndex": 10,
+        "contig": [
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107140",
+              "strand": "forward",
+              "start": 295605,
+              "end": 296672
+            },
+            "sequence": "MQAEETSPQVRRPRAHAARMTHKVSGRLALRQVMPLACLSALLTCLASLLWGAGDVGPWQALQVLAGQGSDQARFVVLELRAPRTLIGMVVGMMLACGGALMQVVARNPLAEPGLLGVSAGASFAVAVALLLGMEATGMHVMVAQSGALLGCLFVMSTVRMSGARQDPVRLVLAGAALSSLLVALTSLALLIDQRAADEIRFWVIGSLAGRSLEALYSSLPSILLAVLLTLWLARPLSAMVLGEQVASGLGHHPKRVRKVAILVVALLVGAATALAGPVALVGLAVPYVARALCGADVRRTLWLCLPLGVTMLLSADVVSRLVVPPSELPLGVLTTLMGAPVLIAVVRARRLPTL",
+            "annotation": {
+              "id": "P23876",
+              "description": "Ferric enterobactin transport system permease protein FepD",
+              "score": 0.9877743124961853,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107141",
+              "strand": "forward",
+              "start": 296811,
+              "end": 297869
+            },
+            "sequence": "MSRPSPLDPLRSAPTGTLWWRHGKLSLLLLRAPLLAAGILLLALLMASVASLMLGSAGLGPWDAFKAAFGHGEFATVFVVQELRLPRLLAGIATGAAFSLAGCLMQTLAGNRLATPGIIGIDNGATAFAVASVVGMGISLAPPVMALSGAVIATALAFGLSGGIGTRGYRFLVAGIGVGALFGAGTQLMLARVSIDAANSAYPWTVGSLNARDADSLTWLGLALLIGVPIALWLGRGLNTLRFTDRVATGLGQPVSRVRLITLWLSVVLTAAAVAVAGPVGMVALVGPEIARYLSRHKGVPLLASALAGALVMVLADLAGRTLLSPLEIPVGIVMAVVGSPYLLWILLRSPR",
+            "annotation": {
+              "id": "P23876",
+              "description": "Ferric enterobactin transport system permease protein FepD",
+              "score": 0.9843915104866028,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107142",
+              "strand": "forward",
+              "start": 297990,
+              "end": 298880
+            },
+            "sequence": "MSAETMLDPRAMNSPADRHAAATTDTLRANELSLGYGARQRHVTVIDSLTLGLPDGKVTAIVGPNGCGKSTLLAGLARLQLPESGAVLLEGKDIHAYKRREVAQRIALLPQETHSPEGVTVHELVRFGRQPYQGALSQWSEEDQRLVAEAMAAADIESLADRELASMSGGQRQRAWIAMALAQQTPLLLLDEPTSALDLGHQIEVFELIQRLAHEEGKTIVMVVHDLASACRYADHIVAMHAGRVIAEGAPAEVVTPELVRKLYGVECRLIPDPDTGTPLLIGVRRTSERLSGSAT",
+            "annotation": {
+              "id": "P23878",
+              "description": "Ferric enterobactin transport ATP-binding protein FepC",
+              "score": 0.9614433646202087,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107144",
+              "strand": "reverse",
+              "start": 299587,
+              "end": 300063
+            },
+            "sequence": "MGKKKKPEQGGNLIAQNKKARHEYHIEETFEAGLVLAGWEVKALRAGKGQLTDTYIVIKNAEAWLLGCHIHPLETANTHAVADPQRTRKLLLHKKQIARIFSRTQDKGHTCVPVKLYWKNAIVKCEIALVEGKKLHDKRATEKDRDWNRQKARILRDR",
+            "annotation": {
+              "id": "Q1QSW3",
+              "description": "SsrA-binding protein",
+              "score": 0.9945321083068848,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107145",
+              "strand": "forward",
+              "start": 300226,
+              "end": 300663
+            },
+            "sequence": "MPTVNRSALVRHSARAMFDLVNDFERYPEFLSGCSNAELLERDEDHLKGRLTLSKAGMQQSFVTRNDLYAPERIELNLVDGPFKRLQGTWLFTPLGEDACKVSLEMDFEFSNRLLGMAFGKLFSQVAAQMVEAFTRRADQIYTQR",
+            "annotation": {
+              "id": "O68560",
+              "description": "Ribosome association toxin RatA",
+              "score": 0.9932839870452881,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107146",
+              "strand": "forward",
+              "start": 300751,
+              "end": 301062
+            },
+            "sequence": "MADRITVEVAYALPDKQKIVSLAVAPGTTAREAVRMARLEQHFPTIAAEVFLEADLGIFGKALRKPDEHVLDAGDRVEVYRALITDPKLARKRRADKAARAAQ",
+            "annotation": {
+              "id": "A6VCM3",
+              "description": "Protein RnfH",
+              "score": 0.9899184703826904,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107147",
+              "strand": "reverse",
+              "start": 301155,
+              "end": 301583
+            },
+            "sequence": "MQNLIKTVAFCSALSLLTGCSYFSVYKRDLPQGNLIKPEMVEQLKPGMSREQVIYVMGSPLLTAPFSEDSWDYVYRLKKADGEIINKRVTLTFAGDSLSNIDKSGDIDQETVIVPDLDIDPRAAQPNRAEPKAGAADLPEER",
+            "annotation": {
+              "id": "F0KFM4",
+              "description": "Outer membrane protein assembly factor BamE",
+              "score": 0.9878737330436707,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107148",
+              "strand": "forward",
+              "start": 301662,
+              "end": 302084
+            },
+            "sequence": "MADQNHELRKAGLKVTLPRVKILQILEKSTDRHLSAEDVYKALLEAGEDVGLATVYRVLTQFETAGLVMRHNFDGGHAVFELSQEEHHDHMVCLDSGEIIEFCDPEIERRQREIVEEHGYELVEHALVLYVRPKGDKSDS",
+            "annotation": {
+              "id": "Q03456",
+              "description": "Ferric uptake regulation protein",
+              "score": 0.9957118630409241,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107149",
+              "strand": "reverse",
+              "start": 302315,
+              "end": 303985
+            },
+            "sequence": "MLLQLAIQDFAIVETLELDFRRGMTAITGETGAGKSILLGALGLCLGERADAGSVRHGADRADLIARFDISELGDARQWLDERELGSDDCLLRRVITASGRSKAWINGTPCTIADLRELGEHLIDIHSQHAHHSLLKEETHLRQLDEYAGLETQAAQLREDFRHWQEAHRRLKRMSNDGDEVRARRQLLRYQVEELDELALCEGELEALEQEQETLANAEQILAEAQSAAECCDHDEEGALSRLNQALARLAHLPGNEHGSLASALGMLEEARIQIEEAARELHRFVEVTELDPERLAFVDERLSRIHQIARKHHVMPDELHGLHQRLSEELDGLGGDEEAIEALREEVAQRREAWKGLASEVSAKRATAAPQLASDIQDQLAFLGMGKATFEVAIEARERPQPEGMERIHFRISANPGQPPRALAKVASGGELSRVSLAIQVVAASRSTIPSLVFDEVDVGISGATAEIVGQLLRRLGDKGQVLTVTHLPQVAAQAHQHLHIEKQAEKDTTRTHMALLNESGRVRELARMLGGIHLSEQTLAHAREMLGAADSRH",
+            "annotation": {
+              "id": "P05824",
+              "description": "DNA repair protein RecN",
+              "score": 0.9955333471298218,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107150",
+              "strand": "forward",
+              "start": 304363,
+              "end": 304986
+            },
+            "sequence": "MAQDPQTPMDEELQRAARDAEPQPETPEGEVIDNVLDADDTGAEGSLVDNPEAEMLAAQVEELEQAVKEAKDQALRAAADAQNARRRAEQDAEKARKFALEKFVKEMLPVVDSLEKALESMSGDEAAKTHVEGIEMTLKMQLDALNKSGVEQLDPHGEPFDPEYHQAVAMVPSPDAEPNSVIDVMQKGYTLNGRLVRPAMVAVSKAS",
+            "annotation": {
+              "id": "Q1QSW9",
+              "description": "Protein GrpE",
+              "score": 0.9948658347129822,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107151",
+              "strand": "forward",
+              "start": 305190,
+              "end": 307112
+            },
+            "sequence": "MGRIIGIDLGTTNSCVAVLDGEKTKVIENAEGGRTTPSIIAYTDDNEILVGQSAKRQAVTNPENTLFAVKRLIGRKFKDDVVQKDIKMVPYKIVEADNGDAWVQVKDKKMAPPQISAEILKKMKKTAEDYLGEEVTEAVITVPAYFNDSQRQATKDAGRIAGLDVKRIINEPTAAALAYGMDKSRGDKTIAVYDLGGGTFDISIIEVADVDGETQFEVLATNGDTFLGGEDFDMHLINYLVDQFKADSGIDLSGDNLAMQRLKEAAEKAKIELSSAQQTDVNLPYITADNTGPKHLNVKVTRSKLESLVDDLVARSLKPCQTALSDAGLSASEIDDVILVGGQTRMPLVQSKVAEFFGKEARKDVNPDEAVAVGAGIQGGVLGGDVKDVLLLDVTPLTLGIETMGGVLTPLIEKNTTIPTKKSQVFSTADDNQGAVTIHVLQGERKQAAQNKSLGRFDLADIPPAPRGVPQIEVAFDLDANGILNVSAKDKATGKEQSIVIKSSGGLSDDEIEQMVRDAEANADEDKKFEEMVQLRNQADGMIHATKKTLTEAGDKAEASEKEAIETAISELEEALKGDDKDAIQAKLDALTEASGNLAQKLYAEQGAQGEQAAEGQAGKKQDDDVVDAEYEEVNDDKKS",
+            "annotation": {
+              "id": "Q1QSX0",
+              "description": "Chaperone protein DnaK",
+              "score": 0.9993173480033875,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107152",
+              "strand": "forward",
+              "start": 307282,
+              "end": 308433
+            },
+            "sequence": "MSKRDYYEVLGVERGADTKDIKKAYRRLAQKHHPDRNPDDETSAEKFREVSEAYEVLSDADKRAAYDQFGHAGVDGQGGGGFGGGGFGGGGAGGFGDVFGDVFGDIFGGGGGRRNPNAPQRGSDLRYNLDLDLESAVAGTTVDIRVPRLAACGHCDGDGAEPGSSKETCPTCNGMGKVRMQQGFFAVEQACPTCHGRGEKISVPCRKCHGEGRVQESKTLSVKIPPGVDTGDRIRLNGEGEGGVNGGPSGDLYVQVNLREHEIFKRDGRHLQCEVPISFVDAALGGELNVPTLDGRVVLKIPAETQTGKLFRLRGKGVKPVRGGPAGDLLCKVVIETPVSLNEEQKELLRQFQQSLGDTGKSHSPKENSFFDGVKKFFEDMKP",
+            "annotation": {
+              "id": "Q1QSX1",
+              "description": "Chaperone protein DnaJ",
+              "score": 0.9986444115638733,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107153",
+              "strand": "reverse",
+              "start": 308609,
+              "end": 309637
+            },
+            "sequence": "MPARQSPASRRWRMLQTLAVTTALAGLLSACGVHPRPYTLASPEQKSEFPEIQWCGTLRLPGKWLDDTPVGGLSDIGWDQDESLLYAVSDRGWLHRLRLAFRHGELVGAKALNTYTLRDETDVSLRGALSDAEGLQLLRANNERRGDSRLVISFEQQPRVEHFLPSGLAVSEPFTPMGARGAAPNNGMEALTLHPEYGMLAGLEATPEGMSDGMTRIFSLDDKHEWSYPLASDTGSSLTAMEMLPDGDMLMLERAFSPPFPLVISLRRAHLGEPGTQAEVRTLARLSSGDGWSLDNFEGLTHLEGNRFLMISDDNFSSFQTTLLSCFAVIEPEAFTAESAPE",
+            "annotation": {
+              "id": "Q9I6G4",
+              "description": "Calcium-regulated beta-propeller protein CarP",
+              "score": 0.8591352701187134,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107154",
+              "strand": "forward",
+              "start": 309848,
+              "end": 310654
+            },
+            "sequence": "MTRIAIMGVAGRMGRTLVEAVGAVEGLTLAAGIVESGSSLAGVDIGELAGQGRLGVVASDSLAAVVDDFDVVIDFTAPQVTLANLALCAEHGKRMVIGTTGFTPEQLEQLDGYRDSVPFVFAANMSSGVNLTLKLLETAARALGDAGYDIEIIEAHHRHKVDAPSGTALAMGEAVAHSIGRDLATHGVFAREGQCGPRTDKEIGFATVRAGDIVGEHTVMFATEGERIEITHKASSRMTFAKGAARAAEWLSGREVGRYDMQDVLGLK",
+            "annotation": {
+              "id": "Q1QSX7",
+              "description": "4-hydroxy-tetrahydrodipicolinate reductase",
+              "score": 0.9969487190246582,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107155",
+              "strand": "forward",
+              "start": 311256,
+              "end": 312401
+            },
+            "sequence": "LIKPAILALEDGSVFHGSAIGADGQTSGEVVFNTAMTGYQEILTDPSYTRQIVTLTYPHIGNTGINDEDTESDSVAAAGLVIRDLPLLASNFRSTRSLDQYLRDENVVGIADIDTRRLTRILREKGSLNGAILAGEDAQGEDAVERALEAARAFPGLKGMDLAKEASCSEQFEWHEGEWTLGEGYADTRESERPFHVVAYDYGVKHNILRMLASRGCRLTVVPAQTPAAEVLAFNPDGVFLSNGPGDPEPCDYAITAIREVLETDTPVFGICLGHQLLALASGASTVKMGHGHHGANHPVQDLDSGVVMITSQNHGFAVDEAGMPSSLRATHKSLFDGSLQGIERTDRPAFSFQGHPEASPGPQDVAPLFDRFIEMMRARR",
+            "annotation": {
+              "id": "Q6LUK6",
+              "description": "Carbamoyl phosphate synthase small chain",
+              "score": 0.9946027398109436,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107156",
+              "strand": "forward",
+              "start": 312469,
+              "end": 315699
+            },
+            "sequence": "MPKRTDLNSILIIGAGPIVIGQACEFDYSGAQACKALREEGYRVILVNSNPATIMTDPVMADATYIEPITWETVARIIEKERPDAILPTMGGQTALNCALALEREGVLEQYGVEMIGANADTIDKAEDRDRFDKAMKKIGLACPKAKVAHSMEEAWEIQAELGFPSIIRPSFTMGGSGGGVAYNREEFEEICHRGFELSPTRELLIDESLLGWKEYEMEVVRDKNDNCIIVCAIENFDPMGVHTGDSITVAPAQTLTDKEYQLMRDASLAVLREIGVETGGSNVQFGICPDTGRMVVIEMNPRVSRSSALASKATGFPIAKIAAKLAVGYTLDELQNDITGGKTPASFEPSIDYVVTKIPRFTFEKFPQANDRLTTQMKSVGEVMAIGRTFQESLQKALRGMETGVDGLDPIVENFSDENMARIKGELQAAGAERIFYIADAMRAGLDIEEIFRLTNIDRWYLVQLADLIAQEGAVAASSLGEMDADRLFRLKRKGFSDARLARLMGVSEKAFRKHRQKQGIRPVYKRVDTCAAEFASDTAYMYSTYEEECEAEVSDKKKIMVLGGGPNRIGQGIEFDYCCVHASLAMRADGYETIMVNCNPETVSTDYDTSDRLYFEPVTLEDVLEIADKEQPVGVIVQFGGQTPLKLARELEAAGVPIIGTTPDAIDRAEDRERFQQMIEKLGLIQPENTTARSFEEAFVKAEVIGYPLVVRPSYVLGGRAMEIVYSAAELENYMTHAVKVSNDSPVLLDHFLNAAIEVDIDAVSDGKQVVIGAIMQHIEQAGIHSGDSACALPPYSLPADVQEEMREQVKRMALELNVVGLMNVQLAWQDGVIYVIEVNPRASRTVPFVSKCIGQSLAQIAARCMAGQTLEEIGFTQEIVPTFYSVKEAVLPFAKFPGVDPILSPEMKSTGEVMGSGDTFAEAFYKAQLGAGEAIPTLTGDRKAFLSVREFDKAGVIEVARSLVTLGFTLCATRGTAEVIAAAGLEVEPVNKVFEGRPHIVDMIKNGEIAYIVNTTEGRQAINDSSVIRRTALAHKVPYATTLAGANAVCMALAYGNDVKVRRLQDMHAGVMI",
+            "annotation": {
+              "id": "Q8RSS3",
+              "description": "Carbamoyl phosphate synthase large chain",
+              "score": 0.9988624453544617,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107157",
+              "strand": "forward",
+              "start": 315696,
+              "end": 316172
+            },
+            "sequence": "MSRSPMTVEGEDRLRKELEHLKGTERPRVIADIAEAREHGDLKENAEYHAAREQQGFIEGRIQEIESKLSMSQVIDVTKLPKTGKVIFGTTVDLMNLDDDSEVRYRIVGEDEASIKDGKISVTSPIARALIGKEEGDVVVVRTPGGDVEYEISEVHHI",
+            "annotation": {
+              "id": "Q87LZ2",
+              "description": "Transcription elongation factor GreA",
+              "score": 0.998150110244751,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107158",
+              "strand": "reverse",
+              "start": 316442,
+              "end": 316756
+            },
+            "sequence": "MSLSQSQKKAFRSIGHHLDPIVTVSENGLSEGVVTELERALHDHELIKLKLAINDREARGEVARHLCSETGATLIQSIGKIALLYRRNPQAKPKLSNVQRFSEK",
+            "annotation": {
+              "id": "P95453",
+              "description": "Probable RNA-binding protein PA4753",
+              "score": 0.9926456809043884,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107159",
+              "strand": "forward",
+              "start": 317069,
+              "end": 317659
+            },
+            "sequence": "MKEHFDDAYVQRSWADGYRSRASYKLIEIDDKDRLLKPGATVIDLGAAPGGWSQIAADRVGMEGVVIASDILEMDALAGVDFIQGDFTEEAVLNQILATLGDRPVDLVISDMAPNMSGMSAIDQPAGMYLVELALDLARQTLKPGGNFLVKVFQGEGFDAYLKDMRGSFKKVVTRKPEASRARSREVYLLGQGFKG",
+            "annotation": {
+              "id": "Q1QSY2",
+              "description": "Ribosomal RNA large subunit methyltransferase E",
+              "score": 0.9961249232292175,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107160",
+              "strand": "forward",
+              "start": 318146,
+              "end": 320146
+            },
+            "sequence": "LNDMAKNLILWLIIAAVLLTVFNNFSVDTSPQAMNYSQFVQQVQNDRIKSVTIDGYTIEGERADGSSFTTIRPAASDPKLMDDLLANKVEVIGKKPEQQSLWTRLLIASFPILIILAIFMFFMRQMQGGGAGKGGPMSFGKSKAKLLSQDQIKTTFSDVAGCDEAKEEVEELVDFLKDPSKFQRLGGQIPRGVLMVGPPGTGKTLLAKAIAGEAKVPFFSISGSDFVEMFVGVGASRVRDMFEQAKKQAPCIIFIDEIDAVGRHRGSGMGGGHDEREQTLNQLLVEMDGFEANDGIIVIAATNRPDVLDPALLRPGRFDRQVTVALPDIRGREHILGVHLRKVPMGDDVVPVNIARGTPGFSGADLANLVNEAALFAARRNKRLVGMEELELAKDKIMMGAERKSMVMSEKEKRNTAYHESGHAIIGLVMPEHDPVYKVSIIPRGRALGVTMFLPEEDRYSYSRQQIISQICSLFGGRIAEEMTLGPNGVTTGASNDIKRATELAHNMVAKWGLSSEMGPIMYDEDESHQFLGGPGQGGGKLKSGDTTSRLDKEVRRIIDECYAKAQQILEENRDKLDAMTEALMTYETIDAEQLADIMAGRAPRPPKDWGGPASGGDGGLVAPVADTPKAEAPEAPKADDDADGSEDDDSNRRRPSDPLGGPSGH",
+            "annotation": {
+              "id": "P63343",
+              "description": "ATP-dependent zinc metalloprotease FtsH",
+              "score": 0.9966153502464294,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2648501238",
+              "contigId": "Ga0100836_106",
+              "elemType": "CDS",
+              "cdsShorthand": "2649107161",
+              "strand": "forward",
+              "start": 320562,
+              "end": 321455
+            },
+            "sequence": "MTNSALSTPLEPRVGHLMSLECAGHLLDLSRPRVMGILNVTPDSFSDGGRSATLDAALRNAEQMLADGAAMIDVGGESTRPGATPVSTEEELERVCPVVERLVSELGALVSIDTSNPQVMRETARLGAGMINDVRALNRDGALEAAADSGLPVCLMHMRGEPDTMQQDTHYAQSIEQEVRTFLAARIAACEAAGIARERLLLDPGFGFGKSLQDNLRLYHRMAQLHEFNLPLLIGTSRKSMIGNALGRAVEDRLAGNLALTALAVRDGARLFRVHDVAPTVDAVDMAWAVLQEGTIR",
+            "annotation": {
+              "id": "P57696",
+              "description": "Dihydropteroate synthase",
+              "score": 0.9838795065879822,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          }
+        ],
+        "matchTaxonomy": {
+          "domain": "Bacteria",
+          "phylum": "Pseudomonadota",
+          "class_": "Gammaproteobacteria",
+          "order": "Pseudomonadales",
+          "family": "Halomonadaceae",
+          "genus": "Cobetia",
+          "species": "Cobetia amphilecti"
+        }
+      },
+      {
+        "score": 0.99915403,
+        "matchIndex": 10,
+        "contig": [
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401672",
+              "strand": "reverse",
+              "start": 6544,
+              "end": 7194
+            },
+            "sequence": "MAYTENLAIIEMQEEQRSKRGVSTFSMGELECPTGQIIAADPFMQPDERPFVRTVKPGRYPITLYGADGGIALATLRIAVGTVAYWEMALCTGQNMTDLEPGEYYGYPVDTGYGCFMDIMGYRALKARETFEWEQDPEYDGDYVNGILFPDIEQPPADHVLHRPLPDQPGVAVFMSGFGDGFYASYWGMSATNEPLVLATDFNLLENATAYSMRKR",
+            "annotation": {
+              "id": "Q5UP68",
+              "description": "Uncharacterized protein R608",
+              "score": 0.9083268046379089,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401673",
+              "strand": "forward",
+              "start": 7450,
+              "end": 7791
+            },
+            "sequence": "VLSILAVQAQAQWKTRVESEVFPRATYATMTGMDGKDRGIKISCESGTTTLSLLKQQNSQPYGHTKQDSRETYAMRLTTGKETLELDFALANQRNDDYIAFEDQDYLTTQHAL",
+            "annotation": {
+              "id": "P77162",
+              "description": "Uncharacterized protein YkfB",
+              "score": 0.8868703842163086,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401675",
+              "strand": "reverse",
+              "start": 8524,
+              "end": 9003
+            },
+            "sequence": "MGKKKKAAPGGNLIAQNRKARHEYHIEETFEAGLELAGWEVKSLRAGKGQLTDTYIHIRNGQAWLLGSHFTPLSTASTHTVVEPDRTRKLLMHKKEIARIFSKTQDKGHTCVPLRLYWKGHLVKCEIALVVGKKLHDKRADEKNRDWERQKGRIMRSQN",
+            "annotation": {
+              "id": "Q1QSW3",
+              "description": "SsrA-binding protein",
+              "score": 0.9947722554206848,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401676",
+              "strand": "forward",
+              "start": 9170,
+              "end": 9601
+            },
+            "sequence": "MPVVDKTAFVRHSCQKMFDLVNDFESYPQFLPGCKAARVLEQGDDFIVGEITLGKGGITQAVATRNQLTAPERIDLSLVKGPFRSFSGYWSFTPEGEGCRVHLHIEFTFGNMLLGMAFGQLFSQAAAQQVVSFTQRADQLYGA",
+            "annotation": {
+              "id": "O68560",
+              "description": "Ribosome association toxin RatA",
+              "score": 0.9903678894042969,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401677",
+              "strand": "forward",
+              "start": 9598,
+              "end": 9930
+            },
+            "sequence": "MTMRTAEPTSPMLAIEVAYASETEQVLLRCKVPVGTTVRQAFVQSGIDRHMEALTLDDLASVPLGIFSRPVHDPDTQQVQHGDRIEGYRPITCDPKQMRRMRAAQRPLRQ",
+            "annotation": {
+              "id": "Q87WN4",
+              "description": "UPF0125 protein PSPTO_4512",
+              "score": 0.980491578578949,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401678",
+              "strand": "reverse",
+              "start": 10097,
+              "end": 10465
+            },
+            "sequence": "MGCLLGLLAGCSFFSVYKRDIPQGNLVSESMVSQLKVGMTREQVVYVMGNPLLDNAFDANEWDYIYQVHKADGKVVSRRVSITFHNGLIGAIDKEGVDNSTITVNERPAATESTSVTPQISD",
+            "annotation": {
+              "id": "F0KFM4",
+              "description": "Outer membrane protein assembly factor BamE",
+              "score": 0.9860792756080627,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401679",
+              "strand": "forward",
+              "start": 10567,
+              "end": 11031
+            },
+            "sequence": "MSDKNHELRQAGLKVTLPRLKILQILEATREEEELHLSAEDVYKALLDAGEDVGLATVYRVLTQFEAAGLVVRHNFDGGHAVFEMSPEDHHDHMLCLESGEVIEFFDPEIERRQRELAEERGYELVDHALVLYVRPKGSKVTRKSSLRRTPTSS",
+            "annotation": {
+              "id": "Q03456",
+              "description": "Ferric uptake regulation protein",
+              "score": 0.9797346591949463,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401680",
+              "strand": "forward",
+              "start": 11226,
+              "end": 11543
+            },
+            "sequence": "MKTILLYVVTALAEIAGCYLPALWLKQHGSPWLLVPAAVSLSLFAWLLTLHDAASGRVYAAYGGVYIGVALLWLWGVDGIRPSVWDIAGVLVALAGMGIIVCQPR",
+            "annotation": {
+              "id": "A1W5M0",
+              "description": "UPF0060 membrane protein Ajs_1326",
+              "score": 0.9968440532684326,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401681",
+              "strand": "reverse",
+              "start": 11775,
+              "end": 13451
+            },
+            "sequence": "MLTQLTIHHFAIVDHLELDFASGMTAITGETGAGKSILLDALSLCLGARADASSVRAGKERAELTARFDIARLPDAKAWLNARELGTDECLLRRVISIQGRTRAWINGTPCTLADMKALGGMLIDIHAQHAQQSLLHASHHLKLLDEFAGTDEQLTQVREAWKEWQRLRKRLRQLQDDGDALQARRQLLRYQVEELDTLALQDDELDALEAEQARLAHAEQTLAQIEAASRLCTDDNSGALPRLNQALACLAELPEHDAAALANTLTMLEEARIQLEEAQSELDHHASNVELDPSRLQIVDERLSDVYRIARKHHVMPDEVSALHRRLQHELSELEGGDDDIEQLTQRTQDMQDQWRQLARSLSHQRQRHAPAFSREVQQQLAFLGMDKATFEVSVTPLEIAQADGLDHVQFLISANPGQPTRPLARVASGGELSRISLAIQVVAAQHSTMPTLVFDEVDVGISGATAEIVGQLLRQLSHNGQIFCVTHLPQVAAQAHQHLHIEKHSNRNTTRTHMARLDESGRIQELARMLGGIHLSEHTLAHAREMLHSGQQKQAQ",
+            "annotation": {
+              "id": "P05824",
+              "description": "DNA repair protein RecN",
+              "score": 0.9966016411781311,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401682",
+              "strand": "forward",
+              "start": 13772,
+              "end": 14350
+            },
+            "sequence": "MSRDSNTENEQERNEVPAEDTVEQAQPADAADTEQADSPEARIAALEEEVSKAKDQALRAAADAQNARRRAEQDAEKARKFALERFVKELLPVVDSLEKALESLQNDEGASVHREGLEMTLKMQHSALEKFGVKQLEPQGEPFDPQYHEAMTMVPNPAMEPNTVMDVLQKGYTLNDRLVRPAMVVVSKGVDA",
+            "annotation": {
+              "id": "Q2NS02",
+              "description": "Protein GrpE",
+              "score": 0.9940025806427002,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401683",
+              "strand": "forward",
+              "start": 14560,
+              "end": 16497
+            },
+            "sequence": "MGRIIGIDLGTTNSCVAVLDGDKPRVIENAEGGRTTPSIVAYTDDGEILVGQAAKRQAVTNPKNTLYAVKRLIGRKFGDDVVQKDINMVPYDIVKADNGDAWVEVKGKKMAPPQVSAEVLKKMKKTAEDYLGEEVTEAVITVPAYFNDSQRQATKDAGRIAGLDVKRIINEPTAAALAYGMDKSRGDKTIAVYDLGGGTFDVSIIEVADVDGETQFEVLSTNGDTFLGGEDFDNAVINYLVEQFKADSGIDLSGDSLAMQRLKEAAEKAKIELSSAQQTDVNLPYITADQTGPKHLNVKVTRAKLEALVGDLVQRSLDPCKTALADAKLSASDIDDVILVGGQTRMPLVQQKVSEFFGKDARKDVNPDEAVALGASIQGGVLGGDVKDVLLLDVTPLTLGIETMGGVMTPVIEKNTTIPTKKTQVFSTAEDNQTAVTIHVLQGERKQATQNKSLGRFDLSDIPPAPRGVPQIEVAFDLDANGILSVSAKDKATGKEQSIVIKSSGGLSDEEIDQMVRDAEAHQDEDKKFEEMVQLRNQADGMIHATRKTLEEAGDKATAEEKEKIESAANALEEALKGDDKDDIQAKLNALTEASGSLAQKLYAEQAQQQGQPQGAGEQGAQGNSQDENVVDAEYEEIKDDDKKS",
+            "annotation": {
+              "id": "Q1QSX0",
+              "description": "Chaperone protein DnaK",
+              "score": 0.9990527033805847,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401684",
+              "strand": "forward",
+              "start": 16756,
+              "end": 17916
+            },
+            "sequence": "MSKRDYYEVLGVERQADQREIKKAYRRLAQKLHPDRNPGDESAAAKFQEVSEAYEVLSDESKRAAYDQFGHAGVDGQSGGFGGGAGGFGGGFGEGGFGDIFGDAFSEFFGGGRGGRRDPNAPRRGADLRYNLEISLEEAVGGTSVDIRIPRMAQCDHCHGDGAEPGSSRKTCPTCNGMGKVRMQQGFFAVEQPCPTCQGRGEIIEKPCTKCHGEGRVRETRTLSVTIPAGVDTGDRIRLTGEGEGGLNGGPAGNLFVEVTLRPHPIFRRDGTHLHCEVPVSFVDATLGTELEIPTLNGRVKLSVPPETQTGKVLRLRGKGVRSVHGGGPGDLLCHLVLETPVNLTEEQKTLLRQFQSSLEGTGDRHSPRKEGWFDSVKKFFEDLRG",
+            "annotation": {
+              "id": "Q1QSX1",
+              "description": "Chaperone protein DnaJ",
+              "score": 0.9983973503112793,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401685",
+              "strand": "reverse",
+              "start": 18196,
+              "end": 19164
+            },
+            "sequence": "MTHPLDDLLARVPFAILDGALASELENRGCDLNDALWSARVLAEQPALIAQVHRDYFDAGADIDISASYQASLAGYAQAGINAERARQLMAESATLLNQARQDYLDAHPDHTLPMLVAGSVGPYGAWLADGSEYVGNYTHDERTLKDFHRPRIAALLEEGVDILACETIPMLAEAQALTHLLEEEFPEATAWIAFSVQDDAHIADGTPIEECAIWLSQHPQIKAIGLNCTGMQHVEGMVKRLASATTLPIVIYPNAGEHYDPTDKRWYPCETAQSLGSHASLVQRWYAAGARIIGGCCRTTPNDTRTVAKVRQVLLDAETQR",
+            "annotation": {
+              "id": "O31463",
+              "description": "Homocysteine S-methyltransferase YbgG",
+              "score": 0.9967126846313477,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401686",
+              "strand": "reverse",
+              "start": 19341,
+              "end": 20756
+            },
+            "sequence": "MSDIPPHDPLPSDESTAGYQRSMKMRHVVMLSLGGVIGTGLFMSSGATVGQAGPIGAILAYVIGGFVAYLVMMSLGELAVHMPETGAFSAYATRYIGPATGYTVAWLYWMTWTVALGAELTTSGQLMQQWFPGIPVWHWSLLFGVAITLMNIFTTRLFAESEFWLSLLKVIIVVVFLMVGMAAITGLIHPSQSVVSPGLHQLVKDGIFPNGLMPVLSSLLIVTFAFSGTELIGIAAGETANPSKTVPKAIRMTLWRLIIFFVGAIFVIATLLPYKQAGLTDSPFVMVFQNIGIPYTDHIMRFVILTAMLSAASSGLYASSRMLWTVSQHRMLPRFFSWQTAKGIPLVAIMFSMLGGLPALLTKYYPTGTVYIALTSLAAFAVVAVWMSISVSHIMFRRSLAREGKSSHSLEYRSPGYPWVPAISFLACVAAFLGMAFDPIQRPSLYCGLSFTALCYLSYYTVRCFRKCKSI",
+            "annotation": {
+              "id": "Q47689",
+              "description": "Probable S-methylmethionine permease",
+              "score": 0.9969857335090637,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401687",
+              "strand": "forward",
+              "start": 20971,
+              "end": 21780
+            },
+            "sequence": "MTRIAILGAAGRMGRMLAQATLQTDGAELGAAIVRPGSSLIGADVGELIGAGKCGVAVTDSLDKVIDAIDVVIDFTTPALTEQAVALCKAHGKAIVIGTTGLDEAQEKTLGEQAKAVPVVYAANMSTGVNLSLNLLATAARALADAGYDIEVIEAHHRHKVDAPSGTALMMGRAVAEACGRDLRTQGVFSREGRCGPRTDDEIGFSVVRAGDIVGEHTVMFATEGERIEITHKASSRMTFANGAVRAALWVAQAQPGLYDMQDVLGLRD",
+            "annotation": {
+              "id": "Q1LJ29",
+              "description": "4-hydroxy-tetrahydrodipicolinate reductase",
+              "score": 0.9955873489379883,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401688",
+              "strand": "forward",
+              "start": 21880,
+              "end": 22941
+            },
+            "sequence": "MAQRGRPLWTMALKSLLGGYRYRGPRTGHFDGERFGNQPGLRRIGFRDLWQLRRERRHMTPWSWEEIPAAPTPVARVEDDSVRITFINHATFLIQFAGMNLLTDPVWSKRVSPLRWAGPRRFHAPGIPLDRLPLIDAVLLSHNHYDHCDFHTLRALLRRNPRMRLIAPLGHDVMAEELGFLRQESLDWWSSCRLKGRAITLVPARHWGARTLWDKCRTLWGGFVIETPQGPLYFAGDTAYSDGFQRIRTRMGPMSLALLPVGAYQPHWCMEDVHLEPHEAVRAHHELGCQASMACHFGCFSLANDGQHEPQGVVESLRHHGHIDAQTLHLPTPGAPMIFRDGQLKPLADADRG",
+            "annotation": {
+              "id": "P64760",
+              "description": "Uncharacterized protein Mb0930",
+              "score": 0.9842575788497925,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401689",
+              "strand": "forward",
+              "start": 23191,
+              "end": 24342
+            },
+            "sequence": "LITPAILALEDGSIFHGISIGAEGHTHGEVVFNTAMTGYQEILTDPSYLQQIVTLTYPHIGNTGINHEDVESDRVCAAGLVIRDLPRLASNFRSQMALDDYLREQNVVGIADIDTRRLTRLLREKGSLKGAILAGSEAQGDDAEARAIALASSFPGLKGADLAQVATTQERLEWHQGEWQLAHGYSDAEKQERPYHVVAYDFGTKYNIFRMLTERGCRLTIVPATTPADEVLALAPDGVFLSNGPGDPEPCTYAIDAIRTVMAQKIPTFGICLGHQLLALASGARTAKMSHGHHGANHPVQDLDSGKVLITSQNHGFAVDEESLPAHLRATHRSLFDGTLQGIERTDCPAFSFQGHPEASPGPHDVAPLFDRFIELMKANKTA",
+            "annotation": {
+              "id": "Q8RSS4",
+              "description": "Carbamoyl phosphate synthase small chain",
+              "score": 0.9920388460159302,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401690",
+              "strand": "forward",
+              "start": 24445,
+              "end": 27675
+            },
+            "sequence": "MPKRTDINSVLIIGAGPIVIGQACEFDYSGAQACKALREEGIRVILVNSNPATIMTDPVMADATYIEPITWQAVERIIEQERPDALLPTMGGQTALNCALDLEREGVLERYGVEMIGANADTIDKAEDRDRFDKAMRAIGLECPKARIAHSMDEAWEIQGELGFPCIIRPSFTMGGSGGGVAYNREEFETICTSGFDLSPTRELLIDESLLGWKEYEMEVVRDRKDNAIIVCSIENFDPMGVHTGDSITVAPAQTLTDKEYQIMRDASLAVLREIGVETGGSNVQFGVDPETGRMVVIEMNPRVSRSSALASKATGFPIAKIAAKLAIGYTLDELDNDITGGATPASFEPAIDYVVTKIPRFTFEKFPQANDRLTTQMKSVGEVMAIGRTFQESLQKALRGLETGVDGLDPRIDELSYESEQQLQRELQSAGPERILYVADAFRFGYSVDRVFGYTNIDPWFLVQLEELVAAEKWVTEHTLADLDYATLRRLKRQGFGDARLATLLNISEQVVRDHRHALKLRPVYKRVDTCAAEFSTSTAYLYSTYEEECEAEPTSNRKIMVLGGGPNRIGQGIEFDYCCVHAALALHEDGYETLMVNCNPETVSTDYDTSDRLYFEPVTLEDVLEIVHKEQPEGVIVQFGGQTPLKLARALEAAGVNIIGTTPDAIDRAEDRERFQHMIDKLGLRQPPNATARSFDEAFAKAEAIGYPLVVRPSYVLGGRAMEIVYSPSELEHYMTTAVRVSNDSPVLLDHFLSAAVEVDIDAVSDGELVVIGSVMQHVEQAGVHSGDSACSLPPYSLPKDVQDEMRRQVKAMAVELGVVGLMNVQMAWQDGLIYIIEVNPRASRTVPFVSKCIGRSLAQVAARCMAGQTLASQGFTEEIIPAFYSVKEAVFPFNKFPGVDPILSPEMKSTGEVMGSGTTFAEAFYKAQIGAGAPLPQKNGPRTAFLSVRDPDKKGIIEVAHALIALGFKLVATRGTADALSSAGLPVVIVNKVYEGRPHIVDMLKNGDVDYIVNTTEGRQAISDSSEIRRTALARKVPYATTLAGAQAICMALEYGDRLNVRRLQDLHAGATE",
+            "annotation": {
+              "id": "Q8RSS3",
+              "description": "Carbamoyl phosphate synthase large chain",
+              "score": 0.9984970092773438,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401691",
+              "strand": "forward",
+              "start": 27672,
+              "end": 28148
+            },
+            "sequence": "MNKVPMTVNGETRLREELVQLKTVARPRVIADIAEAREHGDLKENAEYHAAREQQGFIEGRIQEIEGKLSNAQVIDVTKLTNTGKVIFGTTVTLLNLDTDATTRYRIVGEDEADIKSGMISLTSPIARALIGKEEGDIVNVRTPGGDVEFEISDVEYI",
+            "annotation": {
+              "id": "P43881",
+              "description": "Transcription elongation factor GreA",
+              "score": 0.9984055757522583,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401692",
+              "strand": "forward",
+              "start": 28425,
+              "end": 29255
+            },
+            "sequence": "MALIWYLLAGVCSGLLAGMFGIGGGMIIVPVLVYCFTALNGVEAGVAMHVALGTSLAIIVFTSLNAVIAHQRKGAVEWGVLKGMTIGIAIGAVLGAATASWLSGAALQVIVGLFSLTMAAQQVREIVKGKRQTGNEATQADYPLPSRMWQYGSGAVIGWASALFGIGGGSLTVPLLTSKKLSMHRAVATSSACGLAVALFGAAGNMAFGWGKAGLPAWSIGYVNLPALCGVAVASMLSAHLGVRIAHRASGVQLKLGFALLMLCVGIDFLYSAWWG",
+            "annotation": {
+              "id": "P44070",
+              "description": "Probable membrane transporter protein HI_0902",
+              "score": 0.9869801998138428,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          },
+          {
+            "cdsId": {
+              "sampleId": "2556921094",
+              "contigId": "Q387DRAFT_scaffold00022.22",
+              "elemType": "CDS",
+              "cdsShorthand": "2557401693",
+              "strand": "reverse",
+              "start": 29366,
+              "end": 29737
+            },
+            "sequence": "MPADRVDWEVDYRTFLGDQHTMPLTSAQKKQFRSIGHHLSPIVQISENGLSAGAVEEAKRALADHELIKVKLMSGERDERAAQIEALIEQTRAELVQTIGKIALLYRRNRDGSKLSNVTRYSV",
+            "annotation": {
+              "id": "P95453",
+              "description": "Probable RNA-binding protein PA4753",
+              "score": 0.9618383049964905,
+              "percentIdentity": null,
+              "queryCoverage": null
+            }
+          }
+        ],
+        "matchTaxonomy": {
+          "domain": "Bacteria",
+          "phylum": "Pseudomonadota",
+          "class_": "Gammaproteobacteria",
+          "order": "Pseudomonadales",
+          "family": "Halomonadaceae",
+          "genus": "Zymobacter",
+          "species": "Zymobacter palmae"
+        }
+      }
+    ]
+  },
+  "status": "ok"
+}
